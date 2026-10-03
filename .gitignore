@@ -63,3 +63,9 @@ $RECYCLE.BIN/
 ~$*
 *.tmp
 
+# University docs & project pitch files
+*.pdf
+*.docx
+*.doc
+
+

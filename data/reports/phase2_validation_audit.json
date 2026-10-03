@@ -1,4 +1,28 @@
 {
+  "metadata": {
+    "validation_timestamp_utc": "2026-10-03 09:05:31 UTC",
+    "script_used": "scripts/reconcile_phase2.py",
+    "corpus_size_works": 1000,
+    "raw_dataset_file": "C:\\Users\\Yobra\\Documents\\UNI docs\\4.1\\project\\data\\raw\\openalex_raw_works.jsonl",
+    "raw_dataset_sha256": "716d19429ebf275a936d525471f677c77dec56c4aa7d66b092f8e51144362e5d",
+    "normalized_dataset_file": "C:\\Users\\Yobra\\Documents\\UNI docs\\4.1\\project\\data\\processed\\normalized_works.jsonl",
+    "normalized_dataset_sha256": "580cb7583725f41e89f60ac25e1a28930d6961509142048b77c733f8c223cb6d"
+  },
+  "node_counts": {
+    "Paper": 1000,
+    "Researcher": 14860,
+    "Institution": 4125,
+    "Topic": 743,
+    "Year": 44,
+    "Total": 20772
+  },
+  "relationship_counts": {
+    "PUBLISHED_IN": 1000,
+    "AUTHORED": 19553,
+    "AFFILIATED_WITH": 14616,
+    "ABOUT": 2955,
+    "Total": 38124
+  },
   "missing_researcher_ids": {
     "total_raw_author_instances": 19703,
     "missing_id_instances": 527,
@@ -25,26 +49,6 @@
       [
         "P. A. Sanchez",
         3
-      ],
-      [
-        "Stein Emil Vollset",
-        2
-      ],
-      [
-        "Sayed Saidul Alam",
-        2
-      ],
-      [
-        "Anowar Hossain",
-        2
-      ],
-      [
-        "Diego Pacheco",
-        2
-      ],
-      [
-        "Robert Watson",
-        2
       ]
     ]
   },
@@ -54,7 +58,7 @@
     "sample_collisions": [
       {
         "display_name": "Ministry of Health",
-        "distinct_id_count": 24,
+        "count": 24,
         "ids": [
           "I4210140946",
           "I4210117370",
@@ -132,37 +136,11 @@
           "https://ror.org/0357r2107",
           "https://ror.org/01b1c8m98",
           "https://ror.org/00hy3gq97"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "International Institute of Tropical Agriculture",
-        "distinct_id_count": 8,
+        "count": 8,
         "ids": [
           "I4210111914",
           "I64180646",
@@ -192,21 +170,11 @@
           "https://ror.org/0556kt608",
           "https://ror.org/00ac63h31",
           "https://ror.org/05cam4g78"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "Stockholm Environment Institute",
-        "distinct_id_count": 7,
+        "count": 7,
         "ids": [
           "I4210154877",
           "I1340161457",
@@ -233,20 +201,11 @@
           "https://ror.org/017w08b10",
           "https://ror.org/01mxmb797",
           "https://ror.org/04zpv5q97"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "Ministry of Public Health",
-        "distinct_id_count": 6,
+        "count": 6,
         "ids": [
           "I4210097567",
           "I1315836254",
@@ -270,19 +229,11 @@
           "https://ror.org/01yzgk702",
           "https://ror.org/02dbz7n48",
           "https://ror.org/04bgfrg80"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "M\u00e9decins Sans Fronti\u00e8res",
-        "distinct_id_count": 6,
+        "count": 6,
         "ids": [
           "I4210128224",
           "I4210129271",
@@ -306,19 +257,11 @@
           "https://ror.org/04237en35",
           "https://ror.org/041qyrj45",
           "https://ror.org/0506t0t42"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "Institut de Recherche pour le D\u00e9veloppement",
-        "distinct_id_count": 5,
+        "count": 5,
         "ids": [
           "I4210166444",
           "I4210107956",
@@ -339,18 +282,11 @@
           "https://ror.org/032qezt74",
           "https://ror.org/00bnthp71",
           "https://ror.org/015q23935"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "International Crops Research Institute for the Semi-Arid Tropics",
-        "distinct_id_count": 4,
+        "count": 4,
         "ids": [
           "I4210109136",
           "I4210163774",
@@ -368,17 +304,11 @@
           "https://ror.org/0541a3n79",
           "https://ror.org/02g43d244",
           "https://ror.org/01fhvxx06"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "International Maize and Wheat Improvement Center",
-        "distinct_id_count": 4,
+        "count": 4,
         "ids": [
           "I4210153667",
           "I4210137105",
@@ -396,17 +326,11 @@
           "https://ror.org/04d4vcg59",
           "https://ror.org/01yab1r94",
           "https://ror.org/05a2xtt59"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "International Center for Tropical Agriculture",
-        "distinct_id_count": 3,
+        "count": 3,
         "ids": [
           "I4210118691",
           "I64492213",
@@ -421,16 +345,11 @@
           "https://ror.org/02qk18s08",
           "https://ror.org/037wny167",
           "https://ror.org/05920yd65"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None"
         ]
       },
       {
         "display_name": "Centers for Disease Control and Prevention",
-        "distinct_id_count": 3,
+        "count": 3,
         "ids": [
           "I1289490764",
           "I4210102376",
@@ -445,232 +364,7 @@
           "https://ror.org/042twtr12",
           "https://ror.org/00qzjvm58",
           "https://ror.org/047h8wb98"
-        ],
-        "types": [
-          "None",
-          "None",
-          "None"
         ]
-      }
-    ],
-    "cdc_deep_dive": [
-      {
-        "id": "I1289490764",
-        "display_name": "Centers for Disease Control and Prevention",
-        "ror": "https://ror.org/042twtr12",
-        "country_code": "US",
-        "type": null,
-        "openalex_url": "https://openalex.org/I1289490764"
-      },
-      {
-        "id": "I4210102376",
-        "display_name": "Centers for Disease Control and Prevention",
-        "ror": "https://ror.org/00qzjvm58",
-        "country_code": "UG",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210102376"
-      },
-      {
-        "id": "I4210145675",
-        "display_name": "Centers for Disease Control and Prevention",
-        "ror": "https://ror.org/047h8wb98",
-        "country_code": "KE",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210145675"
-      }
-    ],
-    "moh_deep_dive": [
-      {
-        "id": "I4210140946",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/04551r843",
-        "country_code": "BW",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210140946"
-      },
-      {
-        "id": "I4210117370",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/02eyff421",
-        "country_code": "KE",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210117370"
-      },
-      {
-        "id": "I4210166169",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/059f2k568",
-        "country_code": "MZ",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210166169"
-      },
-      {
-        "id": "I1291357265",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/00mrhvv69",
-        "country_code": "SG",
-        "type": null,
-        "openalex_url": "https://openalex.org/I1291357265"
-      },
-      {
-        "id": "I4210109244",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/01qe7f394",
-        "country_code": "CL",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210109244"
-      },
-      {
-        "id": "I4210130707",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/0362za439",
-        "country_code": "OM",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210130707"
-      },
-      {
-        "id": "I4210127754",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/030atj633",
-        "country_code": "SA",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210127754"
-      },
-      {
-        "id": "I4210098440",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/00y6q9n79",
-        "country_code": "ES",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210098440"
-      },
-      {
-        "id": "I4210107649",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/012qr1y49",
-        "country_code": "JO",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210107649"
-      },
-      {
-        "id": "I1303077703",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/00pkvys92",
-        "country_code": "TR",
-        "type": null,
-        "openalex_url": "https://openalex.org/I1303077703"
-      },
-      {
-        "id": "I1336862989",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/00hpqmv06",
-        "country_code": "ZM",
-        "type": null,
-        "openalex_url": "https://openalex.org/I1336862989"
-      },
-      {
-        "id": "I4210165170",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/05prysf28",
-        "country_code": "RW",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210165170"
-      },
-      {
-        "id": "I4210143513",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/042qjjy86",
-        "country_code": "MM",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210143513"
-      },
-      {
-        "id": "I4210163772",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/053ykx779",
-        "country_code": "SZ",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210163772"
-      },
-      {
-        "id": "I4210094897",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/00r8ksq80",
-        "country_code": "BT",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210094897"
-      },
-      {
-        "id": "I4210149476",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/04rkgkn20",
-        "country_code": "SC",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210149476"
-      },
-      {
-        "id": "I4210152602",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/055546q82",
-        "country_code": "VN",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210152602"
-      },
-      {
-        "id": "I4210160660",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/04es3ne34",
-        "country_code": "AO",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210160660"
-      },
-      {
-        "id": "I4210128990",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/02vf30q73",
-        "country_code": "MN",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210128990"
-      },
-      {
-        "id": "I105292261",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/05ddxe180",
-        "country_code": "MY",
-        "type": null,
-        "openalex_url": "https://openalex.org/I105292261"
-      },
-      {
-        "id": "I183053808",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/018k7fz65",
-        "country_code": "KH",
-        "type": null,
-        "openalex_url": "https://openalex.org/I183053808"
-      },
-      {
-        "id": "I4210127845",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/0357r2107",
-        "country_code": "MW",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210127845"
-      },
-      {
-        "id": "I4210103044",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/01b1c8m98",
-        "country_code": "IQ",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210103044"
-      },
-      {
-        "id": "I4210092895",
-        "display_name": "Ministry of Health",
-        "ror": "https://ror.org/00hy3gq97",
-        "country_code": "UG",
-        "type": null,
-        "openalex_url": "https://openalex.org/I4210092895"
       }
     ]
   },
@@ -678,34 +372,34 @@
     "full_graph": {
       "nodes": 20772,
       "edges": 38124,
-      "ccs": 1,
-      "lcc": 20772,
-      "lcc_pct": 100.0,
-      "isolates": 0
+      "total_connected_components": 1,
+      "largest_component_size": 20772,
+      "largest_component_pct": 100.0,
+      "isolated_nodes_count": 0
     },
     "no_year_graph": {
       "nodes": 20728,
       "edges": 37124,
-      "ccs": 2,
-      "lcc": 20722,
-      "lcc_pct": 99.97,
-      "isolates": 0
+      "total_connected_components": 2,
+      "largest_component_size": 20722,
+      "largest_component_pct": 99.97,
+      "isolated_nodes_count": 0
     },
     "core_research_graph": {
       "nodes": 19985,
       "edges": 34169,
-      "ccs": 5,
-      "lcc": 19965,
-      "lcc_pct": 99.9,
-      "isolates": 0
+      "total_connected_components": 5,
+      "largest_component_size": 19965,
+      "largest_component_pct": 99.9,
+      "isolated_nodes_count": 0
     },
     "coauthorship_projection": {
       "nodes": 14860,
       "edges": 448956,
-      "ccs": 169,
-      "lcc": 13246,
-      "lcc_pct": 89.14,
-      "isolates": 10
+      "total_connected_components": 169,
+      "largest_component_size": 13246,
+      "largest_component_pct": 89.14,
+      "isolated_nodes_count": 10
     }
   },
   "degree_distributions": {
@@ -751,9 +445,9 @@
     },
     "papers_per_institution": {
       "min": 1,
-      "p25": 1,
-      "median": 1,
-      "p75": 3,
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 3.0,
       "p95": 13.0,
       "max": 188,
       "mean": 3.54,
@@ -762,12 +456,21 @@
     "papers_per_topic": {
       "min": 1,
       "p25": 1.0,
-      "median": 1,
+      "median": 1.0,
       "p75": 4.0,
       "p95": 14.0,
       "max": 85,
       "mean": 3.98,
       "std": 6.96
     }
+  },
+  "integrity_checks": {
+    "node_pk_uniqueness_pass": true,
+    "referential_integrity_pass": true,
+    "duplicate_node_ids": 0,
+    "papers_without_authors": 0,
+    "papers_without_institutions": 0,
+    "papers_without_topics": 0,
+    "papers_without_years": 0
   }
 }
