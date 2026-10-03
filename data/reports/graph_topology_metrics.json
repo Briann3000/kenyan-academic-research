@@ -1,0 +1,401 @@
+{
+  "topology": {
+    "node_counts": {
+      "Paper": 1000,
+      "Researcher": 14860,
+      "Institution": 4125,
+      "Topic": 743,
+      "Year": 44,
+      "Total": 20772
+    },
+    "relationship_counts": {
+      "PUBLISHED_IN": 1000,
+      "AUTHORED": 19553,
+      "AFFILIATED_WITH": 14616,
+      "ABOUT": 2955,
+      "Total": 38124
+    },
+    "degree_distributions": {
+      "papers_per_researcher": {
+        "min": 1,
+        "max": 35,
+        "mean": 1.32,
+        "median": 1.0
+      },
+      "papers_per_institution": {
+        "min": 1,
+        "max": 188,
+        "mean": 3.54,
+        "median": 1
+      },
+      "papers_per_topic": {
+        "min": 1,
+        "max": 85,
+        "mean": 3.98,
+        "median": 1
+      },
+      "researchers_per_paper": {
+        "min": 1,
+        "max": 100,
+        "mean": 19.55,
+        "median": 9.0
+      },
+      "institutions_per_paper": {
+        "min": 1,
+        "max": 134,
+        "mean": 14.62,
+        "median": 7.0
+      },
+      "topics_per_paper": {
+        "min": 1,
+        "max": 3,
+        "mean": 2.96,
+        "median": 3.0
+      }
+    },
+    "connectivity": {
+      "total_connected_components": 1,
+      "largest_component_size": 20772,
+      "largest_component_pct": 100.0,
+      "isolated_nodes_count": 0
+    },
+    "integrity_checks": {
+      "all_relationships_refer_valid_nodes": true,
+      "duplicate_node_ids": 0,
+      "papers_without_authors": 0,
+      "papers_without_institutions": 0,
+      "papers_without_topics": 0
+    },
+    "top_entities": {
+      "institutions": [
+        [
+          "Kenya Medical Research Institute",
+          188
+        ],
+        [
+          "University of Oxford",
+          145
+        ],
+        [
+          "Centers for Disease Control and Prevention",
+          127
+        ],
+        [
+          "Centers for Disease Control and Prevention",
+          104
+        ],
+        [
+          "World Agroforestry Centre",
+          101
+        ],
+        [
+          "International Livestock Research Institute",
+          97
+        ],
+        [
+          "Harvard University",
+          88
+        ],
+        [
+          "London School of Hygiene & Tropical Medicine",
+          82
+        ],
+        [
+          "University of Nairobi",
+          82
+        ],
+        [
+          "Wageningen University & Research",
+          81
+        ],
+        [
+          "University of Washington",
+          73
+        ],
+        [
+          "KEMRI-Wellcome Trust Research Programme",
+          70
+        ],
+        [
+          "University College London",
+          67
+        ],
+        [
+          "Johns Hopkins University",
+          67
+        ],
+        [
+          "University of Cape Town",
+          65
+        ]
+      ],
+      "topics": [
+        [
+          "Malaria Research and Control",
+          85
+        ],
+        [
+          "Climate change impacts on agriculture",
+          63
+        ],
+        [
+          "Mosquito-borne diseases and control",
+          58
+        ],
+        [
+          "Agricultural Innovations and Practices",
+          50
+        ],
+        [
+          "Agriculture Sustainability and Environmental Impact",
+          44
+        ],
+        [
+          "Global Maternal and Child Health",
+          43
+        ],
+        [
+          "Ecology and Vegetation Dynamics Studies",
+          38
+        ],
+        [
+          "Conservation, Biodiversity, and Resource Management",
+          37
+        ],
+        [
+          "Child Nutrition and Water Access",
+          33
+        ],
+        [
+          "HIV/AIDS Research and Interventions",
+          32
+        ],
+        [
+          "Soil Carbon and Nitrogen Dynamics",
+          32
+        ],
+        [
+          "Agricultural risk and resilience",
+          32
+        ],
+        [
+          "Wildlife Ecology and Conservation",
+          31
+        ],
+        [
+          "Parasites and Host Interactions",
+          29
+        ],
+        [
+          "Species Distribution and Climate Change",
+          27
+        ]
+      ],
+      "researchers": [
+        [
+          "Robert William Snow",
+          35
+        ],
+        [
+          "Simon Iain Hay",
+          34
+        ],
+        [
+          "Philip K. Thornton",
+          28
+        ],
+        [
+          "Kevin Marsh",
+          28
+        ],
+        [
+          "Mario Herrero",
+          26
+        ],
+        [
+          "Zulfiqar Ahmed Bhutta",
+          22
+        ],
+        [
+          "Peter W. Gething",
+          14
+        ],
+        [
+          "Robert F. Breiman",
+          14
+        ],
+        [
+          "Thomas Neil Williams",
+          14
+        ],
+        [
+          "Delia Grace",
+          14
+        ],
+        [
+          "K.E. Giller",
+          13
+        ],
+        [
+          "Anand P. Patil",
+          13
+        ],
+        [
+          "Andrew J. Tatem",
+          13
+        ],
+        [
+          "Bernard Vanlauwe",
+          13
+        ],
+        [
+          "Bekele A. Shiferaw",
+          12
+        ]
+      ]
+    }
+  },
+  "entity_resolution": {
+    "researchers": {
+      "total_unique_ids": 14860,
+      "ids_with_multiple_name_variants": 2,
+      "sample_name_variants": [
+        [
+          "AUTH_SYNTH_28c1f8e9c2c6",
+          [
+            "WILLIAM A. HAWLEY",
+            "William A. Hawley"
+          ]
+        ],
+        [
+          "AUTH_SYNTH_6839cc7974cb",
+          [
+            "DAVID KNOX",
+            "David Knox"
+          ]
+        ]
+      ],
+      "names_shared_by_multiple_ids": 75,
+      "sample_homonyms": [
+        [
+          "raghib ali",
+          [
+            "A5017879318",
+            "A5109248988"
+          ]
+        ],
+        [
+          "lalit dandona",
+          [
+            "A5107828185",
+            "A5103040831"
+          ]
+        ],
+        [
+          "xiaofeng liang",
+          [
+            "A5100713957",
+            "A5108087388"
+          ]
+        ],
+        [
+          "george a. mensah",
+          [
+            "A5108152151",
+            "A5014290409"
+          ]
+        ],
+        [
+          "mohsen naghavi",
+          [
+            "AUTH_SYNTH_9dab486907e8",
+            "A5010918268",
+            "A5011259455"
+          ]
+        ]
+      ],
+      "missing_source_ids_resolved_synthetically": 527
+    },
+    "institutions": {
+      "total_unique_ids": 4125,
+      "ids_with_multiple_name_variants": 0,
+      "sample_name_variants": [],
+      "names_shared_by_multiple_ids": 46,
+      "sample_shared_names": [
+        [
+          "international center for tropical agriculture",
+          [
+            "I4210146893",
+            "I4210118691",
+            "I64492213"
+          ]
+        ],
+        [
+          "stockholm environment institute",
+          [
+            "I4210154877",
+            "I4210152158",
+            "I4210107666",
+            "I37426187",
+            "I4210096323",
+            "I1340161457",
+            "I4210102089"
+          ]
+        ],
+        [
+          "council for scientific and industrial research",
+          [
+            "I4210137126",
+            "I21360634"
+          ]
+        ],
+        [
+          "ministry of health",
+          [
+            "I4210092895",
+            "I4210149476",
+            "I4210127754",
+            "I4210098440",
+            "I4210103044",
+            "I4210163772",
+            "I4210107649",
+            "I4210117370",
+            "I4210166169",
+            "I4210119549",
+            "I4210165170",
+            "I4210130707",
+            "I4210152602",
+            "I4210140946",
+            "I1303077703",
+            "I4210160660",
+            "I4210094897",
+            "I4210143513",
+            "I1336862989",
+            "I4210127845",
+            "I105292261",
+            "I183053808",
+            "I4210128990",
+            "I1291357265",
+            "I4210109244"
+          ]
+        ],
+        [
+          "ministry of public health",
+          [
+            "I4210097567",
+            "I1297502334",
+            "I4210093045",
+            "I4210137632",
+            "I4210114437",
+            "I1315836254"
+          ]
+        ]
+      ],
+      "missing_source_ids_resolved_synthetically": 0
+    },
+    "topics": {
+      "total_unique_ids": 743,
+      "ids_with_multiple_name_variants": 0
+    }
+  }
+}
