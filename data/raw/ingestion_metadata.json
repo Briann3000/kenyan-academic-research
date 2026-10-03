@@ -1,0 +1,11 @@
+{
+  "source": "OpenAlex",
+  "filter_query": "institutions.country_code:KE",
+  "requested_max_works": 1000,
+  "per_page": 100,
+  "records_ingested": 1000,
+  "start_time": "2026-10-03T07:41:45.211942+00:00",
+  "end_time": "2026-10-03T07:42:46.361816+00:00",
+  "duration_seconds": 61.15,
+  "timestamp_utc": "2026-10-03T07:42:46.361876+00:00"
+}

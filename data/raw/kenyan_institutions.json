@@ -1,0 +1,7011 @@
+[
+  {
+    "id": "https://openalex.org/I12859529",
+    "openalex_id": "I12859529",
+    "ror": "https://ror.org/02y9nww90",
+    "display_name": "University of Nairobi",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.uonbi.ac.ke/",
+    "works_count": 34674,
+    "cited_by_count": 976875,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I12859529"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2841861",
+    "openalex_id": "I2841861",
+    "ror": "https://ror.org/04r1cxt79",
+    "display_name": "Kenya Medical Research Institute",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://www.kemri.go.ke/",
+    "works_count": 22681,
+    "cited_by_count": 1877419,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I2841861",
+      "https://openalex.org/I87048295"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I26805570",
+    "openalex_id": "I26805570",
+    "ror": "https://ror.org/015h5sy57",
+    "display_name": "Jomo Kenyatta University of Agriculture and Technology",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.jkuat.ac.ke/",
+    "works_count": 19177,
+    "cited_by_count": 215454,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I26805570"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I153975220",
+    "openalex_id": "I153975220",
+    "ror": "https://ror.org/05p2z3x69",
+    "display_name": "Kenyatta University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.ku.ac.ke/",
+    "works_count": 14790,
+    "cited_by_count": 201508,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I153975220"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I55021457",
+    "openalex_id": "I55021457",
+    "ror": "https://ror.org/01kmz4383",
+    "display_name": "World Agroforestry Centre",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.worldagroforestry.org/",
+    "works_count": 12229,
+    "cited_by_count": 571345,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I55021457"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I58422712",
+    "openalex_id": "I58422712",
+    "ror": "https://ror.org/01jxjwb74",
+    "display_name": "International Livestock Research Institute",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://www.ilri.org/",
+    "works_count": 10373,
+    "cited_by_count": 608677,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I1286583668",
+      "https://openalex.org/I58422712"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I147168166",
+    "openalex_id": "I147168166",
+    "ror": "https://ror.org/04p6eac84",
+    "display_name": "Moi University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://mu.ac.ke/",
+    "works_count": 9847,
+    "cited_by_count": 246377,
+    "geo": {
+      "city": "Eldoret",
+      "geonames_city_id": "198629",
+      "region": "Uasin Gishu County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.52036,
+      "longitude": 35.26993
+    },
+    "lineage": [
+      "https://openalex.org/I147168166"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210086630",
+    "openalex_id": "I4210086630",
+    "ror": "https://ror.org/002vr4d22",
+    "display_name": "International Potato Center",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://cipotato.org/",
+    "works_count": 8873,
+    "cited_by_count": 32721,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.269320011138916,
+      "longitude": 36.72106170654297
+    },
+    "lineage": [
+      "https://openalex.org/I1286583668",
+      "https://openalex.org/I4210086630"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210118691",
+    "openalex_id": "I4210118691",
+    "ror": "https://ror.org/02qk18s08",
+    "display_name": "International Center for Tropical Agriculture",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://alliancebioversityciat.org/",
+    "works_count": 8341,
+    "cited_by_count": 266127,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.292443037033081,
+      "longitude": 36.819915771484375
+    },
+    "lineage": [
+      "https://openalex.org/I1286583668",
+      "https://openalex.org/I4210118691",
+      "https://openalex.org/I64492213"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I168685008",
+    "openalex_id": "I168685008",
+    "ror": "https://ror.org/03qegss47",
+    "display_name": "International Centre of Insect Physiology and Ecology",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://www.icipe.org",
+    "works_count": 7911,
+    "cited_by_count": 388589,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I168685008"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210151777",
+    "openalex_id": "I4210151777",
+    "ror": "https://ror.org/04sjpp691",
+    "display_name": "National Museums of Kenya",
+    "country_code": "KE",
+    "type": "archive",
+    "homepage_url": "https://www.museums.or.ke/",
+    "works_count": 7359,
+    "cited_by_count": 178127,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2738889455795288,
+      "longitude": 36.814998626708984
+    },
+    "lineage": [
+      "https://openalex.org/I4210151777"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I195931504",
+    "openalex_id": "I195931504",
+    "ror": "https://ror.org/01jk2zc89",
+    "display_name": "Egerton University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.egerton.ac.ke",
+    "works_count": 6741,
+    "cited_by_count": 141213,
+    "geo": {
+      "city": "Nakuru",
+      "geonames_city_id": "184622",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.3071900010108948,
+      "longitude": 36.07225036621094
+    },
+    "lineage": [
+      "https://openalex.org/I195931504"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405267625",
+    "openalex_id": "I4405267625",
+    "ror": "https://ror.org/03my81p15",
+    "display_name": "KEMRI-Wellcome Trust Research Programme",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://kemri-wellcome.org",
+    "works_count": 5621,
+    "cited_by_count": 690996,
+    "geo": {
+      "city": "Kilifi",
+      "geonames_city_id": "192067",
+      "region": "Kilifi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -3.63045,
+      "longitude": 39.84992
+    },
+    "lineage": [
+      "https://openalex.org/I4405267625"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210145675",
+    "openalex_id": "I4210145675",
+    "ror": "https://ror.org/047h8wb98",
+    "display_name": "Centers for Disease Control and Prevention",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.cdc.gov/globalhealth/countries/kenya/",
+    "works_count": 5295,
+    "cited_by_count": 899804,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3086868524551392,
+      "longitude": 36.802398681640625
+    },
+    "lineage": [
+      "https://openalex.org/I4210145675"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I195610458",
+    "openalex_id": "I195610458",
+    "ror": "https://ror.org/023pskh72",
+    "display_name": "Maseno University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.maseno.ac.ke",
+    "works_count": 5281,
+    "cited_by_count": 70658,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.10221000015735626,
+      "longitude": 34.76171112060547
+    },
+    "lineage": [
+      "https://openalex.org/I195610458"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210153667",
+    "openalex_id": "I4210153667",
+    "ror": "https://ror.org/055w89263",
+    "display_name": "International Maize and Wheat Improvement Center",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.cimmyt.org/location/africa/kenya/",
+    "works_count": 4870,
+    "cited_by_count": 319457,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I1286583668",
+      "https://openalex.org/I21740220",
+      "https://openalex.org/I4210153667"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210129448",
+    "openalex_id": "I4210129448",
+    "ror": "https://ror.org/032ztsj35",
+    "display_name": "African Population and Health Research Center",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "https://aphrc.org/",
+    "works_count": 4748,
+    "cited_by_count": 189260,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210129448"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I88132101",
+    "openalex_id": "I88132101",
+    "ror": "https://ror.org/02tpk0p14",
+    "display_name": "Masinde Muliro University of Science and Technology",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://mmust.ac.ke",
+    "works_count": 3785,
+    "cited_by_count": 25121,
+    "geo": {
+      "city": "Kakamega",
+      "geonames_city_id": "195272",
+      "region": "Kakamega County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.28422,
+      "longitude": 34.75229
+    },
+    "lineage": [
+      "https://openalex.org/I88132101"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210108070",
+    "openalex_id": "I4210108070",
+    "ror": "https://ror.org/01zv98a09",
+    "display_name": "Aga Khan University Nairobi",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.aku.edu/Pages/home.aspx",
+    "works_count": 3780,
+    "cited_by_count": 101574,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.25981605052948,
+      "longitude": 36.817909240722656
+    },
+    "lineage": [
+      "https://openalex.org/I118185606",
+      "https://openalex.org/I4210108070",
+      "https://openalex.org/I4210114929"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I250207469",
+    "openalex_id": "I250207469",
+    "ror": "https://ror.org/04kq7tf63",
+    "display_name": "Mount Kenya University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.mku.ac.ke",
+    "works_count": 3684,
+    "cited_by_count": 18042,
+    "geo": {
+      "city": "Thika",
+      "geonames_city_id": "179330",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.03326,
+      "longitude": 37.06933
+    },
+    "lineage": [
+      "https://openalex.org/I250207469"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I161372803",
+    "openalex_id": "I161372803",
+    "ror": "https://ror.org/047dnqw48",
+    "display_name": "Strathmore University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.strathmore.edu/",
+    "works_count": 3335,
+    "cited_by_count": 25519,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I161372803"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I140287389",
+    "openalex_id": "I140287389",
+    "ror": "https://ror.org/04eehsy38",
+    "display_name": "Technical University of Kenya",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.tukenya.ac.ke",
+    "works_count": 3215,
+    "cited_by_count": 27366,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I140287389"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210098278",
+    "openalex_id": "I4210098278",
+    "ror": "https://ror.org/00wawdr98",
+    "display_name": "Kenya Agricultural and Livestock Research Organization",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.kalro.org/",
+    "works_count": 3092,
+    "cited_by_count": 38261,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2904449701309204,
+      "longitude": 36.82493591308594
+    },
+    "lineage": [
+      "https://openalex.org/I4210098278"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2802685156",
+    "openalex_id": "I2802685156",
+    "ror": "https://ror.org/053sj8m08",
+    "display_name": "Kenyatta National Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "https://knh.or.ke",
+    "works_count": 3016,
+    "cited_by_count": 125136,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I2802685156"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I279922783",
+    "openalex_id": "I279922783",
+    "ror": "https://ror.org/02952pd71",
+    "display_name": "Pwani University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.pu.ac.ke/",
+    "works_count": 2994,
+    "cited_by_count": 33092,
+    "geo": {
+      "city": "Kilifi",
+      "geonames_city_id": "192067",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -3.619826078414917,
+      "longitude": 39.846282958984375
+    },
+    "lineage": [
+      "https://openalex.org/I279922783"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I22607950",
+    "openalex_id": "I22607950",
+    "ror": "https://ror.org/010crp378",
+    "display_name": "University of Eldoret",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.uoeld.ac.ke/",
+    "works_count": 2759,
+    "cited_by_count": 32615,
+    "geo": {
+      "city": "Eldoret",
+      "geonames_city_id": "198629",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.520359992980957,
+      "longitude": 35.26993179321289
+    },
+    "lineage": [
+      "https://openalex.org/I22607950"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210117370",
+    "openalex_id": "I4210117370",
+    "ror": "https://ror.org/02eyff421",
+    "display_name": "Ministry of Health",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.health.go.ke/",
+    "works_count": 2720,
+    "cited_by_count": 224962,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210117370"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I202262619",
+    "openalex_id": "I202262619",
+    "ror": "https://ror.org/015z29x25",
+    "display_name": "United Nations Environment Programme",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.unep.org/",
+    "works_count": 2667,
+    "cited_by_count": 164199,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I1286959531",
+      "https://openalex.org/I202262619"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210109136",
+    "openalex_id": "I4210109136",
+    "ror": "https://ror.org/01tapgj66",
+    "display_name": "International Crops Research Institute for the Semi-Arid Tropics",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.icrisat.org/tag/kenya/",
+    "works_count": 2572,
+    "cited_by_count": 113398,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I1286583668",
+      "https://openalex.org/I4210109136"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I315205436",
+    "openalex_id": "I315205436",
+    "ror": "https://ror.org/03ffvb852",
+    "display_name": "Jaramogi Oginga Odinga University of Science and Technology",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.jooust.ac.ke/",
+    "works_count": 2404,
+    "cited_by_count": 25664,
+    "geo": {
+      "city": "Bondo",
+      "geonames_city_id": "200304",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.09223400056362152,
+      "longitude": 34.258583068847656
+    },
+    "lineage": [
+      "https://openalex.org/I315205436"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I82889322",
+    "openalex_id": "I82889322",
+    "ror": "https://ror.org/02jm1re07",
+    "display_name": "Catholic University of Eastern Africa",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://cuea.edu",
+    "works_count": 2401,
+    "cited_by_count": 7580,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I82889322"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210151796",
+    "openalex_id": "I4210151796",
+    "ror": "https://ror.org/053stv828",
+    "display_name": "Kisii University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kisiiuniversity.ac.ke",
+    "works_count": 2356,
+    "cited_by_count": 9415,
+    "geo": {
+      "city": "Kisii",
+      "geonames_city_id": "191299",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.6817399859428406,
+      "longitude": 34.766658782958984
+    },
+    "lineage": [
+      "https://openalex.org/I4210151796"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210165525",
+    "openalex_id": "I4210165525",
+    "ror": "https://ror.org/05t3vnt47",
+    "display_name": "Kenya Marine and Fisheries Research Institute",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://www.kmfri.go.ke",
+    "works_count": 1929,
+    "cited_by_count": 65798,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": "Mombasa County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -4.05466,
+      "longitude": 39.66359
+    },
+    "lineage": [
+      "https://openalex.org/I4210165525"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2799649065",
+    "openalex_id": "I2799649065",
+    "ror": "https://ror.org/03rppv730",
+    "display_name": "Aga Khan University Hospital Nairobi",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://www.agakhanhospitals.org/nairobi/",
+    "works_count": 1763,
+    "cited_by_count": 56789,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2615770101547241,
+      "longitude": 36.82433319091797
+    },
+    "lineage": [
+      "https://openalex.org/I118185606",
+      "https://openalex.org/I2799649065",
+      "https://openalex.org/I4210108070",
+      "https://openalex.org/I4210114929"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I36770943",
+    "openalex_id": "I36770943",
+    "ror": "https://ror.org/033tvp994",
+    "display_name": "Kenya Methodist University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.kemu.ac.ke/",
+    "works_count": 1709,
+    "cited_by_count": 6576,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2805980443954468,
+      "longitude": 36.817657470703125
+    },
+    "lineage": [
+      "https://openalex.org/I36770943"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210111914",
+    "openalex_id": "I4210111914",
+    "ror": "https://ror.org/01a0ymj74",
+    "display_name": "International Institute of Tropical Agriculture",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.iita.org/iita-countries/kenya/",
+    "works_count": 1693,
+    "cited_by_count": 58079,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.30319344997406,
+      "longitude": 36.56719970703125
+    },
+    "lineage": [
+      "https://openalex.org/I1286583668",
+      "https://openalex.org/I4210111914"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3132506069",
+    "openalex_id": "I3132506069",
+    "ror": "https://ror.org/00hzs6t60",
+    "display_name": "University of Embu",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://embuni.ac.ke",
+    "works_count": 1647,
+    "cited_by_count": 28744,
+    "geo": {
+      "city": "Embu",
+      "geonames_city_id": "198476",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.539870023727417,
+      "longitude": 37.45743179321289
+    },
+    "lineage": [
+      "https://openalex.org/I3132506069"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210159989",
+    "openalex_id": "I4210159989",
+    "ror": "https://ror.org/05qj64q37",
+    "display_name": "United States International University Africa",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.usiu.ac.ke/",
+    "works_count": 1601,
+    "cited_by_count": 12873,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2134419679641724,
+      "longitude": 36.87953186035156
+    },
+    "lineage": [
+      "https://openalex.org/I4210159989"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210130129",
+    "openalex_id": "I4210130129",
+    "ror": "https://ror.org/039922k61",
+    "display_name": "Kenya Agricultural Research Institute",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.kari.org/",
+    "works_count": 1554,
+    "cited_by_count": 75782,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.0832240581512451,
+      "longitude": 36.74987030029297
+    },
+    "lineage": [
+      "https://openalex.org/I4210130129"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I344018163",
+    "openalex_id": "I344018163",
+    "ror": "https://ror.org/05jg5ty85",
+    "display_name": "Dedan Kimathi University of Technology",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.dkut.ac.ke/",
+    "works_count": 1522,
+    "cited_by_count": 14670,
+    "geo": {
+      "city": "Nyeri",
+      "geonames_city_id": "182701",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.42013001441955566,
+      "longitude": 36.94758987426758
+    },
+    "lineage": [
+      "https://openalex.org/I344018163"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3132944300",
+    "openalex_id": "I3132944300",
+    "ror": "https://ror.org/05cqafq62",
+    "display_name": "Chuka University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.chuka.ac.ke/",
+    "works_count": 1518,
+    "cited_by_count": 10211,
+    "geo": {
+      "city": "Chuka",
+      "geonames_city_id": "199284",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.319240003824234,
+      "longitude": 37.65753936767578
+    },
+    "lineage": [
+      "https://openalex.org/I3132944300"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I294845491",
+    "openalex_id": "I294845491",
+    "ror": "https://ror.org/01grm2d66",
+    "display_name": "Technical University of Mombasa",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.tum.ac.ke/",
+    "works_count": 1515,
+    "cited_by_count": 13825,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -4.054659843444824,
+      "longitude": 39.66358947753906
+    },
+    "lineage": [
+      "https://openalex.org/I294845491"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I263567798",
+    "openalex_id": "I263567798",
+    "ror": "https://ror.org/02w403504",
+    "display_name": "South Eastern Kenya University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.seku.ac.ke",
+    "works_count": 1489,
+    "cited_by_count": 16262,
+    "geo": {
+      "city": "Kitui",
+      "geonames_city_id": "191038",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3075720071792603,
+      "longitude": 37.75444412231445
+    },
+    "lineage": [
+      "https://openalex.org/I263567798"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4387152863",
+    "openalex_id": "I4387152863",
+    "ror": "https://ror.org/042tph174",
+    "display_name": "Pan African University Institute for Basic Sciences, Technology and Innovation",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://pau-au.africa/institutes/pausti",
+    "works_count": 1481,
+    "cited_by_count": 19157,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4387152863"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3131121749",
+    "openalex_id": "I3131121749",
+    "ror": "https://ror.org/009b5t134",
+    "display_name": "Kabarak University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.kabarak.ac.ke",
+    "works_count": 1470,
+    "cited_by_count": 4535,
+    "geo": {
+      "city": "Nakuru",
+      "geonames_city_id": "184622",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.3071900010108948,
+      "longitude": 36.07225036621094
+    },
+    "lineage": [
+      "https://openalex.org/I3131121749"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210158668",
+    "openalex_id": "I4210158668",
+    "ror": "https://ror.org/049nx2j30",
+    "display_name": "AMPATH",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "https://www.ampathkenya.org/",
+    "works_count": 1258,
+    "cited_by_count": 58391,
+    "geo": {
+      "city": "Eldoret",
+      "geonames_city_id": "198629",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.512037992477417,
+      "longitude": 35.28110122680664
+    },
+    "lineage": [
+      "https://openalex.org/I4210158668"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210106600",
+    "openalex_id": "I4210106600",
+    "ror": "https://ror.org/0111z3553",
+    "display_name": "Kibabii University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kibu.ac.ke",
+    "works_count": 1183,
+    "cited_by_count": 2705,
+    "geo": {
+      "city": "Bungoma",
+      "geonames_city_id": "200067",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.5634999871253967,
+      "longitude": 34.560550689697266
+    },
+    "lineage": [
+      "https://openalex.org/I4210106600"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210107899",
+    "openalex_id": "I4210107899",
+    "ror": "https://ror.org/01htjvr84",
+    "display_name": "Institute of Primate Research",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.primateresearch.org/",
+    "works_count": 1168,
+    "cited_by_count": 98889,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3372490406036377,
+      "longitude": 36.71508026123047
+    },
+    "lineage": [
+      "https://openalex.org/I4210107899"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I221899656",
+    "openalex_id": "I221899656",
+    "ror": "https://ror.org/04bm15q02",
+    "display_name": "Karatina University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://karu.ac.ke",
+    "works_count": 1161,
+    "cited_by_count": 11387,
+    "geo": {
+      "city": "Nyeri",
+      "geonames_city_id": "182701",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.42013001441955566,
+      "longitude": 36.94758987426758
+    },
+    "lineage": [
+      "https://openalex.org/I221899656"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3131204436",
+    "openalex_id": "I3131204436",
+    "ror": "https://ror.org/002dktj83",
+    "display_name": "Meru University of Science and Technology",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.must.ac.ke/",
+    "works_count": 1129,
+    "cited_by_count": 9289,
+    "geo": {
+      "city": "Meru",
+      "geonames_city_id": "186827",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.13507500290870667,
+      "longitude": 37.70828628540039
+    },
+    "lineage": [
+      "https://openalex.org/I3131204436"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210094393",
+    "openalex_id": "I4210094393",
+    "ror": "https://ror.org/00qpv3w06",
+    "display_name": "Amref Health Africa",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://amref.org/",
+    "works_count": 1123,
+    "cited_by_count": 72690,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210094393"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3131228027",
+    "openalex_id": "I3131228027",
+    "ror": "https://ror.org/00dygpn15",
+    "display_name": "Maasai Mara University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.mmarau.ac.ke/",
+    "works_count": 1116,
+    "cited_by_count": 9476,
+    "geo": {
+      "city": "Narok",
+      "geonames_city_id": "184379",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.0808299779891968,
+      "longitude": 35.87110900878906
+    },
+    "lineage": [
+      "https://openalex.org/I3131228027"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I299595467",
+    "openalex_id": "I299595467",
+    "ror": "https://ror.org/03rk9qf06",
+    "display_name": "University of Kabianga",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://kabianga.ac.ke/",
+    "works_count": 1070,
+    "cited_by_count": 8077,
+    "geo": {
+      "city": "Kericho",
+      "geonames_city_id": "192900",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.4455060064792633,
+      "longitude": 35.13808822631836
+    },
+    "lineage": [
+      "https://openalex.org/I299595467"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2799719156",
+    "openalex_id": "I2799719156",
+    "ror": "https://ror.org/025ejqq45",
+    "display_name": "BirdLife International",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.birdlife.org/",
+    "works_count": 1034,
+    "cited_by_count": 77414,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2650610208511353,
+      "longitude": 36.78666687011719
+    },
+    "lineage": [
+      "https://openalex.org/I2799719156",
+      "https://openalex.org/I4210145639"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I146161461",
+    "openalex_id": "I146161461",
+    "ror": "https://ror.org/01w9cfb64",
+    "display_name": "Kenya Wildlife Service",
+    "country_code": "KE",
+    "type": "archive",
+    "homepage_url": "https://kws.go.ke",
+    "works_count": 967,
+    "cited_by_count": 31526,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I146161461"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210089933",
+    "openalex_id": "I4210089933",
+    "ror": "https://ror.org/00aze9982",
+    "display_name": "St. Paul's University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.spu.ac.ke/",
+    "works_count": 966,
+    "cited_by_count": 2596,
+    "geo": {
+      "city": "Limuru",
+      "geonames_city_id": "189386",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2886040210723877,
+      "longitude": 36.82793045043945
+    },
+    "lineage": [
+      "https://openalex.org/I4210089933"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210102998",
+    "openalex_id": "I4210102998",
+    "ror": "https://ror.org/019z2v446",
+    "display_name": "Rongo University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.rongovarsity.ac.ke/",
+    "works_count": 905,
+    "cited_by_count": 2920,
+    "geo": {
+      "city": "Migori",
+      "geonames_city_id": "186731",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.7602099776268005,
+      "longitude": 34.599761962890625
+    },
+    "lineage": [
+      "https://openalex.org/I4210102998"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I44288286",
+    "openalex_id": "I44288286",
+    "ror": "https://ror.org/01qmtv077",
+    "display_name": "Daystar University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.daystar.ac.ke/",
+    "works_count": 874,
+    "cited_by_count": 4330,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I44288286"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210143787",
+    "openalex_id": "I4210143787",
+    "ror": "https://ror.org/04wccky94",
+    "display_name": "Climate Change, Agriculture and Food Security",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://ccafs.cgiar.org",
+    "works_count": 851,
+    "cited_by_count": 58238,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2705490589141846,
+      "longitude": 36.72400665283203
+    },
+    "lineage": [
+      "https://openalex.org/I4210143787"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3133159679",
+    "openalex_id": "I3133159679",
+    "ror": "https://ror.org/057k4ej49",
+    "display_name": "Murang'a University of Technology",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.mut.ac.ke/",
+    "works_count": 792,
+    "cited_by_count": 3296,
+    "geo": {
+      "city": "Murang’a",
+      "geonames_city_id": "185579",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.7210400104522705,
+      "longitude": 37.152591705322266
+    },
+    "lineage": [
+      "https://openalex.org/I3133159679"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210148199",
+    "openalex_id": "I4210148199",
+    "ror": "https://ror.org/05hz2w230",
+    "display_name": "Kenya Forestry Research Institute",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://kefri.org/",
+    "works_count": 784,
+    "cited_by_count": 16450,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2156599760055542,
+      "longitude": 36.64605712890625
+    },
+    "lineage": [
+      "https://openalex.org/I4210148199"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2802125050",
+    "openalex_id": "I2802125050",
+    "ror": "https://ror.org/00bxym797",
+    "display_name": "United States Army Medical Research Directorate - Africa",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.usamrukenya.org/",
+    "works_count": 753,
+    "cited_by_count": 70163,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I106965489",
+      "https://openalex.org/I1304082316",
+      "https://openalex.org/I1330347796",
+      "https://openalex.org/I2802125050",
+      "https://openalex.org/I2802581893",
+      "https://openalex.org/I92664306"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2802891092",
+    "openalex_id": "I2802891092",
+    "ror": "https://ror.org/05eyrmk93",
+    "display_name": "Machakos University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.mksu.ac.ke",
+    "works_count": 720,
+    "cited_by_count": 5758,
+    "geo": {
+      "city": "Machakos",
+      "geonames_city_id": "188492",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.5223300457000732,
+      "longitude": 37.26520919799805
+    },
+    "lineage": [
+      "https://openalex.org/I2802891092"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2800483928",
+    "openalex_id": "I2800483928",
+    "ror": "https://ror.org/023fkcg80",
+    "display_name": "Africa International University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.aiu.ac.ke/",
+    "works_count": 696,
+    "cited_by_count": 1127,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.304129958152771,
+      "longitude": 36.68619918823242
+    },
+    "lineage": [
+      "https://openalex.org/I2800483928"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210093093",
+    "openalex_id": "I4210093093",
+    "ror": "https://ror.org/01e4tdn74",
+    "display_name": "Ministry of Agriculture Livestock and Fisheries",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.kilimo.go.ke/",
+    "works_count": 677,
+    "cited_by_count": 14374,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2918649911880493,
+      "longitude": 36.815086364746094
+    },
+    "lineage": [
+      "https://openalex.org/I4210093093"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3130826315",
+    "openalex_id": "I3130826315",
+    "ror": "https://ror.org/02y5m7j45",
+    "display_name": "Laikipia University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://laikipia.ac.ke",
+    "works_count": 655,
+    "cited_by_count": 2877,
+    "geo": {
+      "city": "Nyahururu",
+      "geonames_city_id": "183027",
+      "region": "Laikipia",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.03813,
+      "longitude": 36.36339
+    },
+    "lineage": [
+      "https://openalex.org/I3130826315"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210131865",
+    "openalex_id": "I4210131865",
+    "ror": "https://ror.org/03hz7e558",
+    "display_name": "Institute of Economic Affairs",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://ieakenya.or.ke",
+    "works_count": 645,
+    "cited_by_count": 2852,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210131865"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210151173",
+    "openalex_id": "I4210151173",
+    "ror": "https://ror.org/04c466w42",
+    "display_name": "Mpala Research Center and Wildlife Foundation",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.mpala.org/",
+    "works_count": 609,
+    "cited_by_count": 57355,
+    "geo": {
+      "city": "Nanyuki",
+      "geonames_city_id": "184433",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.29234370589256287,
+      "longitude": 36.89846420288086
+    },
+    "lineage": [
+      "https://openalex.org/I4210151173"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2801717407",
+    "openalex_id": "I2801717407",
+    "ror": "https://ror.org/020qt9g11",
+    "display_name": "United Nations Human Settlements Programme",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://unhabitat.org/",
+    "works_count": 608,
+    "cited_by_count": 11592,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.232712984085083,
+      "longitude": 36.81779479980469
+    },
+    "lineage": [
+      "https://openalex.org/I1286959531",
+      "https://openalex.org/I2801717407"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210087931",
+    "openalex_id": "I4210087931",
+    "ror": "https://ror.org/004zjze34",
+    "display_name": "Institute for Security Studies",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://issafrica.org",
+    "works_count": 593,
+    "cited_by_count": 3680,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2546340227127075,
+      "longitude": 36.797607421875
+    },
+    "lineage": [
+      "https://openalex.org/I4210087931",
+      "https://openalex.org/I4210093398"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210114988",
+    "openalex_id": "I4210114988",
+    "ror": "https://ror.org/029cz3039",
+    "display_name": "Kijabe Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://kijabehospital.org/",
+    "works_count": 580,
+    "cited_by_count": 12087,
+    "geo": {
+      "city": "Kijabe",
+      "geonames_city_id": "192202",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.9475629925727844,
+      "longitude": 36.594627380371094
+    },
+    "lineage": [
+      "https://openalex.org/I4210114988"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266166",
+    "openalex_id": "I4405266166",
+    "ror": "https://ror.org/00v8tn024",
+    "display_name": "Tangaza University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://tangaza.ac.ke",
+    "works_count": 553,
+    "cited_by_count": 2560,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266166"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3131884745",
+    "openalex_id": "I3131884745",
+    "ror": "https://ror.org/050pcd452",
+    "display_name": "KCA University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.kcau.ac.ke",
+    "works_count": 551,
+    "cited_by_count": 2588,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I3131884745"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210107289",
+    "openalex_id": "I4210107289",
+    "ror": "https://ror.org/01gsxb553",
+    "display_name": "Kaimosi Friends University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kafu.ac.ke",
+    "works_count": 523,
+    "cited_by_count": 2812,
+    "geo": {
+      "city": "Kapsabet",
+      "geonames_city_id": "194038",
+      "region": "Nandi",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.20387,
+      "longitude": 35.105
+    },
+    "lineage": [
+      "https://openalex.org/I4210107289"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I116082035",
+    "openalex_id": "I116082035",
+    "ror": "https://ror.org/02ccxj712",
+    "display_name": "Kenya Medical Training College",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kmtc.ac.ke",
+    "works_count": 521,
+    "cited_by_count": 6157,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I116082035"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I327535454",
+    "openalex_id": "I327535454",
+    "ror": "https://ror.org/028r4zr88",
+    "display_name": "Multimedia University of Kenya",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.mmu.ac.ke/",
+    "works_count": 519,
+    "cited_by_count": 2598,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3814109563827515,
+      "longitude": 36.768821716308594
+    },
+    "lineage": [
+      "https://openalex.org/I327535454"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3131411328",
+    "openalex_id": "I3131411328",
+    "ror": "https://ror.org/00geck193",
+    "display_name": "Kirinyaga University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kyu.ac.ke/",
+    "works_count": 509,
+    "cited_by_count": 2159,
+    "geo": {
+      "city": "Kerugoya",
+      "geonames_city_id": "192859",
+      "region": "Kirinyaga County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.49887,
+      "longitude": 37.28031
+    },
+    "lineage": [
+      "https://openalex.org/I3131411328"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210122844",
+    "openalex_id": "I4210122844",
+    "ror": "https://ror.org/02nmsd267",
+    "display_name": "Coastal Oceans Research and Development in the Indian Ocean",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://cordioea.net/",
+    "works_count": 458,
+    "cited_by_count": 25849,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -3.9904561042785645,
+      "longitude": 39.73609924316406
+    },
+    "lineage": [
+      "https://openalex.org/I4210122844"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210098142",
+    "openalex_id": "I4210098142",
+    "ror": "https://ror.org/00zy1mb15",
+    "display_name": "CABI Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.cabi.org/about-cabi/cabi-centres/kenya/",
+    "works_count": 448,
+    "cited_by_count": 17464,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2511999607086182,
+      "longitude": 36.81859588623047
+    },
+    "lineage": [
+      "https://openalex.org/I1302404375",
+      "https://openalex.org/I4210098142"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3133129679",
+    "openalex_id": "I3133129679",
+    "ror": "https://ror.org/047tgv290",
+    "display_name": "Pan Africa Christian University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://lib.pacuniversity.ac.ke",
+    "works_count": 441,
+    "cited_by_count": 850,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I3133129679"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210158354",
+    "openalex_id": "I4210158354",
+    "ror": "https://ror.org/0594bad20",
+    "display_name": "International Centre for Reproductive Health Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.icrhk.org/",
+    "works_count": 435,
+    "cited_by_count": 17049,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -4.0364580154418945,
+      "longitude": 39.665042877197266
+    },
+    "lineage": [
+      "https://openalex.org/I4210158354"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I907303451",
+    "openalex_id": "I907303451",
+    "ror": "https://ror.org/02mgerj62",
+    "display_name": "Great Lakes University of Kisumu",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.gluk.ac.ke",
+    "works_count": 387,
+    "cited_by_count": 9148,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2636990547180176,
+      "longitude": 36.80257797241211
+    },
+    "lineage": [
+      "https://openalex.org/I907303451"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210139331",
+    "openalex_id": "I4210139331",
+    "ror": "https://ror.org/03bjx6g30",
+    "display_name": "Africa Mental Health Foundation",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.africamentalhealthfoundation.org/",
+    "works_count": 386,
+    "cited_by_count": 22058,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2964040040969849,
+      "longitude": 36.81847381591797
+    },
+    "lineage": [
+      "https://openalex.org/I4210139331"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2799949656",
+    "openalex_id": "I2799949656",
+    "ror": "https://ror.org/00rds0p35",
+    "display_name": "Nairobi Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "https://nairobihospital.org/",
+    "works_count": 385,
+    "cited_by_count": 8615,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.295343041419983,
+      "longitude": 36.80508804321289
+    },
+    "lineage": [
+      "https://openalex.org/I2799949656"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210146819",
+    "openalex_id": "I4210146819",
+    "ror": "https://ror.org/04gs0eq62",
+    "display_name": "The Childhood Acute Illness and Nutrition Network",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://chainnetwork.org/",
+    "works_count": 376,
+    "cited_by_count": 13813,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2920459508895874,
+      "longitude": 36.82184600830078
+    },
+    "lineage": [
+      "https://openalex.org/I4210146819"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405271872",
+    "openalex_id": "I4405271872",
+    "ror": "https://ror.org/036wx4c88",
+    "display_name": "The Co-operative University of Kenya",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://cuk.ac.ke",
+    "works_count": 365,
+    "cited_by_count": 1574,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405271872"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I18559436",
+    "openalex_id": "I18559436",
+    "ror": "https://ror.org/019ae2j05",
+    "display_name": "Save the Elephants",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://savetheelephants.org",
+    "works_count": 362,
+    "cited_by_count": 27602,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I18559436"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210093172",
+    "openalex_id": "I4210093172",
+    "ror": "https://ror.org/00ksgqc53",
+    "display_name": "Partners for Health and Development in Africa",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.phdaf.org/",
+    "works_count": 344,
+    "cited_by_count": 9357,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.304015040397644,
+      "longitude": 36.813743591308594
+    },
+    "lineage": [
+      "https://openalex.org/I4210093172"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405260281",
+    "openalex_id": "I4405260281",
+    "ror": "https://ror.org/03gzm8w29",
+    "display_name": "Tom Mboya University College",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://tmu.ac.ke",
+    "works_count": 332,
+    "cited_by_count": 4783,
+    "geo": {
+      "city": "Homa Bay",
+      "geonames_city_id": "196742",
+      "region": "Homa Bay County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.52731,
+      "longitude": 34.45714
+    },
+    "lineage": [
+      "https://openalex.org/I4405260281"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210165634",
+    "openalex_id": "I4210165634",
+    "ror": "https://ror.org/05twfp995",
+    "display_name": "Africa Nazarene University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.anu.ac.ke/",
+    "works_count": 325,
+    "cited_by_count": 1269,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.400555968284607,
+      "longitude": 36.790000915527344
+    },
+    "lineage": [
+      "https://openalex.org/I4210165634"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210133398",
+    "openalex_id": "I4210133398",
+    "ror": "https://ror.org/03wjvv117",
+    "display_name": "IGAD Climate Prediction and Applications Center",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.icpac.net/",
+    "works_count": 324,
+    "cited_by_count": 16903,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3024970293045044,
+      "longitude": 36.761505126953125
+    },
+    "lineage": [
+      "https://openalex.org/I4210133398"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I89008938",
+    "openalex_id": "I89008938",
+    "ror": "https://ror.org/00e2rng16",
+    "display_name": "University of Eastern Africa, Baraton",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.ueab.ac.ke/",
+    "works_count": 316,
+    "cited_by_count": 2294,
+    "geo": {
+      "city": "Eldoret",
+      "geonames_city_id": "198629",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.2575789988040924,
+      "longitude": 35.085914611816406
+    },
+    "lineage": [
+      "https://openalex.org/I89008938"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210116060",
+    "openalex_id": "I4210116060",
+    "ror": "https://ror.org/02bqmev78",
+    "display_name": "Kenya AIDS Vaccine Initiative",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://kaviuon.org/",
+    "works_count": 309,
+    "cited_by_count": 17060,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3010389804840088,
+      "longitude": 36.76315689086914
+    },
+    "lineage": [
+      "https://openalex.org/I4210116060"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2799887408",
+    "openalex_id": "I2799887408",
+    "ror": "https://ror.org/01b7tbs82",
+    "display_name": "Adventist University of Africa",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.aua.ac.ke",
+    "works_count": 302,
+    "cited_by_count": 1233,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I2799887408"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210129919",
+    "openalex_id": "I4210129919",
+    "ror": "https://ror.org/02wxcva98",
+    "display_name": "African Institute for Development Policy",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.afidep.org/",
+    "works_count": 287,
+    "cited_by_count": 10198,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2608100175857544,
+      "longitude": 36.784610748291016
+    },
+    "lineage": [
+      "https://openalex.org/I4210129919"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210149949",
+    "openalex_id": "I4210149949",
+    "ror": "https://ror.org/0440v7339",
+    "display_name": "Kenya Plant Health Inspectorate Services",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.kephis.org/",
+    "works_count": 285,
+    "cited_by_count": 2694,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3380320072174072,
+      "longitude": 36.69685363769531
+    },
+    "lineage": [
+      "https://openalex.org/I4210149949"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2801401145",
+    "openalex_id": "I2801401145",
+    "ror": "https://ror.org/05px9k635",
+    "display_name": "African Academy of Sciences",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://aasciences.ac.ke/",
+    "works_count": 283,
+    "cited_by_count": 4837,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I2801401145"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210088952",
+    "openalex_id": "I4210088952",
+    "ror": "https://ror.org/013ery440",
+    "display_name": "Kenya Industrial Research and Development Institute",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.kirdi.go.ke/",
+    "works_count": 282,
+    "cited_by_count": 5441,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I4210088952"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210104906",
+    "openalex_id": "I4210104906",
+    "ror": "https://ror.org/01fztcv40",
+    "display_name": "Kenya School of Government",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://ksg.ac.ke",
+    "works_count": 280,
+    "cited_by_count": 630,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210104906"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405263046",
+    "openalex_id": "I4405263046",
+    "ror": "https://ror.org/01qb5qa49",
+    "display_name": "Amref International University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.amref.ac.ke",
+    "works_count": 280,
+    "cited_by_count": 1681,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405263046"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210128842",
+    "openalex_id": "I4210128842",
+    "ror": "https://ror.org/032f13a22",
+    "display_name": "Busara Center for Behavioral Economics",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.busaracenter.org/",
+    "works_count": 276,
+    "cited_by_count": 13203,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3008308410644531,
+      "longitude": 36.78561019897461
+    },
+    "lineage": [
+      "https://openalex.org/I4210128842"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4387153060",
+    "openalex_id": "I4387153060",
+    "ror": "https://ror.org/03p41j374",
+    "display_name": "Bomet University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.bu.ac.ke",
+    "works_count": 272,
+    "cited_by_count": 2974,
+    "geo": {
+      "city": "Bomet",
+      "geonames_city_id": "200308",
+      "region": "Bomet County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.78129,
+      "longitude": 35.34156
+    },
+    "lineage": [
+      "https://openalex.org/I4387153060"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210109367",
+    "openalex_id": "I4210109367",
+    "ror": "https://ror.org/01yrg4t37",
+    "display_name": "Partnership for Economic Policy",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.pep-net.org/",
+    "works_count": 268,
+    "cited_by_count": 6396,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210109367"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210116462",
+    "openalex_id": "I4210116462",
+    "ror": "https://ror.org/0272r9772",
+    "display_name": "Impact Research and Development Organization",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.impact-rdo.org/",
+    "works_count": 261,
+    "cited_by_count": 16525,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.10105100274085999,
+      "longitude": 34.76183319091797
+    },
+    "lineage": [
+      "https://openalex.org/I4210116462"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210159121",
+    "openalex_id": "I4210159121",
+    "ror": "https://ror.org/059j2cd05",
+    "display_name": "Tenwek Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://www.tenwekhospital.org/",
+    "works_count": 256,
+    "cited_by_count": 12771,
+    "geo": {
+      "city": "Sotik Post",
+      "geonames_city_id": "200308",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.7812899947166443,
+      "longitude": 35.34156036376953
+    },
+    "lineage": [
+      "https://openalex.org/I4210159121"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3130753050",
+    "openalex_id": "I3130753050",
+    "ror": "https://ror.org/02pzqs694",
+    "display_name": "Riara University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.riarauniversity.ac.ke/",
+    "works_count": 250,
+    "cited_by_count": 717,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3140569925308228,
+      "longitude": 36.80693817138672
+    },
+    "lineage": [
+      "https://openalex.org/I3130753050"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210135282",
+    "openalex_id": "I4210135282",
+    "ror": "https://ror.org/047eaw227",
+    "display_name": "African Centre for Technology Studies",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://acts-net.org",
+    "works_count": 247,
+    "cited_by_count": 5381,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210135282"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210122957",
+    "openalex_id": "I4210122957",
+    "ror": "https://ror.org/02353ej91",
+    "display_name": "LVCT Health",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.lvcthealth.org/",
+    "works_count": 245,
+    "cited_by_count": 8330,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2942869663238525,
+      "longitude": 36.79254150390625
+    },
+    "lineage": [
+      "https://openalex.org/I4210122957"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2800561612",
+    "openalex_id": "I2800561612",
+    "ror": "https://ror.org/01cmcvq49",
+    "display_name": "Alliance for a Green Revolution in Africa",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://agra.org/",
+    "works_count": 234,
+    "cited_by_count": 5972,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I2800561612"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I185616230",
+    "openalex_id": "I185616230",
+    "ror": "https://ror.org/00sb8wv57",
+    "display_name": "Kenya Institute for Public Policy Research and Analysis",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.kippra.org/",
+    "works_count": 224,
+    "cited_by_count": 4645,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.291167974472046,
+      "longitude": 36.810916900634766
+    },
+    "lineage": [
+      "https://openalex.org/I185616230"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210142623",
+    "openalex_id": "I4210142623",
+    "ror": "https://ror.org/047cttg96",
+    "display_name": "British Institute in Eastern Africa",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://biea.ac.uk/",
+    "works_count": 223,
+    "cited_by_count": 5598,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I4210142623"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405256813",
+    "openalex_id": "I4405256813",
+    "ror": "https://ror.org/04jfsqd34",
+    "display_name": "Alupe University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://au.ac.ke",
+    "works_count": 217,
+    "cited_by_count": 853,
+    "geo": {
+      "city": "Busia",
+      "geonames_city_id": "199989",
+      "region": "Busia County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.46005,
+      "longitude": 34.11169
+    },
+    "lineage": [
+      "https://openalex.org/I4405256813"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210123160",
+    "openalex_id": "I4210123160",
+    "ror": "https://ror.org/02xq98350",
+    "display_name": "Coffee Research Institute",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://coffee.kalro.org/",
+    "works_count": 208,
+    "cited_by_count": 3579,
+    "geo": {
+      "city": "Kiambu",
+      "geonames_city_id": "192710",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.0938539505004883,
+      "longitude": 36.905311584472656
+    },
+    "lineage": [
+      "https://openalex.org/I4210123160"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210136836",
+    "openalex_id": "I4210136836",
+    "ror": "https://ror.org/02wn55517",
+    "display_name": "African Conservation Centre",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.accafrica.org/",
+    "works_count": 201,
+    "cited_by_count": 6812,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3409188985824585,
+      "longitude": 36.73506546020508
+    },
+    "lineage": [
+      "https://openalex.org/I4210136836"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405254651",
+    "openalex_id": "I4405254651",
+    "ror": "https://ror.org/0230rkd28",
+    "display_name": "Wildlife Research and Training Institute",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://wrti.go.ke",
+    "works_count": 198,
+    "cited_by_count": 1335,
+    "geo": {
+      "city": "Naivasha",
+      "geonames_city_id": "184707",
+      "region": "Nakuru County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.71383,
+      "longitude": 36.43261
+    },
+    "lineage": [
+      "https://openalex.org/I4405254651"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210147335",
+    "openalex_id": "I4210147335",
+    "ror": "https://ror.org/04f9r2a11",
+    "display_name": "East African University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.teau.ac.ke/",
+    "works_count": 193,
+    "cited_by_count": 352,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.004443645477295,
+      "longitude": 37.015655517578125
+    },
+    "lineage": [
+      "https://openalex.org/I4210147335"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210152574",
+    "openalex_id": "I4210152574",
+    "ror": "https://ror.org/04e4b7b24",
+    "display_name": "Tropical Institute Of Community Health And Development",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://tich.gluk.ac.ke/",
+    "works_count": 191,
+    "cited_by_count": 4145,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.10221000015735626,
+      "longitude": 34.76171112060547
+    },
+    "lineage": [
+      "https://openalex.org/I4210152574"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210158598",
+    "openalex_id": "I4210158598",
+    "ror": "https://ror.org/0526r9902",
+    "display_name": "Kenya Forest Service",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.kenyaforestservice.org/",
+    "works_count": 191,
+    "cited_by_count": 1179,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210158598"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210146551",
+    "openalex_id": "I4210146551",
+    "ror": "https://ror.org/05fxg9b69",
+    "display_name": "African Economic Research Consortium",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://aercafrica.org/",
+    "works_count": 187,
+    "cited_by_count": 3717,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I4210146551"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262221",
+    "openalex_id": "I4405262221",
+    "ror": "https://ror.org/023yg3m94",
+    "display_name": "Wangari Maathai Institute for Peace and Environmental Studies",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://wmi.uonbi.ac.ke",
+    "works_count": 176,
+    "cited_by_count": 3693,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I12859529",
+      "https://openalex.org/I4405262221"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210165016",
+    "openalex_id": "I4210165016",
+    "ror": "https://ror.org/05vppxx21",
+    "display_name": "African Agricultural Technology Foundation",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://aatf-africa.org/",
+    "works_count": 167,
+    "cited_by_count": 4760,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2669179439544678,
+      "longitude": 36.72300338745117
+    },
+    "lineage": [
+      "https://openalex.org/I4210165016"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210135655",
+    "openalex_id": "I4210135655",
+    "ror": "https://ror.org/04cmmy395",
+    "display_name": "Regional Centre for Mapping of Resources for Development",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://rcmrd.org",
+    "works_count": 152,
+    "cited_by_count": 4515,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210135655"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4387152832",
+    "openalex_id": "I4387152832",
+    "ror": "https://ror.org/058emmq70",
+    "display_name": "Kenya Bureau of Standards",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://kebs.org",
+    "works_count": 148,
+    "cited_by_count": 2262,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4387152832"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210111219",
+    "openalex_id": "I4210111219",
+    "ror": "https://ror.org/01qk32r63",
+    "display_name": "National Aids Control Council",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://nacc.or.ke/",
+    "works_count": 144,
+    "cited_by_count": 5462,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2948440313339233,
+      "longitude": 36.80546951293945
+    },
+    "lineage": [
+      "https://openalex.org/I4210111219"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3130743347",
+    "openalex_id": "I3130743347",
+    "ror": "https://ror.org/008nk3d11",
+    "display_name": "Zetech University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.zetech.ac.ke",
+    "works_count": 143,
+    "cited_by_count": 233,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I3130743347"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210122649",
+    "openalex_id": "I4210122649",
+    "ror": "https://ror.org/02ywnmf80",
+    "display_name": "French Institute for Research in Africa",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://ifra-nairobi.net/",
+    "works_count": 140,
+    "cited_by_count": 460,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2728619575500488,
+      "longitude": 36.7951545715332
+    },
+    "lineage": [
+      "https://openalex.org/I4210122649"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210122530",
+    "openalex_id": "I4210122530",
+    "ror": "https://ror.org/02nmyab03",
+    "display_name": "Nyanza Reproductive Health Society",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.nrhskenya.org/",
+    "works_count": 136,
+    "cited_by_count": 3817,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.09841600060462952,
+      "longitude": 34.76234817504883
+    },
+    "lineage": [
+      "https://openalex.org/I4210122530"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405260531",
+    "openalex_id": "I4405260531",
+    "ror": "https://ror.org/03wxsga24",
+    "display_name": "Koitaleel Samoei University College",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://ksu.ac.ke",
+    "works_count": 132,
+    "cited_by_count": 117,
+    "geo": {
+      "city": "Mosoriot",
+      "geonames_city_id": "186216",
+      "region": "Nandi",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.32059,
+      "longitude": 35.17599
+    },
+    "lineage": [
+      "https://openalex.org/I12859529",
+      "https://openalex.org/I4405260531"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210107666",
+    "openalex_id": "I4210107666",
+    "ror": "https://ror.org/01mxmb797",
+    "display_name": "Stockholm Environment Institute",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.sei.org/centres/africa/",
+    "works_count": 125,
+    "cited_by_count": 62428,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2915350198745728,
+      "longitude": 36.80549621582031
+    },
+    "lineage": [
+      "https://openalex.org/I4210107666",
+      "https://openalex.org/I4210154877"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405278489",
+    "openalex_id": "I4405278489",
+    "ror": "https://ror.org/004ddpj45",
+    "display_name": "IFRA Nairobi / Institut français de recherche en Afrique",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://ifranairobi.hypotheses.org/",
+    "works_count": 119,
+    "cited_by_count": 1511,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I1294671590",
+      "https://openalex.org/I2802818602",
+      "https://openalex.org/I4210090127",
+      "https://openalex.org/I4405278489"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210106236",
+    "openalex_id": "I4210106236",
+    "ror": "https://ror.org/01jf9dm55",
+    "display_name": "African Union Interafrican Bureau for Animal Resources",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.au-ibar.org/",
+    "works_count": 113,
+    "cited_by_count": 4528,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2721530199050903,
+      "longitude": 36.81039047241211
+    },
+    "lineage": [
+      "https://openalex.org/I139185249",
+      "https://openalex.org/I4210106236"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3130817511",
+    "openalex_id": "I3130817511",
+    "ror": "https://ror.org/03sd9v004",
+    "display_name": "Umma University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.umma.ac.ke/",
+    "works_count": 112,
+    "cited_by_count": 445,
+    "geo": {
+      "city": "Kajiado",
+      "geonames_city_id": "195298",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.8523800373077393,
+      "longitude": 36.77682876586914
+    },
+    "lineage": [
+      "https://openalex.org/I3130817511"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2801494242",
+    "openalex_id": "I2801494242",
+    "ror": "https://ror.org/031awfc58",
+    "display_name": "Lake Victoria Fisheries Organization",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.lvfo.org/",
+    "works_count": 105,
+    "cited_by_count": 2802,
+    "geo": {
+      "city": "Migori",
+      "geonames_city_id": "186731",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.0710610151290894,
+      "longitude": 34.47355270385742
+    },
+    "lineage": [
+      "https://openalex.org/I2801494242"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405279628",
+    "openalex_id": "I4405279628",
+    "ror": "https://ror.org/01s846996",
+    "display_name": "Shamiri Institute",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.shamiri.co",
+    "works_count": 104,
+    "cited_by_count": 3434,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405279628"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210133946",
+    "openalex_id": "I4210133946",
+    "ror": "https://ror.org/02pt0wv95",
+    "display_name": "Centre for Training and Integrated Research In ASAL Development",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.cetrad.org/",
+    "works_count": 101,
+    "cited_by_count": 3281,
+    "geo": {
+      "city": "Nanyuki",
+      "geonames_city_id": "184433",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.016352999955415726,
+      "longitude": 37.078163146972656
+    },
+    "lineage": [
+      "https://openalex.org/I4210133946"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405255653",
+    "openalex_id": "I4405255653",
+    "ror": "https://ror.org/038rnnj64",
+    "display_name": "Kenya National Bureau of Statistics",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.knbs.or.ke",
+    "works_count": 99,
+    "cited_by_count": 3465,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405255653"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405268508",
+    "openalex_id": "I4405268508",
+    "ror": "https://ror.org/0168tr314",
+    "display_name": "African Forest Forum",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://afforum.org",
+    "works_count": 96,
+    "cited_by_count": 2523,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405268508"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3129475430",
+    "openalex_id": "I3129475430",
+    "ror": "https://ror.org/00jjtmm83",
+    "display_name": "Kiriri Women's University of Science and Technology",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.kwust.ac.ke/",
+    "works_count": 92,
+    "cited_by_count": 116,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2815840244293213,
+      "longitude": 36.82365417480469
+    },
+    "lineage": [
+      "https://openalex.org/I3129475430"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210103590",
+    "openalex_id": "I4210103590",
+    "ror": "https://ror.org/00vj4fj91",
+    "display_name": "Kenya Fisheries Service",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.kenyafisheriesservice.go.ke/",
+    "works_count": 92,
+    "cited_by_count": 1343,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -4.068722724914551,
+      "longitude": 39.65901565551758
+    },
+    "lineage": [
+      "https://openalex.org/I4210103590"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210117021",
+    "openalex_id": "I4210117021",
+    "ror": "https://ror.org/01m4mdb95",
+    "display_name": "Uzima University College",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.uzimauniversity.ac.ke/",
+    "works_count": 92,
+    "cited_by_count": 618,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.06849099695682526,
+      "longitude": 34.76232147216797
+    },
+    "lineage": [
+      "https://openalex.org/I4210117021"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3130586695",
+    "openalex_id": "I3130586695",
+    "ror": "https://ror.org/05phwew21",
+    "display_name": "Scott Christian University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://scott.ac.ke",
+    "works_count": 88,
+    "cited_by_count": 611,
+    "geo": {
+      "city": "Machakos",
+      "geonames_city_id": "188492",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.5223300457000732,
+      "longitude": 37.26520919799805
+    },
+    "lineage": [
+      "https://openalex.org/I3130586695"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2802246446",
+    "openalex_id": "I2802246446",
+    "ror": "https://ror.org/01y3fwb07",
+    "display_name": "Aga Khan Hospital, Mombasa",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://www.agakhanhospitals.org/mombasa/",
+    "works_count": 86,
+    "cited_by_count": 776,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -4.070077896118164,
+      "longitude": 39.67045974731445
+    },
+    "lineage": [
+      "https://openalex.org/I118185606",
+      "https://openalex.org/I2802246446",
+      "https://openalex.org/I4210108070",
+      "https://openalex.org/I4210114929"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210125021",
+    "openalex_id": "I4210125021",
+    "ror": "https://ror.org/02yyy2c79",
+    "display_name": "Kenya Paediatric Research Consortium",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://kenyapaediatric.org/keprecon/",
+    "works_count": 85,
+    "cited_by_count": 781,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2702699899673462,
+      "longitude": 36.72401428222656
+    },
+    "lineage": [
+      "https://openalex.org/I4210125021"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262651",
+    "openalex_id": "I4405262651",
+    "ror": "https://ror.org/04fwtam12",
+    "display_name": "National Environment Management Authority",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://nema.go.ke",
+    "works_count": 84,
+    "cited_by_count": 1508,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405262651"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405256106",
+    "openalex_id": "I4405256106",
+    "ror": "https://ror.org/03s72rc96",
+    "display_name": "Open University of Kenya",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://ouk.ac.ke",
+    "works_count": 83,
+    "cited_by_count": 203,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405256106"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210144042",
+    "openalex_id": "I4210144042",
+    "ror": "https://ror.org/03n6tmk81",
+    "display_name": "Ministry of Education",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.education.go.ke/",
+    "works_count": 80,
+    "cited_by_count": 792,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I4210144042"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2802907600",
+    "openalex_id": "I2802907600",
+    "ror": "https://ror.org/05q89dp90",
+    "display_name": "Pharmacy and Poisons Board",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://pharmacyboardkenya.org/",
+    "works_count": 74,
+    "cited_by_count": 778,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.288323998451233,
+      "longitude": 36.82884216308594
+    },
+    "lineage": [
+      "https://openalex.org/I2802907600",
+      "https://openalex.org/I4210117370"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210133628",
+    "openalex_id": "I4210133628",
+    "ror": "https://ror.org/04m6m8q83",
+    "display_name": "Vétérinaires Sans Frontières Suisse",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.vsf-suisse.ch/vsf/web/en/",
+    "works_count": 73,
+    "cited_by_count": 6787,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.299278974533081,
+      "longitude": 36.76560592651367
+    },
+    "lineage": [
+      "https://openalex.org/I4210133628"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210088027",
+    "openalex_id": "I4210088027",
+    "ror": "https://ror.org/002wdx176",
+    "display_name": "Practical Action",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://practicalaction.org/",
+    "works_count": 72,
+    "cited_by_count": 248,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2914170026779175,
+      "longitude": 36.77641677856445
+    },
+    "lineage": [
+      "https://openalex.org/I4210088027"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2802547959",
+    "openalex_id": "I2802547959",
+    "ror": "https://ror.org/038y3xt87",
+    "display_name": "Aga Khan Hospital, Kisumu",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://www.agakhanhospitals.org/kisumu/",
+    "works_count": 70,
+    "cited_by_count": 499,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.09837400168180466,
+      "longitude": 34.75629806518555
+    },
+    "lineage": [
+      "https://openalex.org/I118185606",
+      "https://openalex.org/I2802547959",
+      "https://openalex.org/I4210108070",
+      "https://openalex.org/I4210114929"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I209195179",
+    "openalex_id": "I209195179",
+    "ror": "https://ror.org/03kgy0531",
+    "display_name": "Presbyterian University of East Africa",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.puea.ac.ke/",
+    "works_count": 67,
+    "cited_by_count": 216,
+    "geo": {
+      "city": "Kikuyu",
+      "geonames_city_id": "192126",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.265637993812561,
+      "longitude": 36.66997146606445
+    },
+    "lineage": [
+      "https://openalex.org/I209195179"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210126849",
+    "openalex_id": "I4210126849",
+    "ror": "https://ror.org/044ga3f28",
+    "display_name": "Medic Mobile",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://medicmobile.org/",
+    "works_count": 64,
+    "cited_by_count": 1489,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.303987979888916,
+      "longitude": 36.80093765258789
+    },
+    "lineage": [
+      "https://openalex.org/I4210126849"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210124006",
+    "openalex_id": "I4210124006",
+    "ror": "https://ror.org/037a35y56",
+    "display_name": "Moving the GoalPosts",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://mtgk.org/",
+    "works_count": 61,
+    "cited_by_count": 75,
+    "geo": {
+      "city": "Kilifi",
+      "geonames_city_id": "192067",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -3.6467039585113525,
+      "longitude": 39.84864807128906
+    },
+    "lineage": [
+      "https://openalex.org/I4210124006"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210162831",
+    "openalex_id": "I4210162831",
+    "ror": "https://ror.org/05dj22k02",
+    "display_name": "Lukenya University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://lukenyauniversity.ac.ke/",
+    "works_count": 60,
+    "cited_by_count": 244,
+    "geo": {
+      "city": "Mtito Andei",
+      "geonames_city_id": "186101",
+      "region": "Makueni County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -2.68987,
+      "longitude": 38.16687
+    },
+    "lineage": [
+      "https://openalex.org/I4210162831"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262987",
+    "openalex_id": "I4405262987",
+    "ror": "https://ror.org/010cbts85",
+    "display_name": "Science for Africa Foundation",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://scienceforafrica.foundation",
+    "works_count": 60,
+    "cited_by_count": 448,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405262987"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210115265",
+    "openalex_id": "I4210115265",
+    "ror": "https://ror.org/022bv4r09",
+    "display_name": "African Institute for Health and Development",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://aihdint.org/",
+    "works_count": 58,
+    "cited_by_count": 1573,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2981209754943848,
+      "longitude": 36.786624908447266
+    },
+    "lineage": [
+      "https://openalex.org/I4210115265"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210096905",
+    "openalex_id": "I4210096905",
+    "ror": "https://ror.org/00vcvxb53",
+    "display_name": "Centre for Health Solutions",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.chskenya.org/",
+    "works_count": 56,
+    "cited_by_count": 1172,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2888950109481812,
+      "longitude": 36.79228973388672
+    },
+    "lineage": [
+      "https://openalex.org/I4210096905"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262161",
+    "openalex_id": "I4405262161",
+    "ror": "https://ror.org/01r6rc776",
+    "display_name": "Geothermal Development Company",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.gdc.co.ke",
+    "works_count": 56,
+    "cited_by_count": 760,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405262161"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2801428152",
+    "openalex_id": "I2801428152",
+    "ror": "https://ror.org/04vhk3x11",
+    "display_name": "Information and Communication Technology Authority",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.icta.go.ke/",
+    "works_count": 55,
+    "cited_by_count": 110,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2860599756240845,
+      "longitude": 36.81937026977539
+    },
+    "lineage": [
+      "https://openalex.org/I2801428152"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210090696",
+    "openalex_id": "I4210090696",
+    "ror": "https://ror.org/008zzz711",
+    "display_name": "Somalia Water and Land Information",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.faoswalim.org/",
+    "works_count": 53,
+    "cited_by_count": 2708,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2356539964675903,
+      "longitude": 36.77070236206055
+    },
+    "lineage": [
+      "https://openalex.org/I1286959531",
+      "https://openalex.org/I1320745970",
+      "https://openalex.org/I4210090696"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210132323",
+    "openalex_id": "I4210132323",
+    "ror": "https://ror.org/047yw9a66",
+    "display_name": "Kenya Seed Company (Kenya)",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "http://www.kenyaseed.com/",
+    "works_count": 51,
+    "cited_by_count": 625,
+    "geo": {
+      "city": "Kitale",
+      "geonames_city_id": "191220",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 1.0215719938278198,
+      "longitude": 35.00418472290039
+    },
+    "lineage": [
+      "https://openalex.org/I4210132323"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210145769",
+    "openalex_id": "I4210145769",
+    "ror": "https://ror.org/04hf31n78",
+    "display_name": "National Drought Management Authority",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.ndma.go.ke/",
+    "works_count": 47,
+    "cited_by_count": 550,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2848360538482666,
+      "longitude": 36.82286071777344
+    },
+    "lineage": [
+      "https://openalex.org/I4210145769"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210099237",
+    "openalex_id": "I4210099237",
+    "ror": "https://ror.org/011w0zz81",
+    "display_name": "African Technology Policy Studies Network",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.atpsnet.org/",
+    "works_count": 45,
+    "cited_by_count": 1423,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.289011001586914,
+      "longitude": 36.815799713134766
+    },
+    "lineage": [
+      "https://openalex.org/I4210099237"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210111803",
+    "openalex_id": "I4210111803",
+    "ror": "https://ror.org/027s2rg16",
+    "display_name": "Machakos School",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.machakosschool.sc.ke",
+    "works_count": 42,
+    "cited_by_count": 418,
+    "geo": {
+      "city": "Machakos",
+      "geonames_city_id": "188492",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.5044840574264526,
+      "longitude": 37.25853729248047
+    },
+    "lineage": [
+      "https://openalex.org/I4210111803"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210152542",
+    "openalex_id": "I4210152542",
+    "ror": "https://ror.org/04zdyxh40",
+    "display_name": "Kenya Land Alliance",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.kenyalandalliance.or.ke/",
+    "works_count": 42,
+    "cited_by_count": 1029,
+    "geo": {
+      "city": "Nakuru",
+      "geonames_city_id": "184622",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.2766770124435425,
+      "longitude": 36.15936279296875
+    },
+    "lineage": [
+      "https://openalex.org/I4210152542"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2802674826",
+    "openalex_id": "I2802674826",
+    "ror": "https://ror.org/020wajj63",
+    "display_name": "Karen Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "https://karenhospital.org",
+    "works_count": 41,
+    "cited_by_count": 398,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I2802674826"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210096852",
+    "openalex_id": "I4210096852",
+    "ror": "https://ror.org/00sf50t55",
+    "display_name": "Kenya National Blood Transfusion Services",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.nbtskenya.or.ke/",
+    "works_count": 41,
+    "cited_by_count": 4329,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2971370220184326,
+      "longitude": 36.79389190673828
+    },
+    "lineage": [
+      "https://openalex.org/I4210096852"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210114439",
+    "openalex_id": "I4210114439",
+    "ror": "https://ror.org/01z1y5p14",
+    "display_name": "Action in the Community Environment",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.ace-africa.org/",
+    "works_count": 41,
+    "cited_by_count": 660,
+    "geo": {
+      "city": "Bungoma",
+      "geonames_city_id": "200067",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.5739610195159912,
+      "longitude": 34.558868408203125
+    },
+    "lineage": [
+      "https://openalex.org/I4210114439"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210150453",
+    "openalex_id": "I4210150453",
+    "ror": "https://ror.org/04vc08p32",
+    "display_name": "National Defence College Kenya",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.ndc.go.ke/",
+    "works_count": 40,
+    "cited_by_count": 61,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3026210069656372,
+      "longitude": 36.6999626159668
+    },
+    "lineage": [
+      "https://openalex.org/I4210150453"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210155661",
+    "openalex_id": "I4210155661",
+    "ror": "https://ror.org/04bwc3e35",
+    "display_name": "Centre for the Study of Adolescence",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.csakenya.org/",
+    "works_count": 40,
+    "cited_by_count": 290,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2923450469970703,
+      "longitude": 36.763057708740234
+    },
+    "lineage": [
+      "https://openalex.org/I4210155661"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405259687",
+    "openalex_id": "I4405259687",
+    "ror": "https://ror.org/02jhq7089",
+    "display_name": "Mathari National Teaching and Referral Hospital",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": null,
+    "works_count": 40,
+    "cited_by_count": 353,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405259687"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405261871",
+    "openalex_id": "I4405261871",
+    "ror": "https://ror.org/001gex257",
+    "display_name": "Kenya Institute of Curriculum Development",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kicd.ac.ke",
+    "works_count": 38,
+    "cited_by_count": 183,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405261871"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210100039",
+    "openalex_id": "I4210100039",
+    "ror": "https://ror.org/01azfny69",
+    "display_name": "IHub",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.ihub.co.ke/",
+    "works_count": 37,
+    "cited_by_count": 438,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2987209558486938,
+      "longitude": 36.790767669677734
+    },
+    "lineage": [
+      "https://openalex.org/I4210100039"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210124517",
+    "openalex_id": "I4210124517",
+    "ror": "https://ror.org/0287y3s68",
+    "display_name": "Echo Network Africa",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://enafrica.org/",
+    "works_count": 37,
+    "cited_by_count": 261,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2979010343551636,
+      "longitude": 36.800445556640625
+    },
+    "lineage": [
+      "https://openalex.org/I4210124517"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210132294",
+    "openalex_id": "I4210132294",
+    "ror": "https://ror.org/03wzc0b85",
+    "display_name": "National Commission for Science, Technology, and Innovation",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.nacosti.go.ke",
+    "works_count": 36,
+    "cited_by_count": 176,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210132294"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210141389",
+    "openalex_id": "I4210141389",
+    "ror": "https://ror.org/03w2dn060",
+    "display_name": "African Institute for Capacity Development",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.aicad-taku.org/",
+    "works_count": 35,
+    "cited_by_count": 491,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2856489419937134,
+      "longitude": 36.8213005065918
+    },
+    "lineage": [
+      "https://openalex.org/I4210141389"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210155188",
+    "openalex_id": "I4210155188",
+    "ror": "https://ror.org/05c8bms59",
+    "display_name": "Kenya Psychiatry Association​",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.kenyapsychiatrists.org/",
+    "works_count": 34,
+    "cited_by_count": 942,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.294862985610962,
+      "longitude": 36.81654739379883
+    },
+    "lineage": [
+      "https://openalex.org/I4210155188"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3130706911",
+    "openalex_id": "I3130706911",
+    "ror": "https://ror.org/01ccvyq03",
+    "display_name": "Gretsa University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://gretsauniversity.ac.ke/",
+    "works_count": 32,
+    "cited_by_count": 65,
+    "geo": {
+      "city": "Thika",
+      "geonames_city_id": "179330",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.0522160530090332,
+      "longitude": 37.09467697143555
+    },
+    "lineage": [
+      "https://openalex.org/I3130706911"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210103840",
+    "openalex_id": "I4210103840",
+    "ror": "https://ror.org/01dnjhj88",
+    "display_name": "Nakuru County Council",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://nakinfo.unibe.ch/",
+    "works_count": 30,
+    "cited_by_count": 239,
+    "geo": {
+      "city": "Nakuru",
+      "geonames_city_id": "184622",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.28638899326324463,
+      "longitude": 36.0613899230957
+    },
+    "lineage": [
+      "https://openalex.org/I4210103840"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210148769",
+    "openalex_id": "I4210148769",
+    "ror": "https://ror.org/05n3fvh77",
+    "display_name": "Nature Kenya The East Africa Natural History Society",
+    "country_code": "KE",
+    "type": "archive",
+    "homepage_url": "http://www.naturekenya.org/",
+    "works_count": 30,
+    "cited_by_count": 412,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2732030153274536,
+      "longitude": 36.81451416015625
+    },
+    "lineage": [
+      "https://openalex.org/I4210148769"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210093567",
+    "openalex_id": "I4210093567",
+    "ror": "https://ror.org/00fa3cy95",
+    "display_name": "Kenya AIDS NGOs Consortium",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.kanco.org/",
+    "works_count": 29,
+    "cited_by_count": 1139,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2927180528640747,
+      "longitude": 36.79182052612305
+    },
+    "lineage": [
+      "https://openalex.org/I4210093567"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210103502",
+    "openalex_id": "I4210103502",
+    "ror": "https://ror.org/01ecv1b71",
+    "display_name": "African Conservation Tillage Network",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.act-africa.org/",
+    "works_count": 29,
+    "cited_by_count": 1433,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2910699844360352,
+      "longitude": 36.82197952270508
+    },
+    "lineage": [
+      "https://openalex.org/I4210103502"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210116682",
+    "openalex_id": "I4210116682",
+    "ror": "https://ror.org/025etn077",
+    "display_name": "Network of AIDS Researchers of Eastern and Southern Africa",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://naresa.org/",
+    "works_count": 29,
+    "cited_by_count": 941,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2985990047454834,
+      "longitude": 36.81587600708008
+    },
+    "lineage": [
+      "https://openalex.org/I4210116682"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266392",
+    "openalex_id": "I4405266392",
+    "ror": "https://ror.org/02n3wwc06",
+    "display_name": "Rift Valley Institute",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://riftvalley.net",
+    "works_count": 29,
+    "cited_by_count": 678,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266392"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210132641",
+    "openalex_id": "I4210132641",
+    "ror": "https://ror.org/04hbd7s79",
+    "display_name": "Africa Harvest Biotech Foundation International",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://africaharvest.org/",
+    "works_count": 28,
+    "cited_by_count": 598,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2861779928207397,
+      "longitude": 36.81941223144531
+    },
+    "lineage": [
+      "https://openalex.org/I4210132641"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210140763",
+    "openalex_id": "I4210140763",
+    "ror": "https://ror.org/042ywnb68",
+    "display_name": "Penda Health",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.pendahealth.com/",
+    "works_count": 27,
+    "cited_by_count": 346,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.324895977973938,
+      "longitude": 36.889404296875
+    },
+    "lineage": [
+      "https://openalex.org/I4210140763"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405276146",
+    "openalex_id": "I4405276146",
+    "ror": "https://ror.org/04x61qf31",
+    "display_name": "Holo Global Health Research Institute",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://research.holohc.org",
+    "works_count": 27,
+    "cited_by_count": 85,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405276146"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210128327",
+    "openalex_id": "I4210128327",
+    "ror": "https://ror.org/03mngpd27",
+    "display_name": "Health Strat (Kenya)",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "http://www.healthstrat.co.ke/",
+    "works_count": 26,
+    "cited_by_count": 7,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2922619581222534,
+      "longitude": 36.778160095214844
+    },
+    "lineage": [
+      "https://openalex.org/I4210128327"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405277553",
+    "openalex_id": "I4405277553",
+    "ror": "https://ror.org/0330gwd78",
+    "display_name": "Kenya Assemblies of God EAST University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://east.university",
+    "works_count": 24,
+    "cited_by_count": 20,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405277553"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210119357",
+    "openalex_id": "I4210119357",
+    "ror": "https://ror.org/01tbz5160",
+    "display_name": "National Nurses Association of Kenya",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.nnak.or.ke/",
+    "works_count": 23,
+    "cited_by_count": 908,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2996970415115356,
+      "longitude": 36.80772399902344
+    },
+    "lineage": [
+      "https://openalex.org/I4210119357"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210162791",
+    "openalex_id": "I4210162791",
+    "ror": "https://ror.org/05tqsj653",
+    "display_name": "Family Health Options Kenya",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://fhok.org/",
+    "works_count": 23,
+    "cited_by_count": 423,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3131810426712036,
+      "longitude": 36.81672286987305
+    },
+    "lineage": [
+      "https://openalex.org/I4210162791"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210122357",
+    "openalex_id": "I4210122357",
+    "ror": "https://ror.org/0207t6t84",
+    "display_name": "Christian Health Association of Kenya",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.chak.or.ke/",
+    "works_count": 22,
+    "cited_by_count": 154,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2665029764175415,
+      "longitude": 36.76307678222656
+    },
+    "lineage": [
+      "https://openalex.org/I4210122357"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266340",
+    "openalex_id": "I4405266340",
+    "ror": "https://ror.org/027et3m60",
+    "display_name": "Institute for Meteorological Training and Research, WMO Regional Training Centre",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kimtr.ac.ke",
+    "works_count": 22,
+    "cited_by_count": 414,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266340"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210100493",
+    "openalex_id": "I4210100493",
+    "ror": "https://ror.org/00z28s026",
+    "display_name": "Partnership for African Social & Governance Research",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.pasgr.org/",
+    "works_count": 21,
+    "cited_by_count": 206,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2944320440292358,
+      "longitude": 36.8110237121582
+    },
+    "lineage": [
+      "https://openalex.org/I4210100493"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210134191",
+    "openalex_id": "I4210134191",
+    "ror": "https://ror.org/0333mmt30",
+    "display_name": "Energy, Environment and Development Network for Africa",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.afrepren.org/",
+    "works_count": 21,
+    "cited_by_count": 2003,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.297706961631775,
+      "longitude": 36.77994155883789
+    },
+    "lineage": [
+      "https://openalex.org/I4210134191"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405260972",
+    "openalex_id": "I4405260972",
+    "ror": "https://ror.org/04j5k3k40",
+    "display_name": "National Oil Corporation of Kenya",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": null,
+    "works_count": 21,
+    "cited_by_count": 604,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405260972"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266316",
+    "openalex_id": "I4405266316",
+    "ror": "https://ror.org/023q8t028",
+    "display_name": "Association for Christian Theological Education in Africa",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://acteaweb.org",
+    "works_count": 21,
+    "cited_by_count": 11,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266316"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210163008",
+    "openalex_id": "I4210163008",
+    "ror": "https://ror.org/05x8ty706",
+    "display_name": "Columbia Global Center",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://globalcenters.columbia.edu/nairobi/",
+    "works_count": 20,
+    "cited_by_count": 234,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3013670444488525,
+      "longitude": 36.815799713134766
+    },
+    "lineage": [
+      "https://openalex.org/I4210163008"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210101270",
+    "openalex_id": "I4210101270",
+    "ror": "https://ror.org/0157ysg68",
+    "display_name": "ETC East Africa (Kenya)",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "http://www.etc-eastafrica.org/",
+    "works_count": 19,
+    "cited_by_count": 427,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2596770524978638,
+      "longitude": 36.77667999267578
+    },
+    "lineage": [
+      "https://openalex.org/I4210101270"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210158348",
+    "openalex_id": "I4210158348",
+    "ror": "https://ror.org/058vg7409",
+    "display_name": "Christian Missionary Fellowship International",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.cmfi.org/",
+    "works_count": 19,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2735849618911743,
+      "longitude": 36.919185638427734
+    },
+    "lineage": [
+      "https://openalex.org/I4210158348"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210095767",
+    "openalex_id": "I4210095767",
+    "ror": "https://ror.org/01jpxmr98",
+    "display_name": "Mazingira Institute",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://mazinst.org/",
+    "works_count": 18,
+    "cited_by_count": 494,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.4400999546051025,
+      "longitude": 36.68455505371094
+    },
+    "lineage": [
+      "https://openalex.org/I4210095767"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210111348",
+    "openalex_id": "I4210111348",
+    "ror": "https://ror.org/02tahzf33",
+    "display_name": "Centre for Human Rights and Policy Studies",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.chrips.or.ke/",
+    "works_count": 18,
+    "cited_by_count": 432,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2721550464630127,
+      "longitude": 36.80224609375
+    },
+    "lineage": [
+      "https://openalex.org/I4210111348"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262663",
+    "openalex_id": "I4405262663",
+    "ror": "https://ror.org/04hnbx943",
+    "display_name": "Environment for Development Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.efdinitiative.org/kenya",
+    "works_count": 18,
+    "cited_by_count": 651,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405262663"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405270012",
+    "openalex_id": "I4405270012",
+    "ror": "https://ror.org/05wn4z044",
+    "display_name": "Alliance for Accelerating Excellence in Science in Africa",
+    "country_code": "KE",
+    "type": "funder",
+    "homepage_url": "https://afriqueoneaspire.org/aesa/",
+    "works_count": 18,
+    "cited_by_count": 225,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405270012"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405272716",
+    "openalex_id": "I4405272716",
+    "ror": "https://ror.org/04ks73c60",
+    "display_name": "Non Communicable Diseases Alliance Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://ncdak.org",
+    "works_count": 18,
+    "cited_by_count": 698,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405272716"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2800500882",
+    "openalex_id": "I2800500882",
+    "ror": "https://ror.org/018fcax10",
+    "display_name": "Kenya National Library Service",
+    "country_code": "KE",
+    "type": "archive",
+    "homepage_url": "http://www.knls.ac.ke/",
+    "works_count": 17,
+    "cited_by_count": 78,
+    "geo": {
+      "city": "Eldoret",
+      "geonames_city_id": "198629",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.5183240175247192,
+      "longitude": 35.27599334716797
+    },
+    "lineage": [
+      "https://openalex.org/I2800500882"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210100649",
+    "openalex_id": "I4210100649",
+    "ror": "https://ror.org/015pm1582",
+    "display_name": "Remit Kenya (Kenya)",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "https://remitkenya.co.ke/",
+    "works_count": 17,
+    "cited_by_count": 1153,
+    "geo": {
+      "city": "Busia",
+      "geonames_city_id": "199989",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.46097999811172485,
+      "longitude": 34.11143112182617
+    },
+    "lineage": [
+      "https://openalex.org/I4210100649"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210151313",
+    "openalex_id": "I4210151313",
+    "ror": "https://ror.org/04cnffe38",
+    "display_name": "Pioneer International University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.piu.ac.ke/",
+    "works_count": 17,
+    "cited_by_count": 3,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2721500396728516,
+      "longitude": 36.82811737060547
+    },
+    "lineage": [
+      "https://openalex.org/I4210151313"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I2801972722",
+    "openalex_id": "I2801972722",
+    "ror": "https://ror.org/02gn7j616",
+    "display_name": "African Virtual University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://avu.org/avuweb/en/",
+    "works_count": 16,
+    "cited_by_count": 54,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2942450046539307,
+      "longitude": 36.78679656982422
+    },
+    "lineage": [
+      "https://openalex.org/I2801972722"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210097749",
+    "openalex_id": "I4210097749",
+    "ror": "https://ror.org/00x8kv449",
+    "display_name": "Reality of Aid Africa Network",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.roaafrica.org/",
+    "works_count": 16,
+    "cited_by_count": 32,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2889209985733032,
+      "longitude": 36.78142547607422
+    },
+    "lineage": [
+      "https://openalex.org/I4210097749"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210098909",
+    "openalex_id": "I4210098909",
+    "ror": "https://ror.org/00v4msg57",
+    "display_name": "African Network for Internationalization of Education",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://anienetwork.org",
+    "works_count": 16,
+    "cited_by_count": 133,
+    "geo": {
+      "city": "Eldoret",
+      "geonames_city_id": "198629",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.5371099710464478,
+      "longitude": 35.26853561401367
+    },
+    "lineage": [
+      "https://openalex.org/I4210098909"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210137348",
+    "openalex_id": "I4210137348",
+    "ror": "https://ror.org/0307m3652",
+    "display_name": "African Migration and Development Policy Centre",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.amadpoc.org/",
+    "works_count": 16,
+    "cited_by_count": 222,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2488759756088257,
+      "longitude": 36.756160736083984
+    },
+    "lineage": [
+      "https://openalex.org/I4210137348"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266786",
+    "openalex_id": "I4405266786",
+    "ror": "https://ror.org/05jh8dx31",
+    "display_name": "The Kenya Education Management Institute",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.kemi.ac.ke",
+    "works_count": 16,
+    "cited_by_count": 2,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266786"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405273937",
+    "openalex_id": "I4405273937",
+    "ror": "https://ror.org/00r0cn362",
+    "display_name": "Research Centre for Smallholder Farmers",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.rcfsf.org",
+    "works_count": 16,
+    "cited_by_count": 117,
+    "geo": {
+      "city": "Eldoret",
+      "geonames_city_id": "198629",
+      "region": "Uasin Gishu County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.52036,
+      "longitude": 35.26993
+    },
+    "lineage": [
+      "https://openalex.org/I4405273937"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210090545",
+    "openalex_id": "I4210090545",
+    "ror": "https://ror.org/00d964061",
+    "display_name": "GoCare Health Solutions Limited",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://gocare.co.ke/",
+    "works_count": 14,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2950160503387451,
+      "longitude": 36.79838180541992
+    },
+    "lineage": [
+      "https://openalex.org/I4210090545"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210100769",
+    "openalex_id": "I4210100769",
+    "ror": "https://ror.org/01652va36",
+    "display_name": "Kenya Highlands University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.khu.ac.ke/",
+    "works_count": 14,
+    "cited_by_count": 73,
+    "geo": {
+      "city": "Kericho",
+      "geonames_city_id": "192900",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.36924898624420166,
+      "longitude": 35.267154693603516
+    },
+    "lineage": [
+      "https://openalex.org/I4210100769"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210155669",
+    "openalex_id": "I4210155669",
+    "ror": "https://ror.org/04ccc4h18",
+    "display_name": "Wajir County Government",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.wajir.go.ke/",
+    "works_count": 14,
+    "cited_by_count": 50,
+    "geo": {
+      "city": "Wajir",
+      "geonames_city_id": "178443",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 1.7462049722671509,
+      "longitude": 40.0557975769043
+    },
+    "lineage": [
+      "https://openalex.org/I4210155669"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210132933",
+    "openalex_id": "I4210132933",
+    "ror": "https://ror.org/02z8d3d73",
+    "display_name": "Faraja Cancer Support Trust",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://farajacancersupport.org/",
+    "works_count": 13,
+    "cited_by_count": 232,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2624870538711548,
+      "longitude": 36.81215286254883
+    },
+    "lineage": [
+      "https://openalex.org/I4210132933"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210143509",
+    "openalex_id": "I4210143509",
+    "ror": "https://ror.org/042e5sj03",
+    "display_name": "mHealth (Kenya)",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "http://mhealthkenya.org/",
+    "works_count": 13,
+    "cited_by_count": 127,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2898240089416504,
+      "longitude": 36.784156799316406
+    },
+    "lineage": [
+      "https://openalex.org/I4210143509"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266577",
+    "openalex_id": "I4405266577",
+    "ror": "https://ror.org/03zw1kz58",
+    "display_name": "Kenya National Archives",
+    "country_code": "KE",
+    "type": "archive",
+    "homepage_url": "https://www.archives.go.ke",
+    "works_count": 13,
+    "cited_by_count": 87,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266577"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210160735",
+    "openalex_id": "I4210160735",
+    "ror": "https://ror.org/05db06c70",
+    "display_name": "Kenya Coastal Development Project",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.kcdp.co.ke/en",
+    "works_count": 12,
+    "cited_by_count": 7,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -4.055235862731934,
+      "longitude": 39.68207550048828
+    },
+    "lineage": [
+      "https://openalex.org/I4210160735"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262157",
+    "openalex_id": "I4405262157",
+    "ror": "https://ror.org/01p4enw18",
+    "display_name": "Kenya Institute of Special Education",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kise.ac.ke",
+    "works_count": 11,
+    "cited_by_count": 165,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405262157"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210137713",
+    "openalex_id": "I4210137713",
+    "ror": "https://ror.org/03qj46y39",
+    "display_name": "Ministry of Labour, Social Security and Services",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://labour.go.ke/",
+    "works_count": 10,
+    "cited_by_count": 25,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2898730039596558,
+      "longitude": 36.81193161010742
+    },
+    "lineage": [
+      "https://openalex.org/I4210137713"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210144014",
+    "openalex_id": "I4210144014",
+    "ror": "https://ror.org/051q2fd34",
+    "display_name": "Maisha Meds",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://maishameds.org/",
+    "works_count": 10,
+    "cited_by_count": 12,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.09213899821043015,
+      "longitude": 34.765621185302734
+    },
+    "lineage": [
+      "https://openalex.org/I4210144014"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405263376",
+    "openalex_id": "I4405263376",
+    "ror": "https://ror.org/05xf6v732",
+    "display_name": "Zihi Institute",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://zihiinstitute.org",
+    "works_count": 10,
+    "cited_by_count": 29,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405263376"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266154",
+    "openalex_id": "I4405266154",
+    "ror": "https://ror.org/00py1np48",
+    "display_name": "Kenya School of TVET",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://kstvet.ac.ke",
+    "works_count": 10,
+    "cited_by_count": 12,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266154"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210097996",
+    "openalex_id": "I4210097996",
+    "ror": "https://ror.org/00rs33k88",
+    "display_name": "Eastern Deanery AIDS Relief Program",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.edarp.org/",
+    "works_count": 9,
+    "cited_by_count": 330,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2573169469833374,
+      "longitude": 36.89604187011719
+    },
+    "lineage": [
+      "https://openalex.org/I4210097996"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210142731",
+    "openalex_id": "I4210142731",
+    "ror": "https://ror.org/0410jfe71",
+    "display_name": "British Council",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.britishcouncil.co.ke/",
+    "works_count": 9,
+    "cited_by_count": 61,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2943010330200195,
+      "longitude": 36.81692886352539
+    },
+    "lineage": [
+      "https://openalex.org/I4210142731"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210106092",
+    "openalex_id": "I4210106092",
+    "ror": "https://ror.org/01md5nh91",
+    "display_name": "Centre for Research and Technology Development",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.restechkenya.or.ke/",
+    "works_count": 8,
+    "cited_by_count": 62,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.0682540014386177,
+      "longitude": 34.72611999511719
+    },
+    "lineage": [
+      "https://openalex.org/I4210106092"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210142584",
+    "openalex_id": "I4210142584",
+    "ror": "https://ror.org/04dk55y19",
+    "display_name": "Africa Early Childhood Network",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://africaecnetwork.org/",
+    "works_count": 8,
+    "cited_by_count": 128,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3248449563980103,
+      "longitude": 36.70936965942383
+    },
+    "lineage": [
+      "https://openalex.org/I4210142584"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210144100",
+    "openalex_id": "I4210144100",
+    "ror": "https://ror.org/049pxhr81",
+    "display_name": "The Nairobi Women’s Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://nwch.co.ke/",
+    "works_count": 8,
+    "cited_by_count": 2949,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.295117974281311,
+      "longitude": 36.79806900024414
+    },
+    "lineage": [
+      "https://openalex.org/I4210144100"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210149109",
+    "openalex_id": "I4210149109",
+    "ror": "https://ror.org/04ke81j60",
+    "display_name": "Katiba Institute",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.katibainstitute.org/",
+    "works_count": 8,
+    "cited_by_count": 77,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2946480512619019,
+      "longitude": 36.795230865478516
+    },
+    "lineage": [
+      "https://openalex.org/I4210149109"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405267849",
+    "openalex_id": "I4405267849",
+    "ror": "https://ror.org/04q100z57",
+    "display_name": "Policy Action Initiative",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.policyactioninitiative.org",
+    "works_count": 8,
+    "cited_by_count": 4,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405267849"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I3130811397",
+    "openalex_id": "I3130811397",
+    "ror": "https://ror.org/0586y4s33",
+    "display_name": "Inoorero University",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "http://www.iu.ac.ke/",
+    "works_count": 7,
+    "cited_by_count": 37,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2686630487442017,
+      "longitude": 36.81985855102539
+    },
+    "lineage": [
+      "https://openalex.org/I3130811397"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210160351",
+    "openalex_id": "I4210160351",
+    "ror": "https://ror.org/04y64y937",
+    "display_name": "Kenya Human Rights Commission",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.khrc.or.ke",
+    "works_count": 7,
+    "cited_by_count": 241,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.289201021194458,
+      "longitude": 36.769317626953125
+    },
+    "lineage": [
+      "https://openalex.org/I4210160351"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210165609",
+    "openalex_id": "I4210165609",
+    "ror": "https://ror.org/0575fjh40",
+    "display_name": "Kenya Association of Professional Counsellors",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.kapc.or.ke/",
+    "works_count": 7,
+    "cited_by_count": 971,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2637009620666504,
+      "longitude": 36.82327651977539
+    },
+    "lineage": [
+      "https://openalex.org/I4210165609"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210165801",
+    "openalex_id": "I4210165801",
+    "ror": "https://ror.org/05qfxcq37",
+    "display_name": "Hope Worldwide Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.hopewwkenya.org/i",
+    "works_count": 7,
+    "cited_by_count": 504,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3142800331115723,
+      "longitude": 36.871543884277344
+    },
+    "lineage": [
+      "https://openalex.org/I4210165801"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266622",
+    "openalex_id": "I4405266622",
+    "ror": "https://ror.org/04991rm54",
+    "display_name": "Centre for Mathematics, Science and Technology Education in Africa",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.cemastea.ac.ke",
+    "works_count": 7,
+    "cited_by_count": 45,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266622"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210146463",
+    "openalex_id": "I4210146463",
+    "ror": "https://ror.org/03vxt1186",
+    "display_name": "Water Services Trust Fund",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.waterfund.go.ke/",
+    "works_count": 6,
+    "cited_by_count": 20,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2982759475708008,
+      "longitude": 36.81309509277344
+    },
+    "lineage": [
+      "https://openalex.org/I4210146463"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4387154064",
+    "openalex_id": "I4387154064",
+    "ror": "https://ror.org/05pwhmm02",
+    "display_name": "National Research Fund Kenya",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.nrf.go.ke",
+    "works_count": 6,
+    "cited_by_count": 3,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4387154064"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210088484",
+    "openalex_id": "I4210088484",
+    "ror": "https://ror.org/003ad2905",
+    "display_name": "Farm Africa Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.farmafrica.org/",
+    "works_count": 5,
+    "cited_by_count": 148,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.293300986289978,
+      "longitude": 36.79142761230469
+    },
+    "lineage": [
+      "https://openalex.org/I4210088484"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210132704",
+    "openalex_id": "I4210132704",
+    "ror": "https://ror.org/03aqz1r62",
+    "display_name": "British High Commission Nairobi",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.gov.uk/world/organisations/british-high-commission-nairobi",
+    "works_count": 5,
+    "cited_by_count": 250,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.287654995918274,
+      "longitude": 36.81633758544922
+    },
+    "lineage": [
+      "https://openalex.org/I4210132704"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210150073",
+    "openalex_id": "I4210150073",
+    "ror": "https://ror.org/04n78zc82",
+    "display_name": "Kenya Health Informatics Association",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://www.kehia.org/",
+    "works_count": 5,
+    "cited_by_count": 28,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.291666030883789,
+      "longitude": 36.7832145690918
+    },
+    "lineage": [
+      "https://openalex.org/I4210150073"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405276806",
+    "openalex_id": "I4405276806",
+    "ror": "https://ror.org/00bwd6w04",
+    "display_name": "The Karen Hospital Medical Training College",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.tkhmtc.ac.ke",
+    "works_count": 5,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405276806"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210101651",
+    "openalex_id": "I4210101651",
+    "ror": "https://ror.org/01a304769",
+    "display_name": "Kenya Institute Of Organic Farming",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.kiof.net/",
+    "works_count": 4,
+    "cited_by_count": 177,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.0890380144119263,
+      "longitude": 37.0139045715332
+    },
+    "lineage": [
+      "https://openalex.org/I4210101651"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210104648",
+    "openalex_id": "I4210104648",
+    "ror": "https://ror.org/01f5kte17",
+    "display_name": "I Choose Life",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://ichooselife.global/",
+    "works_count": 4,
+    "cited_by_count": 219,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2701259851455688,
+      "longitude": 36.797386169433594
+    },
+    "lineage": [
+      "https://openalex.org/I4210104648"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210114412",
+    "openalex_id": "I4210114412",
+    "ror": "https://ror.org/027z3vs57",
+    "display_name": "Kenya Sea Turtle Conservation Committee",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://seaturtle.wildlifedirect.org/",
+    "works_count": 4,
+    "cited_by_count": 51,
+    "geo": {
+      "city": "Mombasa",
+      "geonames_city_id": "186301",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -4.044106960296631,
+      "longitude": 39.65972900390625
+    },
+    "lineage": [
+      "https://openalex.org/I4210114412"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210128884",
+    "openalex_id": "I4210128884",
+    "ror": "https://ror.org/03xgnmf38",
+    "display_name": "Gallmann Memorial Foundation",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://gallmannkenya.org/",
+    "works_count": 4,
+    "cited_by_count": 227,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2938159704208374,
+      "longitude": 36.82747268676758
+    },
+    "lineage": [
+      "https://openalex.org/I4210128884"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210147454",
+    "openalex_id": "I4210147454",
+    "ror": "https://ror.org/055p8z543",
+    "display_name": "African Mathematics Millennium Science Initiative",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://ammsi.org/",
+    "works_count": 4,
+    "cited_by_count": 5,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.283329963684082,
+      "longitude": 36.81666946411133
+    },
+    "lineage": [
+      "https://openalex.org/I4210147454"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210160127",
+    "openalex_id": "I4210160127",
+    "ror": "https://ror.org/0557gff25",
+    "display_name": "Twaweza Communications",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.twawezacommunications.org/",
+    "works_count": 4,
+    "cited_by_count": 3,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.263877034187317,
+      "longitude": 36.80766296386719
+    },
+    "lineage": [
+      "https://openalex.org/I4210160127"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405270202",
+    "openalex_id": "I4405270202",
+    "ror": "https://ror.org/007r4g539",
+    "display_name": "Kenya Education Network",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.kenet.or.ke",
+    "works_count": 4,
+    "cited_by_count": 9,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405270202"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210091052",
+    "openalex_id": "I4210091052",
+    "ror": "https://ror.org/00cw00f88",
+    "display_name": "Media Council of Kenya",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.mediacouncil.or.ke/en/mck/",
+    "works_count": 3,
+    "cited_by_count": 587,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.297745943069458,
+      "longitude": 36.813865661621094
+    },
+    "lineage": [
+      "https://openalex.org/I4210091052"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210106871",
+    "openalex_id": "I4210106871",
+    "ror": "https://ror.org/01tdr6x55",
+    "display_name": "Kenyan Medical Women's Association",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://kmwa.or.ke/",
+    "works_count": 3,
+    "cited_by_count": 237,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2986220121383667,
+      "longitude": 36.811405181884766
+    },
+    "lineage": [
+      "https://openalex.org/I4210106871"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210155840",
+    "openalex_id": "I4210155840",
+    "ror": "https://ror.org/051s40g85",
+    "display_name": "Farm Concern International",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.farmconcern.org/",
+    "works_count": 3,
+    "cited_by_count": 134,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2579699754714966,
+      "longitude": 36.772804260253906
+    },
+    "lineage": [
+      "https://openalex.org/I4210155840"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210163556",
+    "openalex_id": "I4210163556",
+    "ror": "https://ror.org/05jh6j253",
+    "display_name": "Resource Conflict Institute",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://reconcile-ea.org/",
+    "works_count": 3,
+    "cited_by_count": 55,
+    "geo": {
+      "city": "Nakuru",
+      "geonames_city_id": "184622",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.2851549983024597,
+      "longitude": 36.057342529296875
+    },
+    "lineage": [
+      "https://openalex.org/I4210163556"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210087721",
+    "openalex_id": "I4210087721",
+    "ror": "https://ror.org/002aev204",
+    "display_name": "African Institute for Leaders and Leadership",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.ailly.org/",
+    "works_count": 2,
+    "cited_by_count": 17,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2940620183944702,
+      "longitude": 36.80988311767578
+    },
+    "lineage": [
+      "https://openalex.org/I4210087721"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210100475",
+    "openalex_id": "I4210100475",
+    "ror": "https://ror.org/00xwm9r16",
+    "display_name": "Network for Water and Sanitation International",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.netwas.org/",
+    "works_count": 2,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.358991026878357,
+      "longitude": 36.76216125488281
+    },
+    "lineage": [
+      "https://openalex.org/I4210100475"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210110299",
+    "openalex_id": "I4210110299",
+    "ror": "https://ror.org/01v01s839",
+    "display_name": "The GoDown Arts Centre",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.thegodown.org",
+    "works_count": 2,
+    "cited_by_count": 8,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4210110299"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210118758",
+    "openalex_id": "I4210118758",
+    "ror": "https://ror.org/02pv3ns50",
+    "display_name": "Go Sheng",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.gosheng.org/",
+    "works_count": 2,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2915740013122559,
+      "longitude": 36.776912689208984
+    },
+    "lineage": [
+      "https://openalex.org/I4210118758"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210128249",
+    "openalex_id": "I4210128249",
+    "ror": "https://ror.org/0354a0368",
+    "display_name": "Sahelian Solutions Foundation",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.sasolfoundation.co.ke/",
+    "works_count": 2,
+    "cited_by_count": 32,
+    "geo": {
+      "city": "Kitui",
+      "geonames_city_id": "191038",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3623590469360352,
+      "longitude": 38.01360321044922
+    },
+    "lineage": [
+      "https://openalex.org/I4210128249"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210146813",
+    "openalex_id": "I4210146813",
+    "ror": "https://ror.org/04g43tp09",
+    "display_name": "Well Told Story (Kenya)",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "http://www.welltoldstory.com/",
+    "works_count": 2,
+    "cited_by_count": 36,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3260780572891235,
+      "longitude": 36.709693908691406
+    },
+    "lineage": [
+      "https://openalex.org/I4210146813"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210151010",
+    "openalex_id": "I4210151010",
+    "ror": "https://ror.org/04jvsvx56",
+    "display_name": "St. Francis Community Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://www.stfrancishospital.or.ke/",
+    "works_count": 2,
+    "cited_by_count": 81,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.224787950515747,
+      "longitude": 36.91535568237305
+    },
+    "lineage": [
+      "https://openalex.org/I4210151010"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266430",
+    "openalex_id": "I4405266430",
+    "ror": "https://ror.org/02wm49c11",
+    "display_name": "Kenya Meteorological Society",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://www.kms.or.ke",
+    "works_count": 2,
+    "cited_by_count": 29,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266430"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210089300",
+    "openalex_id": "I4210089300",
+    "ror": "https://ror.org/007q9sw85",
+    "display_name": "Institute for Law and Environmental Governance",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://ilegkenya.org/",
+    "works_count": 1,
+    "cited_by_count": 3,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2907040119171143,
+      "longitude": 36.78484344482422
+    },
+    "lineage": [
+      "https://openalex.org/I4210089300"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210120982",
+    "openalex_id": "I4210120982",
+    "ror": "https://ror.org/02wg0x984",
+    "display_name": "M-Changa",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://changa.co.ke/",
+    "works_count": 1,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.260148048400879,
+      "longitude": 36.78629684448242
+    },
+    "lineage": [
+      "https://openalex.org/I4210120982"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210125034",
+    "openalex_id": "I4210125034",
+    "ror": "https://ror.org/02k8cz130",
+    "display_name": "Umande Trust",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://umande.org/",
+    "works_count": 1,
+    "cited_by_count": 6,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3124829530715942,
+      "longitude": 36.77827835083008
+    },
+    "lineage": [
+      "https://openalex.org/I4210125034"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210125071",
+    "openalex_id": "I4210125071",
+    "ror": "https://ror.org/039dvf662",
+    "display_name": "Kenya Community Development Foundation",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.kcdf.or.ke",
+    "works_count": 1,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2978140115737915,
+      "longitude": 36.7833366394043
+    },
+    "lineage": [
+      "https://openalex.org/I4210125071"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210125266",
+    "openalex_id": "I4210125266",
+    "ror": "https://ror.org/0387qmw52",
+    "display_name": "Africa Health and Development International",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "https://ahadi.org/",
+    "works_count": 1,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2641340494155884,
+      "longitude": 36.80754852294922
+    },
+    "lineage": [
+      "https://openalex.org/I4210125266"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210128890",
+    "openalex_id": "I4210128890",
+    "ror": "https://ror.org/03xw42v88",
+    "display_name": "African Woman and Child Feature Service",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://www.awcfs.org/",
+    "works_count": 1,
+    "cited_by_count": 8,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2968330383300781,
+      "longitude": 36.801212310791016
+    },
+    "lineage": [
+      "https://openalex.org/I4210128890"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210129929",
+    "openalex_id": "I4210129929",
+    "ror": "https://ror.org/03kpa8902",
+    "display_name": "Coalition on Violence Against Women",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://covaw.or.ke/",
+    "works_count": 1,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2928980588912964,
+      "longitude": 36.82268524169922
+    },
+    "lineage": [
+      "https://openalex.org/I4210129929"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210131310",
+    "openalex_id": "I4210131310",
+    "ror": "https://ror.org/03cxgaw61",
+    "display_name": "K-Rep Development Agency (Kenya)",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "https://k-rep.co.ke/",
+    "works_count": 1,
+    "cited_by_count": 12,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2894760370254517,
+      "longitude": 36.78591537475586
+    },
+    "lineage": [
+      "https://openalex.org/I4210131310"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210135710",
+    "openalex_id": "I4210135710",
+    "ror": "https://ror.org/02szmkw66",
+    "display_name": "Child Aid Organization Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://childaidkenya.wordpress.com/",
+    "works_count": 1,
+    "cited_by_count": 9,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2790390253067017,
+      "longitude": 36.87794876098633
+    },
+    "lineage": [
+      "https://openalex.org/I4210135710"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210140853",
+    "openalex_id": "I4210140853",
+    "ror": "https://ror.org/03ymrta62",
+    "display_name": "Child Welfare Society of Kenya",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.cwsk.go.ke/",
+    "works_count": 1,
+    "cited_by_count": 14,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3093880414962769,
+      "longitude": 36.818050384521484
+    },
+    "lineage": [
+      "https://openalex.org/I4210140853"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210163820",
+    "openalex_id": "I4210163820",
+    "ror": "https://ror.org/05h2nkq67",
+    "display_name": "Association for Micro-Finance Institutions",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://www.amfikenya.com/",
+    "works_count": 1,
+    "cited_by_count": 6,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2902270555496216,
+      "longitude": 36.776222229003906
+    },
+    "lineage": [
+      "https://openalex.org/I4210163820"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405258124",
+    "openalex_id": "I4405258124",
+    "ror": "https://ror.org/0056s7g24",
+    "display_name": "Kenya Institute of Surveying and Mapping",
+    "country_code": "KE",
+    "type": "education",
+    "homepage_url": "https://www.kism.ac.ke",
+    "works_count": 1,
+    "cited_by_count": 1,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405258124"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262248",
+    "openalex_id": "I4405262248",
+    "ror": "https://ror.org/029rd6696",
+    "display_name": "Kenya Association of Pharmaceutical Industry",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "https://kapikenya.org",
+    "works_count": 1,
+    "cited_by_count": 6,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405262248"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210089769",
+    "openalex_id": "I4210089769",
+    "ror": "https://ror.org/008js8n22",
+    "display_name": "National Organization of Peer Educators",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://nope.or.ke/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2671879529953003,
+      "longitude": 36.82789611816406
+    },
+    "lineage": [
+      "https://openalex.org/I4210089769"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210090894",
+    "openalex_id": "I4210090894",
+    "ror": "https://ror.org/00eeg9444",
+    "display_name": "Kenya Muslim Youth Alliance",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://kenyamuslims.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3001790046691895,
+      "longitude": 36.79393768310547
+    },
+    "lineage": [
+      "https://openalex.org/I4210090894"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210094796",
+    "openalex_id": "I4210094796",
+    "ror": "https://ror.org/00w6thw04",
+    "display_name": "Ministry of Environment and Natural Resources & Regional Development Authorities",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "http://www.environment.go.ke/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Kisumu",
+      "geonames_city_id": "191245",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -0.1092820018529892,
+      "longitude": 34.74940872192383
+    },
+    "lineage": [
+      "https://openalex.org/I4210094796"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210098313",
+    "openalex_id": "I4210098313",
+    "ror": "https://ror.org/00zb61d94",
+    "display_name": "The Kenya Alliance of Resident Associations",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.kara.or.ke/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3011130094528198,
+      "longitude": 36.78910446166992
+    },
+    "lineage": [
+      "https://openalex.org/I4210098313"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210101812",
+    "openalex_id": "I4210101812",
+    "ror": "https://ror.org/0144ggd58",
+    "display_name": "International Research and Development Actions",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "http://www.irdac.org",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2872730493545532,
+      "longitude": 36.80815124511719
+    },
+    "lineage": [
+      "https://openalex.org/I4210101812"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210104627",
+    "openalex_id": "I4210104627",
+    "ror": "https://ror.org/027y59j70",
+    "display_name": "Mariakani Cottage Hospital",
+    "country_code": "KE",
+    "type": "healthcare",
+    "homepage_url": "http://www.mchkenya.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.311642050743103,
+      "longitude": 36.834102630615234
+    },
+    "lineage": [
+      "https://openalex.org/I4210104627"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210109883",
+    "openalex_id": "I4210109883",
+    "ror": "https://ror.org/0187g4p12",
+    "display_name": "Down Syndrome Society of Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://dssk.or.ke/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2980870008468628,
+      "longitude": 36.78638458251953
+    },
+    "lineage": [
+      "https://openalex.org/I4210109883"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210122133",
+    "openalex_id": "I4210122133",
+    "ror": "https://ror.org/02qd5rn34",
+    "display_name": "Coexist Initiative",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://coexist.co.ke/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.4873219728469849,
+      "longitude": 36.954917907714844
+    },
+    "lineage": [
+      "https://openalex.org/I4210122133"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210122578",
+    "openalex_id": "I4210122578",
+    "ror": "https://ror.org/02y14pt84",
+    "display_name": "Constitution and Reform Education Consortium",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://crecokenya.org/new/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.302029013633728,
+      "longitude": 36.82050323486328
+    },
+    "lineage": [
+      "https://openalex.org/I4210122578"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210127222",
+    "openalex_id": "I4210127222",
+    "ror": "https://ror.org/0320fhd53",
+    "display_name": "Community Development and Sustainability Organization",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.cdskenya.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Bungoma",
+      "geonames_city_id": "200067",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": 0.5694980025291443,
+      "longitude": 34.55543518066406
+    },
+    "lineage": [
+      "https://openalex.org/I4210127222"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210128012",
+    "openalex_id": "I4210128012",
+    "ror": "https://ror.org/0308cf074",
+    "display_name": "Cosmos Limited",
+    "country_code": "KE",
+    "type": "company",
+    "homepage_url": "http://cosmos-pharm.com/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3092759847640991,
+      "longitude": 36.86552429199219
+    },
+    "lineage": [
+      "https://openalex.org/I4210128012"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210128874",
+    "openalex_id": "I4210128874",
+    "ror": "https://ror.org/02tjeq988",
+    "display_name": "Association of Media Women in Kenya",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://amwik.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.295760989189148,
+      "longitude": 36.78190231323242
+    },
+    "lineage": [
+      "https://openalex.org/I4210128874"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210131902",
+    "openalex_id": "I4210131902",
+    "ror": "https://ror.org/03bg0vt52",
+    "display_name": "Centre for Rights Education and Awareness",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://home.creaw.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.295943021774292,
+      "longitude": 36.779541015625
+    },
+    "lineage": [
+      "https://openalex.org/I4210131902"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210134757",
+    "openalex_id": "I4210134757",
+    "ror": "https://ror.org/03pwdft33",
+    "display_name": "AkibaUhaki Foundation",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://akibauhaki.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2886500358581543,
+      "longitude": 36.786869049072266
+    },
+    "lineage": [
+      "https://openalex.org/I4210134757"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210136286",
+    "openalex_id": "I4210136286",
+    "ror": "https://ror.org/035dzbx92",
+    "display_name": "Community Aid International",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://communityaid.org",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.303596019744873,
+      "longitude": 36.820770263671875
+    },
+    "lineage": [
+      "https://openalex.org/I4210136286"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210139905",
+    "openalex_id": "I4210139905",
+    "ror": "https://ror.org/040zv4433",
+    "display_name": "Il’laramatak Community Concerns",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://illaramatak.or.ke/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Kajiado",
+      "geonames_city_id": "195298",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -2.096458911895752,
+      "longitude": 36.779396057128906
+    },
+    "lineage": [
+      "https://openalex.org/I4210139905"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210140894",
+    "openalex_id": "I4210140894",
+    "ror": "https://ror.org/0415kd025",
+    "display_name": "ZanaAfrica Group",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.zanaafrica.com/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.269091010093689,
+      "longitude": 36.878936767578125
+    },
+    "lineage": [
+      "https://openalex.org/I4210140894"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210146831",
+    "openalex_id": "I4210146831",
+    "ror": "https://ror.org/04hse4551",
+    "display_name": "Kamukunji Paralegal Trust",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.kaplet.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2843079566955566,
+      "longitude": 36.833335876464844
+    },
+    "lineage": [
+      "https://openalex.org/I4210146831"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210151333",
+    "openalex_id": "I4210151333",
+    "ror": "https://ror.org/03wxe4k21",
+    "display_name": "Ketebul Music",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://www.ketebulmusic.org/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.3020520210266113,
+      "longitude": 36.83156204223633
+    },
+    "lineage": [
+      "https://openalex.org/I4210151333"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210152096",
+    "openalex_id": "I4210152096",
+    "ror": "https://ror.org/00ysjm146",
+    "display_name": "Mission to the Street for Christ",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": null,
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2845749855041504,
+      "longitude": 36.8528938293457
+    },
+    "lineage": [
+      "https://openalex.org/I4210152096"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4210159437",
+    "openalex_id": "I4210159437",
+    "ror": "https://ror.org/04qw2cf87",
+    "display_name": "WESTERVELD CONSERVATION TRUST",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "http://westerveld.squarespace.com/",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": null,
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.2925679683685303,
+      "longitude": 36.82169723510742
+    },
+    "lineage": [
+      "https://openalex.org/I4210159437"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405253707",
+    "openalex_id": "I4405253707",
+    "ror": "https://ror.org/0103bf245",
+    "display_name": "Kenya Association of Urological Surgeons",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://kaus.or.ke",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405253707"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405258433",
+    "openalex_id": "I4405258433",
+    "ror": "https://ror.org/00n3whp50",
+    "display_name": "African Digital Heritage Foundation",
+    "country_code": "KE",
+    "type": "nonprofit",
+    "homepage_url": "https://africandigitalheritage.org",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405258433"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405259950",
+    "openalex_id": "I4405259950",
+    "ror": "https://ror.org/02zc3d503",
+    "display_name": "AJER Publishing",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "https://ajerpublishing.info",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405259950"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405262457",
+    "openalex_id": "I4405262457",
+    "ror": "https://ror.org/03e5s1f17",
+    "display_name": "The Environment Institute of Kenya",
+    "country_code": "KE",
+    "type": "facility",
+    "homepage_url": "https://www.eik.co.ke",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405262457"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266405",
+    "openalex_id": "I4405266405",
+    "ror": "https://ror.org/02q2zgz40",
+    "display_name": "Kenya Cultural Centre",
+    "country_code": "KE",
+    "type": "government",
+    "homepage_url": "https://www.kenyaculturalcentre.go.ke",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266405"
+    ]
+  },
+  {
+    "id": "https://openalex.org/I4405266666",
+    "openalex_id": "I4405266666",
+    "ror": "https://ror.org/04j6g1x63",
+    "display_name": "African Association of Agricultural Economists",
+    "country_code": "KE",
+    "type": "other",
+    "homepage_url": "http://www.aaae-africa.org",
+    "works_count": 0,
+    "cited_by_count": 0,
+    "geo": {
+      "city": "Nairobi",
+      "geonames_city_id": "184745",
+      "region": "Nairobi County",
+      "country_code": "KE",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "lineage": [
+      "https://openalex.org/I4405266666"
+    ]
+  }
+]

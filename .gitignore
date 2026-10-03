@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+**/.venv/
+**/.venv/**
+.venv/
+venv/
+ENV/
+env/
+
+# Feasibility scratch directory
+kenya-research-feasibility/
+
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local cache / large raw downloads if excluded
+# (Raw jsonl files can be tracked or excluded based on preferences)
+# data/raw/openalex_raw_works.jsonl
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Word / Office lock files
+~$*
+*.tmp
+

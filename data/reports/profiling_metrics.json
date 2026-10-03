@@ -1,0 +1,344 @@
+{
+  "total_records": 1000,
+  "completeness": [
+    {
+      "field": "OpenAlex ID",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "DOI",
+      "total": 1000,
+      "present": 997,
+      "missing": 3,
+      "present_pct": 99.7,
+      "missing_pct": 0.3
+    },
+    {
+      "field": "Title",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Publication Year",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Publication Date",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Work Type",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Source / Journal",
+      "total": 1000,
+      "present": 998,
+      "missing": 2,
+      "present_pct": 99.8,
+      "missing_pct": 0.2
+    },
+    {
+      "field": "Abstract (Reconstructed)",
+      "total": 1000,
+      "present": 648,
+      "missing": 352,
+      "present_pct": 64.8,
+      "missing_pct": 35.2
+    },
+    {
+      "field": "Authors",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Author Identifiers",
+      "total": 1000,
+      "present": 996,
+      "missing": 4,
+      "present_pct": 99.6,
+      "missing_pct": 0.4
+    },
+    {
+      "field": "Institutions / Affiliations",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Kenyan Institution Affiliation",
+      "total": 1000,
+      "present": 985,
+      "missing": 15,
+      "present_pct": 98.5,
+      "missing_pct": 1.5
+    },
+    {
+      "field": "Institution ROR ID",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Primary Topic",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Topics List",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Concepts List",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Open Access Status",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    },
+    {
+      "field": "Citations Count",
+      "total": 1000,
+      "present": 1000,
+      "missing": 0,
+      "present_pct": 100.0,
+      "missing_pct": 0.0
+    }
+  ],
+  "distributions": {
+    "authors_per_work": {
+      "min": 1,
+      "max": 100,
+      "mean": 19.7,
+      "median": 9.0
+    },
+    "institutions_per_work": {
+      "min": 1,
+      "max": 364,
+      "mean": 29.4,
+      "median": 14.0
+    },
+    "topics_per_work": {
+      "min": 1,
+      "max": 3,
+      "mean": 2.96,
+      "median": 3.0
+    },
+    "concepts_per_work": {
+      "min": 1,
+      "max": 35,
+      "mean": 15.85,
+      "median": 16.0
+    },
+    "citations_per_work": {
+      "min": 326,
+      "max": 20342,
+      "mean": 805.49,
+      "median": 505.5
+    },
+    "abstract_word_length": {
+      "min": 2,
+      "max": 3561,
+      "mean": 262.41,
+      "median": 242.5
+    },
+    "publication_years": {
+      "1968": 1,
+      "1970": 1,
+      "1971": 1,
+      "1979": 2,
+      "1982": 1,
+      "1984": 1,
+      "1985": 2,
+      "1986": 4,
+      "1988": 2,
+      "1989": 1,
+      "1991": 1,
+      "1992": 2,
+      "1993": 2,
+      "1995": 7,
+      "1996": 7,
+      "1997": 7,
+      "1998": 8,
+      "1999": 19,
+      "2000": 14,
+      "2001": 16,
+      "2002": 21,
+      "2003": 19,
+      "2004": 24,
+      "2005": 28,
+      "2006": 31,
+      "2007": 20,
+      "2008": 39,
+      "2009": 45,
+      "2010": 48,
+      "2011": 47,
+      "2012": 59,
+      "2013": 56,
+      "2014": 68,
+      "2015": 66,
+      "2016": 66,
+      "2017": 50,
+      "2018": 48,
+      "2019": 43,
+      "2020": 46,
+      "2021": 30,
+      "2022": 26,
+      "2023": 8,
+      "2024": 8,
+      "2025": 5
+    },
+    "work_types": {
+      "article": 932,
+      "review": 58,
+      "book-chapter": 9,
+      "book": 1
+    },
+    "oa_statuses": {
+      "closed": 300,
+      "green": 208,
+      "hybrid": 163,
+      "gold": 162,
+      "bronze": 157,
+      "diamond": 10
+    },
+    "topic_domains": {
+      "Health Sciences": 356,
+      "Life Sciences": 310,
+      "Physical Sciences": 253,
+      "Social Sciences": 81
+    },
+    "topic_fields": {
+      "Medicine": 324,
+      "Environmental Science": 211,
+      "Agricultural and Biological Sciences": 209,
+      "Biochemistry, Genetics and Molecular Biology": 64,
+      "Social Sciences": 35,
+      "Immunology and Microbiology": 31,
+      "Psychology": 24,
+      "Earth and Planetary Sciences": 17,
+      "Nursing": 16,
+      "Engineering": 12
+    }
+  },
+  "affiliations": {
+    "top_domestic_institutions": {
+      "Kenya Medical Research Institute": 587,
+      "Centers for Disease Control and Prevention": 362,
+      "International Livestock Research Institute": 223,
+      "World Agroforestry Centre": 212,
+      "KEMRI-Wellcome Trust Research Programme": 205,
+      "University of Nairobi": 180,
+      "International Maize and Wheat Improvement Center": 133,
+      "International Center for Tropical Agriculture": 98,
+      "United Nations Environment Programme": 85,
+      "International Centre of Insect Physiology and Ecology": 81,
+      "BirdLife International": 79,
+      "Ministry of Health": 65,
+      "National Museums of Kenya": 65,
+      "Moi University": 51,
+      "International Crops Research Institute for the Semi-Arid Tropics": 40,
+      "Aga Khan University Nairobi": 35,
+      "African Population and Health Research Center": 31,
+      "Institute of Primate Research": 31,
+      "Kenyatta National Hospital": 26,
+      "Climate Change, Agriculture and Food Security": 26
+    },
+    "top_international_institutions": {
+      "University of Oxford (GB)": 577,
+      "Centers for Disease Control and Prevention (US)": 568,
+      "University of Washington (US)": 313,
+      "Harvard University (US)": 272,
+      "London School of Hygiene & Tropical Medicine (GB)": 227,
+      "University College London (GB)": 205,
+      "Wageningen University & Research (NL)": 202,
+      "Chinese Academy of Sciences (CN)": 198,
+      "World Health Organization (CH)": 179,
+      "Johns Hopkins University (US)": 176,
+      "Wellcome Sanger Institute (GB)": 171,
+      "Centro Internacional de Mejoramiento de Ma\u00edz Y Trigo (MX)": 159,
+      "Mae Fah Luang University (TH)": 156,
+      "Institute for Health Metrics and Evaluation (US)": 152,
+      "Imperial College London (GB)": 152,
+      "University of Cape Town (ZA)": 147,
+      "Emory University (US)": 146,
+      "Centers for Disease Control and Prevention (UG)": 138,
+      "Centre National de la Recherche Scientifique (FR)": 130,
+      "Commonwealth Scientific and Industrial Research Organisation (AU)": 123
+    },
+    "top_collaborating_countries": {
+      "US": 7337,
+      "GB": 3517,
+      "DE": 1346,
+      "FR": 1111,
+      "CN": 961,
+      "AU": 937,
+      "ZA": 800,
+      "NL": 615,
+      "CA": 583,
+      "IN": 566,
+      "CH": 519,
+      "ES": 450,
+      "BR": 384,
+      "TH": 365,
+      "MX": 364
+    },
+    "international_collaboration_count": 929,
+    "international_collaboration_pct": 92.9
+  },
+  "edge_cases": {
+    "duplicate_ids_count": 0,
+    "duplicate_dois_count": 0,
+    "duplicate_titles_count": 3,
+    "sample_duplicate_dois": [],
+    "sample_duplicate_titles": [
+      "a global outlook to the interruption of education due to covid-19 pandemic: navigating in a time of uncertainty and crisis",
+      "retinoblastoma",
+      "science in agroforestry"
+    ],
+    "records_without_identified_ke_institution": 15,
+    "anomalous_years_count": 0,
+    "anomalous_years": []
+  }
+}
