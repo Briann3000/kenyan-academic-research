@@ -1,0 +1,47 @@
+{
+  "evaluation_version": "1.0.0",
+  "corpus_sha256": "580cb7583725f41e89f60ac25e1a28930d6961509142048b77c733f8c223cb6d",
+  "corpus_size": 1000,
+  "num_benchmark_queries": 25,
+  "pooling_depth": 10,
+  "relevance_scale": {
+    "0": "Irrelevant",
+    "1": "Partially Relevant",
+    "2": "Highly Relevant"
+  },
+  "mrr_relevance_threshold": 1,
+  "precision_recall_relevance_threshold": 1,
+  "ndcg_gains_formula": "2^rel - 1",
+  "system_a": {
+    "name": "System A (BM25 Keyword)",
+    "k1": 1.5,
+    "b": 0.75,
+    "tokenizer": "regex_alphanumeric_lower",
+    "stopwords": "english"
+  },
+  "system_b": {
+    "name": "System B (Dense Semantic)",
+    "model_repo": "BAAI/bge-small-en-v1.5",
+    "embedding_dimension": 384,
+    "max_seq_length": 512,
+    "similarity_metric": "cosine_dot_product_l2_normalized",
+    "query_instruction": "Represent this sentence for searching relevant passages: "
+  },
+  "system_c": {
+    "name": "System C (Candidate-Relative Graph Hybrid)",
+    "candidate_k": 20,
+    "alpha": 0.70,
+    "graph_weights": {
+      "topic": 0.50,
+      "author": 0.25,
+      "institution": 0.25
+    },
+    "graph_formulation": "candidate_relative_cluster_coherence",
+    "graph_schema_edges": ["ABOUT", "AUTHORED", "AFFILIATED_WITH"]
+  },
+  "statistical_tests": {
+    "alpha_significance_level": 0.05,
+    "tests": ["paired_student_t_test", "wilcoxon_signed_rank_test"],
+    "effect_size_metrics": ["cohens_d_z", "rank_biserial_r"]
+  }
+}

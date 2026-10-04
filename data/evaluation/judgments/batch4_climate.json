@@ -1,0 +1,1069 @@
+{
+  "batch_id": "batch4_climate",
+  "domain": "Climate, Ecology & Water",
+  "query_ids": [
+    "Q20",
+    "Q21",
+    "Q22",
+    "Q23",
+    "Q24",
+    "Q25"
+  ],
+  "total_items": 117,
+  "completed_items": 117,
+  "items": [
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W1990791331",
+      "title": "Association between climate variability and malaria epidemics in the East African highlands",
+      "abstract": "The causes of the recent reemergence of Plasmodium falciparum epidemic malaria in the East African highlands are controversial. Regional climate changes have been invoked as a major factor; however, assessing the impact of climate in malaria resurgence is difficult due to high spatial and temporal climate variability and the lack of long-term data series on malaria cases from different sites. Climate variability, defined as short-term fluctuations around the mean climate state, may be epidemiologically more relevant than mean temperature change, but its effects on malaria epidemics have not been rigorously examined. Here we used nonlinear mixed-regression model to investigate the association between autoregression (number of malaria outpatients during the previous time period), seasonality and climate variability, and the number of monthly malaria outpatients of the past 10-20 years in seven highland sites in East Africa. The model explained 65-81% of the variance in the number of monthly malaria outpatients. Nonlinear and synergistic effects of temperature and rainfall on the number of malaria outpatients were found in all seven sites. The net variance in the number of monthly malaria outpatients caused by autoregression and seasonality varied among sites and ranged from 18 to 63% (mean=38.6%), whereas 12-63% (mean=36.1%) of variance is attributed to climate variability. Our results suggest that there was a high spatial variation in the sensitivity of malaria outpatient number to climate fluctuations in the highlands, and that climate variability played an important role in initiating malaria epidemics in the East African highlands.",
+      "relevance": 2,
+      "notes": "Direct climatological analysis of rainfall patterns, climate trends, or drought frequency in Kenya / East Africa."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W1999020829",
+      "title": "ENSO signals in East African rainfall seasons",
+      "abstract": "The evolutions of ENSO modes in the seasonal rainfall patterns over East Africa are examined in this study. The study covers the period 1961\u20131990. Both rotated empirical orthogonal function (EOF) and simple correlation analyses were used to delineate a network of 136 stations over East Africa into homogeneous rainfall regions in order to derive rainfall indices. Time series generated from the delineated regions were later used in the rainfall/ENSO analyses. Such analyses involved the development of composite rainfall map patterns for El Ni\u00f1o and post-ENSO (+1) years in order to investigate the associations between seasonal evolution of El Ni\u00f1o\u2013Southern Oscillation (ENSO) signals and the space-time evolution of rainfall anomalies over the region. Analyses based on both EOF and simple correlation techniques yielded eight homogeneous rainfall regions over East Africa. The results showed unique seasonal evolution patterns in rainfall during the different phases of the ENSO cycles. East African rainfall performance characteristics were stratified to identify distinct rainfall anomaly patterns associated with ENSO and post-ENSO (+1) years. These can be applied in conjunction with skilful long lead (up to 12 months) ENSO prediction to provide guidance on likely patterns of seasonal rainfall anomalies over the region. Such information can be crucial for early warning of socio-economic disasters associated with extreme rainfall anomalies over East Africa. Copyright \u00a9 2000 Royal Meteorological Society",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Broader regional climate modeling or global atmospheric dynamics with East Africa coverage.).] Broader regional climate modeling or global atmospheric dynamics with East Africa coverage."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2004010203",
+      "title": "Managing vulnerability to drought and enhancing livelihood resilience in sub-Saharan Africa: Technological, institutional and policy options",
+      "abstract": "Agriculture and the economies of Sub-Saharan Africa (SSA) are highly sensitive to climatic variability. Drought, in particular, represents one of the most important natural factors contributing to malnutrition and famine in many parts of the region. The overall impact of drought on a given country/region and its ability to recover from the resulting social, economic and environmental impacts depends on several factors. The economic, social and environmental impacts of drought are huge in SSA and the national costs and losses incurred threaten to undermine the wider economic and development gains made in the last few decades in the region. There is an urgent need to reduce the vulnerability of countries to climate variability and to the threats posed by climate change. This paper attempts to highlight the challenges of drought in SSA and reviews the current drought risk management strategies, especially the promising technological and policy options for managing drought risks to protect livelihoods and reduce vulnerability. The review suggests the possibilities of several ex ante and ex post drought management strategies in SSA although their effectiveness depends on agro-climatic and socio-economic conditions. Existing technological, policy and institutional risk management measures need to be strengthened and integrated to manage drought ex ante and to minimize the ex post negative effects for vulnerable households and regions. A proactive approach that combines promising technological, institutional and policy solutions to manage the risks within vulnerable communities implemented by institutions operating at different levels (community, sub-national, and national) is considered to be the way forward for managing drought and climate variability.",
+      "relevance": 0,
+      "notes": "Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2010751289",
+      "title": "Adapting agriculture to climate change in Kenya: Household strategies and determinants",
+      "abstract": null,
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Broader regional climate modeling or global atmospheric dynamics with East Africa coverage."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2035901831",
+      "title": "Adapting maize production to climate change in sub-Saharan Africa",
+      "abstract": "Given the accumulating evidence of climate change in sub-Saharan Africa, there is an urgent need to develop more climate resilient maize systems. Adaptation strategies to climate change in maize systems in sub-Saharan Africa are likely to include improved germplasm with tolerance to drought and heat stress and improved management practices. Adapting maize systems to future climates requires the ability to accurately predict future climate scenarios in order to determine agricultural responses to climate change and set priorities for adaptation strategies. Here we review the projected climate change scenarios for Africa\u2019s maize growing regions using the outputs of 19 global climate models. By 2050, air temperatures are expected to increase throughout maize mega- environments within sub-Saharan Africa by an average of 2.1\u00b0C. Rainfall changes during the maize growing season varied with location. Given the time lag between the development of improved cultivars until the seed is in the hands of farmers and adoption of new management practices, there is an urgent need to prioritise research strategies on climate change resilient germplasm development to offset the predicted yield declines.",
+      "relevance": 0,
+      "notes": "Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2041589051",
+      "title": "Croppers to livestock keepers: livelihood transitions to 2050 in Africa due to climate change",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2083553000",
+      "title": "Spatial variation of crop yield response to climate change in East Africa",
+      "abstract": null,
+      "relevance": 1,
+      "notes": "[HUMAN_CORRECTED: was 1] Thornton et al. Downscales regional climate projections and rainfall/temperature variations across East Africa."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2103012613",
+      "title": "Dry spell analysis and maize yields for two semi-arid locations in east Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2110419066",
+      "title": "REVIEW OF SEASONAL CLIMATE FORECASTING FOR AGRICULTURE IN SUB-SAHARAN AFRICA",
+      "abstract": "SUMMARY We review the use and value of seasonal climate forecasting for agriculture in sub-Saharan Africa (SSA), with a view to understanding and exploiting opportunities to realize more of its potential benefits. Interaction between the atmosphere and underlying oceans provides the basis for probabilistic forecasts of climate conditions at a seasonal lead-time, including during cropping seasons in parts of SSA. Regional climate outlook forums (RCOF) and national meteorological services (NMS) have been at the forefront of efforts to provide forecast information for agriculture. A survey showed that African NMS often go well beyond the RCOF process to improve seasonal forecast information and disseminate it to the agricultural sector. Evidence from a combination of understanding of how climatic uncertainty impacts agriculture, model-based ex-ante analyses, subjective expressions of demand or value, and the few well-documented evaluations of actual use and resulting benefit suggests that seasonal forecasts may have considerable potential to improve agricultural management and rural livelihoods. However, constraints related to legitimacy, salience, access, understanding, capacity to respond and data scarcity have so far limited the widespread use and benefit from seasonal prediction among smallholder farmers. Those constraints that reflect inadequate information products, policies or institutional process can potentially be overcome. Additional opportunities to benefit rural communities come from expanding the use of seasonal forecast information for coordinating input and credit supply, food crisis management, trade and agricultural insurance. The surge of activity surrounding seasonal forecasting in SSA following the 1997/98 El Ni\u00f1o has waned in recent years, but emerging initiatives, such as the Global Framework for Climate Services and ClimDev-Africa, are poised to reinvigorate support for seasonal forecast information services for agriculture. We conclude with a discussion of institutional and policy changes that we believe will greatly enhance the benefits of seasonal forecasting to agriculture in SSA.",
+      "relevance": 0,
+      "notes": "Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2117807705",
+      "title": "Will African Agriculture Survive Climate Change?",
+      "abstract": "Abstract Measurement of the likely magnitude of the economic impact of climate change on African agriculture has been a challenge. Using data from a survey of more than 9,000 farmers across 11 African countries, a cross-sectional approach estimates how farm net revenues are affected by climate change compared with current mean temperature. Revenues fall with warming for dryland crops (temperature elasticity of \u22121.9) and livestock (\u22125.4), whereas revenues rise for irrigated crops (elasticity of 0.5), which are located in relatively cool parts of Africa and are buffered by irrigation from the effects of warming. At first, warming has little net aggregate effect as the gains for irrigated crops offset the losses for dryland crops and livestock. Warming, however, will likely reduce dryland farm income immedia-tely. The final effects will also depend on changes in precipitation, because revenues from all farm types increase with precipitation. Because irrigated farms are less sensitive to climate, where water is available, irrigation is a practical adaptation to climate change in Africa.",
+      "relevance": 0,
+      "notes": "Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2124354221",
+      "title": "Climate variability and vulnerability to climate change: a review",
+      "abstract": "The focus of the great majority of climate change impact studies is on changes in mean climate. In terms of climate model output, these changes are more robust than changes in climate variability. By concentrating on changes in climate means, the full impacts of climate change on biological and human systems are probably being seriously underestimated. Here, we briefly review the possible impacts of changes in climate variability and the frequency of extreme events on biological and food systems, with a focus on the developing world. We present new analysis that tentatively links increases in climate variability with increasing food insecurity in the future. We consider the ways in which people deal with climate variability and extremes and how they may adapt in the future. Key knowledge and data gaps are highlighted. These include the timing and interactions of different climatic stresses on plant growth and development, particularly at higher temperatures, and the impacts on crops, livestock and farming systems of changes in climate variability and extreme events on pest-weed-disease complexes. We highlight the need to reframe research questions in such a way that they can provide decision makers throughout the food system with actionable answers, and the need for investment in climate and environmental monitoring. Improved understanding of the full range of impacts of climate change on biological and food systems is a critical step in being able to address effectively the effects of climate variability and extreme events on human vulnerability and food security, particularly in agriculturally based developing countries facing the challenge of having to feed rapidly growing populations in the coming decades.",
+      "relevance": 0,
+      "notes": "Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2125740993",
+      "title": "The potential impacts of climate change on maize production in Africa and Latin America in 2055",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2148065586",
+      "title": "Coping better with current climatic variability in the rain-fed farming systems of sub-Saharan Africa: An essential first step in adapting to future climate change?",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2158659698",
+      "title": "Climate change and vector-borne diseases: a regional analysis.",
+      "abstract": "Current evidence suggests that inter-annual and inter-decadal climate variability have a direct influence on the epidemiology of vector-borne diseases. This evidence has been assessed at the continental level in order to determine the possible consequences of the expected future climate change. By 2100 it is estimated that average global temperatures will have risen by 1.0-3.5 degrees C, increasing the likelihood of many vector-borne diseases in new areas. The greatest effect of climate change on transmission is likely to be observed at the extremes of the range of temperatures at which transmission occurs. For many diseases these lie in the range 14-18 degrees C at the lower end and about 35-40 degrees C at the upper end. Malaria and dengue fever are among the most important vector-borne diseases in the tropics and subtropics; Lyme disease is the most common vector-borne disease in the USA and Europe. Encephalitis is also becoming a public health concern. Health risks due to climatic changes will differ between countries that have developed health infrastructures and those that do not. Human settlement patterns in the different regions will influence disease trends. While 70% of the population in South America is urbanized, the proportion in sub-Saharan Africa is less than 45%. Climatic anomalies associated with the El Ni\u00f1o-Southern Oscillation phenomenon and resulting in drought and floods are expected to increase in frequency and intensity. They have been linked to outbreaks of malaria in Africa, Asia and South America. Climate change has far-reaching consequences and touches on all life-support systems. It is therefore a factor that should be placed high among those that affect human health and survival.",
+      "relevance": 2,
+      "notes": "Direct climatological analysis of rainfall patterns, climate trends, or drought frequency in Kenya / East Africa."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2775501095",
+      "title": "Impacts of land use and land cover change on surface runoff, discharge and low flows: Evidence from East Africa",
+      "abstract": "Region East Africa. Focus A review of catchment studies (n = 37) conducted in East Africa evaluating the impacts of Land Use and Land Cover Changes (LULCC) on discharge, surface runoff, and low flows. New hydrological insights Forest cover loss is accompanied by increased stream discharges and surface runoff. No significant difference in stream discharge is observed between bamboo and pine plantation catchments, and between cultivated and tea plantation catchments. Trend analyses show that despite forest cover loss, 63% of the watersheds show non-significant changes in annual discharges while 31% show increasing trends. Half of the watersheds show non-significant trends in wet season flows and low flows while 35% reveal decreasing trends in low flows. Modeling studies estimate that forest cover loss increases annual discharges and surface runoff by 16 \u00b1 5.5% and 45 \u00b1 14%, respectively. Peak flows increased by a mean of 10 \u00b1 2.8% while low flows decreased by a mean of 7 \u00b1 5.3%. Increased forest cover decreases annual discharges and surface runoff by 13 \u00b1 1.9% and 25 \u00b1 5%, respectively. Weak correlations between forest cover and runoff (r = 0.42, p < 0.05), mean discharge (r = 0.63, p < 0.05) and peak discharge (r = 0.67, p < 0.05) indicate that forest cover alone is not an accurate predictor of hydrological fluxes in East African catchments. The variability in these results supports the need for long-term field monitoring to better understand catchment responses and to improve the calibration of currently used simulation models.",
+      "relevance": 0,
+      "notes": "Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2795550267",
+      "title": "Validation of the CHIRPS satellite rainfall estimates over eastern Africa",
+      "abstract": "Long and temporally consistent rainfall time series are essential in climate analyses and applications. Rainfall data from station observations are inadequate over many parts of the world due to sparse or non\u2010existent observation networks, or limited reporting of gauge observations. As a result, satellite rainfall estimates have been used as an alternative or as a supplement to station observations. However, many satellite\u2010based rainfall products with long time series suffer from coarse spatial and temporal resolutions and inhomogeneities caused by variations in satellite inputs. There are some satellite rainfall products with reasonably consistent time series, but they are often limited to specific geographic areas. The Climate Hazards Group Infrared Precipitation (CHIRP) and CHIRP combined with station observations (CHIRPS) are recently produced satellite\u2010based rainfall products with relatively high spatial and temporal resolutions and quasi\u2010global coverage. In this study, CHIRP and CHIRPS were evaluated over East Africa at daily, dekadal (10\u2010day) and monthly time\u2010scales. The evaluation was done by comparing the satellite products with rain\u2010gauge data from about 1,200 stations. The CHIRP and CHIRPS products were also compared with two similar operational satellite rainfall products: the African Rainfall Climatology version 2 (ARC2) and the Tropical Applications of Meteorology using Satellite data (TAMSAT). The results show that both CHIRP and CHIRPS products are significantly better than ARC2 with higher skill and low or no bias. These products were also found to be slightly better than the latest version of the TAMSAT product at dekadal and monthly time\u2010scales, while TAMSAT performed better at the daily time\u2010scale. The performance of the different satellite products exhibits high spatial variability with weak performances over coastal and mountainous regions.",
+      "relevance": 2,
+      "notes": "Direct climatological analysis of rainfall patterns, climate trends, or drought frequency in Kenya / East Africa."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W2953540816",
+      "title": "Global and regional impacts of climate change at different levels of global temperature increase",
+      "abstract": "The assessment of the impacts of climate change at different levels of global warming helps inform national and international policy discussion around mitigation targets. This paper provides consistent estimates of global and regional impacts and risks at increases in global mean temperature up to 5 \u00b0C above pre-industrial levels, for over 30 indicators representing temperature extremes and heatwaves, hydrological change, floods and droughts and proxies for impacts on crop yields. At the global scale, all the impacts that could plausibly be either adverse or beneficial are adverse, and impacts and risks increase with temperature change. For example, the global average chance of a major heatwave increases from 5% in 1981\u20132010 to 28% at 1.5 \u00b0C and 92% at 4 \u00b0C, of an agricultural drought increases from 9 to 24% at 1.5 \u00b0C and 61% at 4 \u00b0C, and of the 50-year return period river flood increases from 2 to 2.4% at 1.5 \u00b0C and 5.4% at 4 \u00b0C. The chance of a damaging hot spell for maize increases from 5 to 50% at 4 \u00b0C, whilst the chance for rice rises from 27 to 46%. There is considerable uncertainty around these central estimates, and impacts and risks vary between regions. Some impacts\u2014for example heatwaves\u2014increase rapidly as temperature increases, whilst others show more linear responses. The paper presents estimates of the risk of impacts exceeding specific targets and demonstrates that these estimates are sensitive to the thresholds used.",
+      "relevance": 0,
+      "notes": "Not focused on East African rainfall or drought climatology."
+    },
+    {
+      "query_id": "Q20",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "paper_id": "W4328125179",
+      "title": "Drivers and impacts of Eastern African rainfall variability",
+      "abstract": null,
+      "relevance": 2,
+      "notes": "[HUMAN_CORRECTED: was 0] Definitive review detailing IOD, ENSO, and Walker circulation drivers causing droughts and pluvial extremes in East Africa."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W1523902524",
+      "title": "Land-use and land-cover dynamics in response to changes in climatic, biological and socio-political forces: The case of southwestern Ethiopia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W1748116371",
+      "title": "Understanding gender dimensions of agriculture and climate change in smallholder farming communities",
+      "abstract": "In Uganda, Ghana and Bangladesh, participatory tools were used for a socio-economic and gender analysis of three topics: climate-smart agriculture (CSA), climate analogue approaches, and climate and weather forecasting. Policy and programme-relevant results were obtained. Smallholders are changing agricultural practices due to observations of climatic and environmental change. Women appear to be less adaptive because of financial or resource constraints, because of male domination in receiving information and extension services and because available adaptation strategies tend to create higher labour loads for women. The climate analogue approach (identifying places resembling your future climate so as to identify potential adaptations) is a promising tool for increasing farmer-to-farmer learning, where a high degree of climatic variability means that analogue villages that have successfully adopted new CSA practices exist nearby. Institutional issues related to forecast production limit their credibility and salience, particularly in terms of women's ability to access and understand them. The participatory tools used in this study provided some insights into women's adaptive capacity in the villages studied, but not to the depth necessary to address women's specific vulnerabilities in CSA programmes. Further research is necessary to move the discourse related to gender and climate change beyond the conceptualization of women as a homogenously vulnerable group in CSA programmes.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2001968063",
+      "title": "Reversibility of Soil Productivity Decline with Organic Matter of Differing Quality Along a Degradation Gradient",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2004198196",
+      "title": "Sustaining intensification of smallholder livestock systems in the tropics",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2010751289",
+      "title": "Adapting agriculture to climate change in Kenya: Household strategies and determinants",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2022298133",
+      "title": "Land Degradation: A Challenge to Ethiopia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2024828497",
+      "title": "The Status of Wildlife in Protected Areas Compared to Non-Protected Areas of Kenya",
+      "abstract": "We compile over 270 wildlife counts of Kenya's wildlife populations conducted over the last 30 years to compare trends in national parks and reserves with adjacent ecosystems and country-wide trends. The study shows the importance of discriminating human-induced changes from natural population oscillations related to rainfall and ecological factors. National park and reserve populations have declined sharply over the last 30 years, at a rate similar to non-protected areas and country-wide trends. The protected area losses reflect in part their poor coverage of seasonal ungulate migrations. The losses vary among parks. The largest parks, Tsavo East, Tsavo West and Meru, account for a disproportionate share of the losses due to habitat change and the difficulty of protecting large remote parks. The losses in Kenya's parks add to growing evidence for wildlife declines inside as well as outside African parks. The losses point to the need to quantify the performance of conservation policies and promote integrated landscape practices that combine parks with private and community-based measures.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2037622749",
+      "title": "Prediction of a Rift Valley fever outbreak",
+      "abstract": "El Ni\u00f1o/Southern Oscillation related climate anomalies were analyzed by using a combination of satellite measurements of elevated sea-surface temperatures and subsequent elevated rainfall and satellite-derived normalized difference vegetation index data. A Rift Valley fever (RVF) risk mapping model using these climate data predicted areas where outbreaks of RVF in humans and animals were expected and occurred in the Horn of Africa from December 2006 to May 2007. The predictions were subsequently confirmed by entomological and epidemiological field investigations of virus activity in the areas identified as at risk. Accurate spatial and temporal predictions of disease activity, as it occurred first in southern Somalia and then through much of Kenya before affecting northern Tanzania, provided a 2 to 6 week period of warning for the Horn of Africa that facilitated disease outbreak response and mitigation activities. To our knowledge, this is the first prospective prediction of a RVF outbreak.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2041589051",
+      "title": "Croppers to livestock keepers: livelihood transitions to 2050 in Africa due to climate change",
+      "abstract": null,
+      "relevance": 1,
+      "notes": "[HUMAN_CORRECTED: was 1] Models transitions where crop systems fail into rangeland/pastoral areas due to climate change."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2062735218",
+      "title": "Livestock, livelihoods and the environment: understanding the trade-offs",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2095718043",
+      "title": "Designing Index\u2010Based Livestock Insurance for Managing Asset Risk in Northern Kenya",
+      "abstract": "Abstract This article describes a novel index\u2010based livestock insurance (IBLI) product piloted among pastoralists in Northern Kenya, where insurance markets are effectively absent and uninsured risk exposure is a main cause of poverty. We describe the methodology used to design the contract and its underlying index of predicted area\u2010average livestock mortality, established statistically using longitudinal observations of household\u2010level herd mortality fit to remotely sensed vegetation data. Household\u2010level performance analysis based on simulations finds that IBLI removes 25\u201340 percent of total livestock mortality risk. We describe the contract pricing and the risk exposures of the underwriter to establish IBLI's reinsurability on international markets.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2113903666",
+      "title": "Baselines and Degradation of Coral Reefs in the Northern Line Islands",
+      "abstract": "Effective conservation requires rigorous baselines of pristine conditions to assess the impacts of human activities and to evaluate the efficacy of management. Most coral reefs are moderately to severely degraded by local human activities such as fishing and pollution as well as global change, hence it is difficult to separate local from global effects. To this end, we surveyed coral reefs on uninhabited atolls in the northern Line Islands to provide a baseline of reef community structure, and on increasingly populated atolls to document changes associated with human activities. We found that top predators and reef-building organisms dominated unpopulated Kingman and Palmyra, while small planktivorous fishes and fleshy algae dominated the populated atolls of Tabuaeran and Kiritimati. Sharks and other top predators overwhelmed the fish assemblages on Kingman and Palmyra so that the biomass pyramid was inverted (top-heavy). In contrast, the biomass pyramid at Tabuaeran and Kiritimati exhibited the typical bottom-heavy pattern. Reefs without people exhibited less coral disease and greater coral recruitment relative to more inhabited reefs. Thus, protection from overfishing and pollution appears to increase the resilience of reef ecosystems to the effects of global warming.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2168354389",
+      "title": "Conservation Agriculture in mixed crop\u2013livestock systems: Scoping crop residue trade-offs in Sub-Saharan Africa and South Asia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2526899015",
+      "title": "Extreme Wildlife Declines and Concurrent Increase in Livestock Numbers in Kenya: What Are the Causes?",
+      "abstract": "There is growing evidence of escalating wildlife losses worldwide. Extreme wildlife losses have recently been documented for large parts of Africa, including western, Central and Eastern Africa. Here, we report extreme declines in wildlife and contemporaneous increase in livestock numbers in Kenya rangelands between 1977 and 2016. Our analysis uses systematic aerial monitoring survey data collected in rangelands that collectively cover 88% of Kenya's land surface. Our results show that wildlife numbers declined on average by 68% between 1977 and 2016. The magnitude of decline varied among species but was most extreme (72-88%) and now severely threatens the population viability and persistence of warthog, lesser kudu, Thomson's gazelle, eland, oryx, topi, hartebeest, impala, Grevy's zebra and waterbuck in Kenya's rangelands. The declines were widespread and occurred in most of the 21 rangeland counties. Likewise to wildlife, cattle numbers decreased (25.2%) but numbers of sheep and goats (76.3%), camels (13.1%) and donkeys (6.7%) evidently increased in the same period. As a result, livestock biomass was 8.1 times greater than that of wildlife in 2011-2013 compared to 3.5 times in 1977-1980. Most of Kenya's wildlife (ca. 30%) occurred in Narok County alone. The proportion of the total \"national\" wildlife population found in each county increased between 1977 and 2016 substantially only in Taita Taveta and Laikipia but marginally in Garissa and Wajir counties, largely reflecting greater wildlife losses elsewhere. The declines raise very grave concerns about the future of wildlife, the effectiveness of wildlife conservation policies, strategies and practices in Kenya. Causes of the wildlife declines include exponential human population growth, increasing livestock numbers, declining rainfall and a striking rise in temperatures but the fundamental cause seems to be policy, institutional and market failures. Accordingly, we thoroughly evaluate wildlife conservation policy in Kenya. We suggest policy, institutional and management interventions likely to succeed in reducing the declines and restoring rangeland health, most notably through strengthening and investing in community and private wildlife conservancies in the rangelands.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2567189951",
+      "title": "Assessing farmer use of climate change adaptation practices and impacts on food security and poverty in Pakistan",
+      "abstract": "Climate change is set to be particularly disruptive in poor agricultural communities. We assess the factors influencing farmers\u2019 choice of climate change adaptation practices and associated impacts on household food security and poverty in Pakistan using comprehensive data from 950 farmers from its major provinces. A probit model was used to investigate the factors influencing the use of climate-change adaptation practices; the censored least absolute deviation (CLAD) was used to analyze the determinants of the number of adaptation practices used; and a propensity score matching (PSM) approach was employed to evaluate the impact of adaptation practices on food security and poverty levels. Adjustment in sowing time (22% households), use of drought tolerant varieties (15%) and shifting to new crops (25%) were the three major adaptation practices used by farmers in the study area. Results show that younger farmers and farmers with higher levels of education are more likely to use these adaptation practices, as do farmers that are wealthier, farm more land and have joint families. The number of adaptation practices used was found to be positively associated with education, male household heads, land size, household size, extension services, access to credit and wealth. Farmers adopting more adaptation practices had higher food security levels (8\u201313%) than those who did not, and experienced lower levels of poverty (3\u20136%). Climate change adaptation practices at farm level can thereby have significant development outcomes in addition to reducing exposure to weather risks.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2592728280",
+      "title": "Smallholder farmers\u2019 adaptation to climate change and determinants of their adaptation decisions in the Central Rift Valley of Ethiopia",
+      "abstract": "The agricultural sector remains the main source of livelihoods for rural communities in Ethiopia, but faces the challenge of changing climate. This study investigated how smallholder farmers perceive climate change, what adaptation strategies they practice, and factors that influence their adaptation decisions. Both primary and secondary data were used for the study, and a multinomial logit model was employed to identify the factors that shape smallholder farmers\u2019 adaptation strategies. The results show that 90% of farmers have already perceived climate variability, and 85% made attempts to adapt using practices like crop diversification, planting date adjustment, soil and water conservation and management, increasing the intensity of input use, integrating crop with livestock, and tree planting. The econometric model indicated that education, family size, gender, age, livestock ownership, farming experience, frequency of contact with extension agents, farm size, access to market, access to climate information and income were the key factors determining farmers\u2019 choice of adaptation practice. In the Central Rift Valley of Ethiopia, climate change is a pressing problem, which is beyond the capacity of smallholders to respond to autonomously. Farmers\u2019 capacity to choose effective adaptation options is influenced by household demography, as well as positively by farm size, income, access to markets, access to climate information and extension, and livestock production. This implies the need to support the indigenous adaptation strategies of the smallholder farmers with a wide range of institutional, policy, and technology support; some of it targeted on smaller, poorer or female-headed households. Moreover, creating opportunities for non-farm income sources is important as this helps farmers to engage in those activities that are less sensitive to climate change. Furthermore, providing climate change information, extension services, and creating access to markets are crucial.",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Studies rangeland ecology or pastoral systems in Africa generally.).] Studies rangeland ecology or pastoral systems in Africa generally."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W2786858330",
+      "title": "Climate risk management and rural poverty reduction",
+      "abstract": "Climate variability is a major source of risk to smallholder farmers and pastoralists, particularly in dryland regions. A growing body of evidence links climate-related risk to the extent and the persistence of rural poverty in these environments. Stochastic shocks erode smallholder farmers' long-term livelihood potential through loss of productive assets. The resulting uncertainty impedes progress out of poverty by acting as a disincentive to investment in agriculture \u2013 by farmers, rural financial services, value chain institutions and governments. We assess evidence published in the last ten years that a set of production technologies and institutional options for managing risk can stabilize production and incomes, protect assets in the face of shocks, enhance uptake of improved technologies and practices, improve farmer welfare, and contribute to poverty reduction in risk-prone smallholder agricultural systems. Production technologies and practices such as stress-adapted crop germplasm, conservation agriculture, and diversified production systems stabilize agricultural production and incomes and, hence, reduce the adverse impacts of climate-related risk under some circumstances. Institutional interventions such as index-based insurance and social protection through adaptive safety nets play a complementary role in enabling farmers to manage risk, overcome risk-related barriers to adoption of improved technologies and practices, and protect their assets against the impacts of extreme climatic events. While some research documents improvements in household welfare indicators, there is limited evidence that the risk-reduction benefits of the interventions reviewed have enabled significant numbers of very poor farmers to escape poverty. We discuss the roles that climate-risk management interventions can play in efforts to reduce rural poverty, and the need for further research on identifying and targeting environments and farming populations where improved climate risk management could accelerate efforts to reduce rural poverty.",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Studies rangeland ecology or pastoral systems in Africa generally.).] Studies rangeland ecology or pastoral systems in Africa generally."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W3210895846",
+      "title": "A systematic global stocktake of evidence on human adaptation to climate change",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q21",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "paper_id": "W4383163295",
+      "title": "Security risks from climate change and environmental degradation: implications for sustainable land use transformation in the Global South",
+      "abstract": "Climate change and environmental degradation remain the most complex challenges that present and future generations of humankind face and raise several security risks that have received relatively little attention in the literature. This paper aims to review the evidence of security risks arising from these challenges in the Global South and to provide forward-looking perspectives on how to increase the resilience of affected individuals and communities. We see diverse land use strategies as a key element to drive a transformation towards greater sustainability and resilience. We propose that rural land use in the Global South should be geared towards the promotion of resource and biodiversity conservation, the development of agroforestry, tree-based farming systems, the diversification of crops, and the utilization of climate-resilient cultivars, and neglected and under-utilized plants. These actions would contribute to addressing the security risks stemming from the interconnected challenges of climate change and environmental degradation.",
+      "relevance": 0,
+      "notes": "Not related to pastoralism or rangeland degradation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W1509240185",
+      "title": "Diversity enhances carbon storage in tropical forests",
+      "abstract": "Abstract Aim Tropical forests store 25% of global carbon and harbour 96% of the world's tree species, but it is not clear whether this high biodiversity matters for carbon storage. Few studies have teased apart the relative importance of forest attributes and environmental drivers for ecosystem functioning, and no such study exists for the tropics. Location Neotropics. Methods We relate aboveground biomass ( AGB ) to forest attributes (diversity and structure) and environmental drivers (annual rainfall and soil fertility) using data from 144,000 trees, 2050 forest plots and 59 forest sites. The sites span the complete latitudinal and climatic gradients in the lowland Neotropics, with rainfall ranging from 750 to 4350 mm year \u22121 . Relationships were analysed within forest sites at scales of 0.1 and 1 ha and across forest sites along large\u2010scale environmental gradients. We used a structural equation model to test the hypothesis that species richness, forest structural attributes and environmental drivers have independent, positive effects on AGB . Results Across sites, AGB was most strongly driven by rainfall, followed by average tree stem diameter and rarefied species richness, which all had positive effects on AGB . Our indicator of soil fertility (cation exchange capacity) had a negligible effect on AGB , perhaps because we used a global soil database. Taxonomic forest attributes (i.e. species richness, rarefied richness and Shannon diversity) had the strongest relationships with AGB at small spatial scales, where an additional species can still make a difference in terms of niche complementarity, while structural forest attributes (i.e. tree density and tree size) had strong relationships with AGB at all spatial scales. Main conclusions Biodiversity has an independent, positive effect on AGB and ecosystem functioning, not only in relatively simple temperate systems but also in structurally complex hyperdiverse tropical forests. Biodiversity conservation should therefore be a key component of the UN Reducing Emissions from Deforestation and Degradation strateg y.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2004010203",
+      "title": "Managing vulnerability to drought and enhancing livelihood resilience in sub-Saharan Africa: Technological, institutional and policy options",
+      "abstract": "Agriculture and the economies of Sub-Saharan Africa (SSA) are highly sensitive to climatic variability. Drought, in particular, represents one of the most important natural factors contributing to malnutrition and famine in many parts of the region. The overall impact of drought on a given country/region and its ability to recover from the resulting social, economic and environmental impacts depends on several factors. The economic, social and environmental impacts of drought are huge in SSA and the national costs and losses incurred threaten to undermine the wider economic and development gains made in the last few decades in the region. There is an urgent need to reduce the vulnerability of countries to climate variability and to the threats posed by climate change. This paper attempts to highlight the challenges of drought in SSA and reviews the current drought risk management strategies, especially the promising technological and policy options for managing drought risks to protect livelihoods and reduce vulnerability. The review suggests the possibilities of several ex ante and ex post drought management strategies in SSA although their effectiveness depends on agro-climatic and socio-economic conditions. Existing technological, policy and institutional risk management measures need to be strengthened and integrated to manage drought ex ante and to minimize the ex post negative effects for vulnerable households and regions. A proactive approach that combines promising technological, institutional and policy solutions to manage the risks within vulnerable communities implemented by institutions operating at different levels (community, sub-national, and national) is considered to be the way forward for managing drought and climate variability.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2010751289",
+      "title": "Adapting agriculture to climate change in Kenya: Household strategies and determinants",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2024828497",
+      "title": "The Status of Wildlife in Protected Areas Compared to Non-Protected Areas of Kenya",
+      "abstract": "We compile over 270 wildlife counts of Kenya's wildlife populations conducted over the last 30 years to compare trends in national parks and reserves with adjacent ecosystems and country-wide trends. The study shows the importance of discriminating human-induced changes from natural population oscillations related to rainfall and ecological factors. National park and reserve populations have declined sharply over the last 30 years, at a rate similar to non-protected areas and country-wide trends. The protected area losses reflect in part their poor coverage of seasonal ungulate migrations. The losses vary among parks. The largest parks, Tsavo East, Tsavo West and Meru, account for a disproportionate share of the losses due to habitat change and the difficulty of protecting large remote parks. The losses in Kenya's parks add to growing evidence for wildlife declines inside as well as outside African parks. The losses point to the need to quantify the performance of conservation policies and promote integrated landscape practices that combine parks with private and community-based measures.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2028877728",
+      "title": "Reducing Greenhouse Gas Emissions from Deforestation and Forest Degradation: Global Land-Use Implications",
+      "abstract": "Recent climate talks in Bali have made progress toward action on deforestation and forest degradation in developing countries, within the anticipated post-Kyoto emissions reduction agreements. As a result of such action, many forests will be better protected, but some land-use change will be displaced to other locations. The demonstration phase launched at Bali offers an opportunity to examine potential outcomes for biodiversity and ecosystem services. Research will be needed into selection of priority areas for reducing emissions from deforestation and forest degradation to deliver multiple benefits, on-the-ground methods to best ensure these benefits, and minimization of displaced land-use change into nontarget countries and ecosystems, including through revised conservation investments.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2035787054",
+      "title": "Achieving mitigation and adaptation to climate change through sustainable agroforestry practices in Africa",
+      "abstract": "Agroforestry is one of the most conspicuous land use systems across landscapes and agroecological zones in Africa. With food shortages and increased threats of climate change, interest in agroforestry is gathering for its potential to address various on-farm adaptation needs, and fulfill many roles in AFOLU-related mitigation pathways. Agroforestry provides assets and income from carbon, wood energy, improved soil fertility and enhancement of local climate conditions; it provides ecosystem services and reduces human impacts on natural forests. Most of these benefits have direct benefits for local adaptation while contributing to global efforts to control atmospheric greenhouse gas concentrations. This paper presents recent findings on how agroforestry as a sustainable practice helps to achieve both mitigation and adaptation objectives while remaining relevant to the livelihoods of the poor smallholder farmers in Africa.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2041589051",
+      "title": "Croppers to livestock keepers: livelihood transitions to 2050 in Africa due to climate change",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2057408875",
+      "title": "Global congruence of carbon storage and biodiversity in terrestrial ecosystems",
+      "abstract": "Abstract Deforestation is a main driver of climate change and biodiversity loss. An incentive mechanism to reduce emissions from deforestation and forest degradation (REDD) is being negotiated under the United Nations Framework Convention on Climate Change. Here we use the best available global data sets on terrestrial biodiversity and carbon storage to map and investigate potential synergies between carbon and biodiversity\u2010oriented conservation. A strong association ( r S = 0.82) between carbon stocks and species richness suggests that such synergies would be high, but unevenly distributed. Many areas of high value for biodiversity could be protected by carbon\u2010based conservation, while others could benefit from complementary funding arising from their carbon content. Some high\u2010biodiversity regions, however, would not benefit from carbon\u2010focused conservation, and could become under increased pressure if REDD is implemented. Our results suggest that additional gains for biodiversity conservation are possible, without compromising the effectiveness for climate change mitigation, if REDD takes biodiversity distribution into account.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2063429046",
+      "title": "The role of pasture and soybean in deforestation of the Brazilian Amazon",
+      "abstract": "The dynamics of deforestation in the Brazilian Amazon are complex. A growing debate considers the extent to which deforestation is a result of the expansion of the Brazilian soy industry. Most recent analyses suggest that deforestation is driven by the expansion of cattle ranching, rather than soy. Soy seems to be replacing previously deforested land and/or land previously under pasture. In this study, we use municipality-level statistics on agricultural and deforested areas across the Legal Amazon from 2000 to 2006 to examine the spatial patterns and statistical relationships between deforestation and changes in pasture and soybean areas. Our results support previous studies that showed that deforestation is predominantly a result of pasture expansion. However, we also find support for the hypothesis that an increase of soy in Mato Grosso has displaced pasture further north, leading to deforestation elsewhere. Although not conclusive, our findings suggest that the debate surrounding the drivers of Amazon deforestation is not over, and that indirect causal links between soy and deforestation may exist that need further exploration. Future research should examine more closely how interlinkages between land area, prices, and policies influence the relationship between soy and deforestation, in order to make a conclusive case for 'displacement deforestation'.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2084863124",
+      "title": "Agroforestry solutions to address food security and climate change challenges in Africa",
+      "abstract": "Trees inside and outside forests contribute to food security in Africa in the face of climate variability and change. They also provide environmental and social benefits as part of farming livelihoods. Varied ecological and socio-economic conditions have given rise to specific forms of agroforestry in different parts of Africa. Policies that institutionally segregate forest from agriculture miss opportunities for synergy at landscape scale. More explicit inclusion of agroforestry and the integration of agriculture and forestry agendas in global initiatives on climate change adaptation and mitigation can increase their effectiveness. We identify research gaps and overarching research questions for the contributions in this special issue that may help shape current opinion in environmental sustainability.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2111764341",
+      "title": "Time Lag between Deforestation and Bird Extinction in Tropical Forest Fragments",
+      "abstract": "Abstract: Tropical forests are becoming increasingly fragmented, threatening the survival of the species that depend on them. Small, isolated forest fragments will lose some of their original species. What is uncertain is how long this process of faunal relaxation will take. We compiled data on birds in five tropical forest fragments in Kakamega Forest, Kenya, of known date of isolation. We then predicted the original and eventual species richness of these fragments and, from this difference, the eventual species losses. Expressing the losses to date as a fraction of eventual losses suggests that faunal relaxation approximates an exponential decay with a half\u2010life of approximately 50 years for fragments of roughly 1000 ha. In other words, in the first 50 years after isolation, tropical forest fragments of this size suffer half of the total number of extinctions that they are likely to experience. This result sets the time scale over which humanity must take conservation action in fragmented tropical forests, may aid efforts to set priorities, and indicates how high the future global extinction rate will be.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Brooks et al. Evaluates avian relaxation in forest fragments; does not analyze Mau Forest hydrological dynamics."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2141630770",
+      "title": "Global water resources affected by human interventions and climate change",
+      "abstract": "Humans directly change the dynamics of the water cycle through dams constructed for water storage, and through water withdrawals for industrial, agricultural, or domestic purposes. Climate change is expected to additionally affect water supply and demand. Here, analyses of climate change and direct human impacts on the terrestrial water cycle are presented and compared using a multimodel approach. Seven global hydrological models have been forced with multiple climate projections, and with and without taking into account impacts of human interventions such as dams and water withdrawals on the hydrological cycle. Model results are analyzed for different levels of global warming, allowing for analyses in line with temperature targets for climate change mitigation. The results indicate that direct human impacts on the water cycle in some regions, e.g., parts of Asia and in the western United States, are of the same order of magnitude, or even exceed impacts to be expected for moderate levels of global warming (+2 K). Despite some spread in model projections, irrigation water consumption is generally projected to increase with higher global mean temperatures. Irrigation water scarcity is particularly large in parts of southern and eastern Asia, and is expected to become even larger in the future.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2295422249",
+      "title": "Vulnerability to climate change of cocoa in West Africa: Patterns, opportunities and limits to adaptation",
+      "abstract": "The West African cocoa belt, reaching from Sierra Leone to southern Cameroon, is the origin of about 70% of the world's cocoa (Theobroma cacao), which in turn is the basis of the livelihoods of about two million farmers. We analyze cocoa's vulnerability to climate change in the West African cocoa belt, based on climate projections for the 2050s of 19 Global Circulation Models under the Intergovernmental Panel on Climate Change intermediate emissions scenario RCP 6.0. We use a combination of a statistical model of climatic suitability (Maxent) and the analysis of individual, potentially limiting climate variables. We find that: 1) contrary to expectation, maximum dry season temperatures are projected to become as or more limiting for cocoa as dry season water availability; 2) to reduce the vulnerability of cocoa to excessive dry season temperatures, the systematic use of adaptation strategies like shade trees in cocoa farms will be necessary, in reversal of the current trend of shade reduction; 3) there is a strong differentiation of climate vulnerability within the cocoa belt, with the most vulnerable areas near the forest-savanna transition in Nigeria and eastern C\u00f4te d'Ivoire, and the least vulnerable areas in the southern parts of Cameroon, Ghana, C\u00f4te d'Ivoire and Liberia; 4) this spatial differentiation of climate vulnerability may lead to future shifts in cocoa production within the region, with the opportunity of partially compensating losses and gains, but also the risk of local production expansion leading to new deforestation. We conclude that adaptation strategies for cocoa in West Africa need to focus at several levels, from the consideration of tolerance to high temperatures in cocoa breeding programs, the promotion of shade trees in cocoa farms, to policies incentivizing the intensification of cocoa production on existing farms where future climate conditions permit and the establishment of new farms in already deforested areas.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2340277739",
+      "title": "Quantification of biochar effects on soil hydrological properties using meta-analysis of literature data",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2384950079",
+      "title": "Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics",
+      "abstract": "Regrowth of tropical secondary forests following complete or nearly complete removal of forest vegetation actively stores carbon in aboveground biomass, partially counterbalancing carbon emissions from deforestation, forest degradation, burning of fossil fuels, and other anthropogenic sources. We estimate the age and spatial extent of lowland second-growth forests in the Latin American tropics and model their potential aboveground carbon accumulation over four decades. Our model shows that, in 2008, second-growth forests (1 to 60 years old) covered 2.4 million km(2) of land (28.1% of the total study area). Over 40 years, these lands can potentially accumulate a total aboveground carbon stock of 8.48 Pg C (petagrams of carbon) in aboveground biomass via low-cost natural regeneration or assisted regeneration, corresponding to a total CO2 sequestration of 31.09 Pg CO2. This total is equivalent to carbon emissions from fossil fuel use and industrial processes in all of Latin America and the Caribbean from 1993 to 2014. Ten countries account for 95% of this carbon storage potential, led by Brazil, Colombia, Mexico, and Venezuela. We model future land-use scenarios to guide national carbon mitigation policies. Permitting natural regeneration on 40% of lowland pastures potentially stores an additional 2.0 Pg C over 40 years. Our study provides information and maps to guide national-level forest-based carbon mitigation plans on the basis of estimated rates of natural regeneration and pasture abandonment. Coupled with avoided deforestation and sustainable forest management, natural regeneration of second-growth forests provides a low-cost mechanism that yields a high carbon sequestration potential with multiple benefits for biodiversity and ecosystem services.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2526899015",
+      "title": "Extreme Wildlife Declines and Concurrent Increase in Livestock Numbers in Kenya: What Are the Causes?",
+      "abstract": "There is growing evidence of escalating wildlife losses worldwide. Extreme wildlife losses have recently been documented for large parts of Africa, including western, Central and Eastern Africa. Here, we report extreme declines in wildlife and contemporaneous increase in livestock numbers in Kenya rangelands between 1977 and 2016. Our analysis uses systematic aerial monitoring survey data collected in rangelands that collectively cover 88% of Kenya's land surface. Our results show that wildlife numbers declined on average by 68% between 1977 and 2016. The magnitude of decline varied among species but was most extreme (72-88%) and now severely threatens the population viability and persistence of warthog, lesser kudu, Thomson's gazelle, eland, oryx, topi, hartebeest, impala, Grevy's zebra and waterbuck in Kenya's rangelands. The declines were widespread and occurred in most of the 21 rangeland counties. Likewise to wildlife, cattle numbers decreased (25.2%) but numbers of sheep and goats (76.3%), camels (13.1%) and donkeys (6.7%) evidently increased in the same period. As a result, livestock biomass was 8.1 times greater than that of wildlife in 2011-2013 compared to 3.5 times in 1977-1980. Most of Kenya's wildlife (ca. 30%) occurred in Narok County alone. The proportion of the total \"national\" wildlife population found in each county increased between 1977 and 2016 substantially only in Taita Taveta and Laikipia but marginally in Garissa and Wajir counties, largely reflecting greater wildlife losses elsewhere. The declines raise very grave concerns about the future of wildlife, the effectiveness of wildlife conservation policies, strategies and practices in Kenya. Causes of the wildlife declines include exponential human population growth, increasing livestock numbers, declining rainfall and a striking rise in temperatures but the fundamental cause seems to be policy, institutional and market failures. Accordingly, we thoroughly evaluate wildlife conservation policy in Kenya. We suggest policy, institutional and management interventions likely to succeed in reducing the declines and restoring rangeland health, most notably through strengthening and investing in community and private wildlife conservancies in the rangelands.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2586819609",
+      "title": "Trees, forests and water: Cool insights for a hot world",
+      "abstract": "Forest-driven water and energy cycles are poorly integrated into regional, national, continental and global decision-making on climate change adaptation, mitigation, land use and water management. This constrains humanity\u2019s ability to protect our planet\u2019s climate and life-sustaining functions. The substantial body of research we review reveals that forest, water and energy interactions provide the foundations for carbon storage, for cooling terrestrial surfaces and for distributing water resources. Forests and trees must be recognized as prime regulators within the water, energy and carbon cycles. If these functions are ignored, planners will be unable to assess, adapt to or mitigate the impacts of changing land cover and climate. Our call to action targets a reversal of paradigms, from a carbon-centric model to one that treats the hydrologic and climate-cooling effects of trees and forests as the first order of priority. For reasons of sustainability, carbon storage must remain a secondary, though valuable, by-product. The effects of tree cover on climate at local, regional and continental scales offer benefits that demand wider recognition. The forest- and tree-centered research insights we review and analyze provide a knowledge-base for improving plans, policies and actions. Our understanding of how trees and forests influence water, energy and carbon cycles has important implications, both for the structure of planning, management and governance institutions, as well as for how trees and forests might be used to improve sustainability, adaptation and mitigation efforts.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W2775501095",
+      "title": "Impacts of land use and land cover change on surface runoff, discharge and low flows: Evidence from East Africa",
+      "abstract": "Region East Africa. Focus A review of catchment studies (n = 37) conducted in East Africa evaluating the impacts of Land Use and Land Cover Changes (LULCC) on discharge, surface runoff, and low flows. New hydrological insights Forest cover loss is accompanied by increased stream discharges and surface runoff. No significant difference in stream discharge is observed between bamboo and pine plantation catchments, and between cultivated and tea plantation catchments. Trend analyses show that despite forest cover loss, 63% of the watersheds show non-significant changes in annual discharges while 31% show increasing trends. Half of the watersheds show non-significant trends in wet season flows and low flows while 35% reveal decreasing trends in low flows. Modeling studies estimate that forest cover loss increases annual discharges and surface runoff by 16 \u00b1 5.5% and 45 \u00b1 14%, respectively. Peak flows increased by a mean of 10 \u00b1 2.8% while low flows decreased by a mean of 7 \u00b1 5.3%. Increased forest cover decreases annual discharges and surface runoff by 13 \u00b1 1.9% and 25 \u00b1 5%, respectively. Weak correlations between forest cover and runoff (r = 0.42, p < 0.05), mean discharge (r = 0.63, p < 0.05) and peak discharge (r = 0.67, p < 0.05) indicate that forest cover alone is not an accurate predictor of hydrological fluxes in East African catchments. The variability in these results supports the need for long-term field monitoring to better understand catchment responses and to improve the calibration of currently used simulation models.",
+      "relevance": 2,
+      "notes": "Direct research on Kenyan forest catchment conservation, deforestation hydrology, or Mau Forest."
+    },
+    {
+      "query_id": "Q22",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "paper_id": "W4200191517",
+      "title": "Multidimensional tropical forest recovery",
+      "abstract": "Tropical forests disappear rapidly because of deforestation, yet they have the potential to regrow naturally on abandoned lands. We analyze how 12 forest attributes recover during secondary succession and how their recovery is interrelated using 77 sites across the tropics. Tropical forests are highly resilient to low-intensity land use; after 20 years, forest attributes attain 78% (33 to 100%) of their old-growth values. Recovery to 90% of old-growth values is fastest for soil (<1 decade) and plant functioning (<2.5 decades), intermediate for structure and species diversity (2.5 to 6 decades), and slowest for biomass and species composition (>12 decades). Network analysis shows three independent clusters of attribute recovery, related to structure, species diversity, and species composition. Secondary forests should be embraced as a low-cost, natural solution for ecosystem restoration, climate change mitigation, and biodiversity conservation.",
+      "relevance": 0,
+      "notes": "Not related to forest hydrology or water tower conservation."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W1884768734",
+      "title": "Globally significant greenhouse-gas emissions from African inland waters",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W1910270189",
+      "title": "Morphometry and average temperature affect lake stratification responses to climate change",
+      "abstract": "Abstract Climate change is affecting lake stratification with consequences for water quality and the benefits that lakes provide to society. Here we use long\u2010term temperature data (1970\u20132010) from 26 lakes around the world to show that climate change has altered lake stratification globally and that the magnitudes of lake stratification changes are primarily controlled by lake morphometry (mean depth, surface area, and volume) and mean lake temperature. Deep lakes and lakes with high average temperatures have experienced the largest changes in lake stratification even though their surface temperatures tend to be warming more slowly. These results confirm that the nonlinear relationship between water density and water temperature and the strong dependence of lake stratification on lake morphometry makes lake temperature trends relatively poor predictors of lake stratification trends.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W1989089335",
+      "title": "Frequency and timing of antenatal care in Kenya: explaining the variations between women of different communities",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2011915418",
+      "title": "2.5-Myr Australopithecus boisei from west of Lake Turkana, Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2013548909",
+      "title": "A high-resolution assessment on global nitrogen flows in cropland",
+      "abstract": "Crop production is the single largest cause of human alteration of the global nitrogen cycle. We present a comprehensive assessment of global nitrogen flows in cropland for the year 2000 with a spatial resolution of 5 arc-minutes. We calculated a total nitrogen input (IN) of 136.60 trillion grams (Tg) of N per year, of which almost half is contributed by mineral nitrogen fertilizers, and a total nitrogen output (OUT) of 148.14 Tg of N per year, of which 55% is uptake by harvested crops and crop residues. We present high-resolution maps quantifying the spatial distribution of nitrogen IN and OUT flows, soil nitrogen balance, and surface nitrogen balance. The high-resolution data are aggregated at the national level on a per capita basis to assess nitrogen stress levels. The results show that almost 80% of African countries are confronted with nitrogen scarcity or nitrogen stress problems, which, along with poverty, cause food insecurity and malnutrition. The assessment also shows a global average nitrogen recovery rate of 59%, indicating that nearly two-fifths of nitrogen inputs are lost in ecosystems. More effective management of nitrogen is essential to reduce the deleterious environmental consequences.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2015670964",
+      "title": "Some Like It Hot: The Influence and Implications of Climate Change on Coffee Berry Borer (Hypothenemus hampei) and Coffee Production in East Africa",
+      "abstract": "The negative effects of climate change are already evident for many of the 25 million coffee farmers across the tropics and the 90 billion dollar (US) coffee industry. The coffee berry borer (Hypothenemus hampei), the most important pest of coffee worldwide, has already benefited from the temperature rise in East Africa: increased damage to coffee crops and expansion in its distribution range have been reported. In order to anticipate threats and prioritize management actions for H. hampei we present here, maps on future distributions of H. hampei in coffee producing areas of East Africa. Using the CLIMEX model we relate present-day insect distributions to current climate and then project the fitted climatic envelopes under future scenarios A2A and B2B (for HADCM3 model). In both scenarios, the situation with H. hampei is forecasted to worsen in the current Coffea arabica producing areas of Ethiopia, the Ugandan part of the Lake Victoria and Mt. Elgon regions, Mt. Kenya and the Kenyan side of Mt. Elgon, and most of Rwanda and Burundi. The calculated hypothetical number of generations per year of H. hampei is predicted to increase in all C. arabica-producing areas from five to ten. These outcomes will have serious implications for C. arabica production and livelihoods in East Africa. We suggest that the best way to adapt to a rise of temperatures in coffee plantations could be via the introduction of shade trees in sun grown plantations. The aims of this study are to fill knowledge gaps existing in the coffee industry, and to draft an outline for the development of an adaptation strategy package for climate change on coffee production. An abstract in Spanish is provided as Abstract S1.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Entomology study on coffee berry borer. Completely unrelated to Lake Victoria water quality or water hyacinth."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2024828497",
+      "title": "The Status of Wildlife in Protected Areas Compared to Non-Protected Areas of Kenya",
+      "abstract": "We compile over 270 wildlife counts of Kenya's wildlife populations conducted over the last 30 years to compare trends in national parks and reserves with adjacent ecosystems and country-wide trends. The study shows the importance of discriminating human-induced changes from natural population oscillations related to rainfall and ecological factors. National park and reserve populations have declined sharply over the last 30 years, at a rate similar to non-protected areas and country-wide trends. The protected area losses reflect in part their poor coverage of seasonal ungulate migrations. The losses vary among parks. The largest parks, Tsavo East, Tsavo West and Meru, account for a disproportionate share of the losses due to habitat change and the difficulty of protecting large remote parks. The losses in Kenya's parks add to growing evidence for wildlife declines inside as well as outside African parks. The losses point to the need to quantify the performance of conservation policies and promote integrated landscape practices that combine parks with private and community-based measures.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2044083925",
+      "title": "The distribution of C3 and C4 grasses and carbon isotope discrimination along an altitudinal and moisture gradient in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2091073050",
+      "title": "Early Homo erectus skeleton from west Lake Turkana, Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2119684348",
+      "title": "Anopheles gambiae: historical population decline associated with regional distribution of insecticide-treated bed nets in western Nyanza Province, Kenya",
+      "abstract": "BACKGROUND: High coverage of insecticide-treated bed nets in Asembo and low coverage in Seme, two adjacent communities in western Nyanza Province, Kenya; followed by expanded coverage of bed nets in Seme, as the Kenya national malaria programme rolled out; provided a natural experiment for quantification of changes in relative abundance of two primary malaria vectors in this holoendemic region. Both belong to the Anopheles gambiae sensu lato (s.l.) species complex, namely A. gambiae sensu stricto (s.s.) and Anopheles arabiensis. Historically, the former species was proportionately dominant in indoor resting collections of females. METHODS: Data of the relative abundance of adult A. gambiae s.s. and A. arabiensis sampled from inside houses were obtained from the literature from 1970 to 2002 for sites west of Kisumu, Kenya, to the region of Asembo ca. 50 km from the city. A sampling transect was established from Asembo (where bed net use was high due to presence of a managed bed net distribution programme) eastward to Seme, where no bed net programme was in place. Adults of A. gambiae s.l. were sampled from inside houses along the transect from 2003 to 2009, as were larvae from nearby aquatic habitats, providing data over a nearly 40 year period of the relative abundance of the two species. Relative proportions of A. gambiae s.s. and A. arabiensis were determined for each stage by identifying species by the polymerase chain reaction method. Household bed net ownership was measured with surveys during mosquito collections. Data of blood host choice, parity rate, and infection rate for Plasmodium falciparum in A. gambiae s.s. and A. arabiensis were obtained for a sample from Asembo and Seme from 2005. RESULTS: Anopheles gambiae s.s. adult females from indoor collections predominated from 1970 to 1998 (ca. 85%). Beginning in 1999, A. gambiae s.s decreased proportionately relative to A. arabiensis, then precipitously declined to rarity coincident with increased bed net ownership as national bed net distribution programmes commenced in 2004 and 2006. By 2009, A. gambiae s.s. comprised proportionately ca. 1% of indoor collections and A. arabiensis 99%. In Seme compared to Asembo in 2003, proportionately more larvae were A. gambiae s.s., larval density was higher, and more larval habitats were occupied. As bed net use rose in Seme, the proportion of A. gambiae larvae declined as well. These trends continued to 2009. Parity and malaria infection rates were lower in both species in Asembo (high bed net use) compared to Seme (low bed net use), but host choice did not vary within species in both communities (predominantly cattle for A. arabiensis, humans for A. gambiae s.s.). CONCLUSIONS: A marked decline of the A. gambiae s.s. population occurred as household ownership of bed nets rose in a region of western Kenya over a 10 year period. The increased bed net coverage likely caused a mass effect on the composition of the A. gambiae s.l. species complex, resulting in the observed proportionate increase in A. arabiensis compared to its closely related sibling species, A. gambiae s.s. These observations are important in evaluating the process of regional malaria elimination, which requires sustained vector control as a primary intervention.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2137255447",
+      "title": "Tithonia diversifolia as a green manure for soil fertility improvement in western Kenya: A review",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2141630770",
+      "title": "Global water resources affected by human interventions and climate change",
+      "abstract": "Humans directly change the dynamics of the water cycle through dams constructed for water storage, and through water withdrawals for industrial, agricultural, or domestic purposes. Climate change is expected to additionally affect water supply and demand. Here, analyses of climate change and direct human impacts on the terrestrial water cycle are presented and compared using a multimodel approach. Seven global hydrological models have been forced with multiple climate projections, and with and without taking into account impacts of human interventions such as dams and water withdrawals on the hydrological cycle. Model results are analyzed for different levels of global warming, allowing for analyses in line with temperature targets for climate change mitigation. The results indicate that direct human impacts on the water cycle in some regions, e.g., parts of Asia and in the western United States, are of the same order of magnitude, or even exceed impacts to be expected for moderate levels of global warming (+2 K). Despite some spread in model projections, irrigation water consumption is generally projected to increase with higher global mean temperatures. Irrigation water scarcity is particularly large in parts of southern and eastern Asia, and is expected to become even larger in the future.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2153033188",
+      "title": "Animal Source Foods Improve Dietary Quality, Micronutrient Status, Growth and Cognitive Function in Kenyan School Children: Background, Study Design and Baseline Findings",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2176197350",
+      "title": "Characteristics of Larval Anopheline (Diptera: Culicidae) Habitats in Western Kenya",
+      "abstract": "A longitudinal survey of mosquito larval habitats was carried out in Asembo Bay, western Kenya, during the rainy season of 1998. All pools of standing water along a 700-m transect were sampled twice per week. For each habitat, eight environmental variables were recorded and a sample of anopheline larvae was collected for identification. In total, 1,751 Anopheles gambiae s.l. and 2,784 Anopheles funestus Giles were identified. Identification of An. gambiae s.l. by polymerase chain reaction (PCR) indicated that 240 (14.7%) were An. gambiae Giles and 858 (52.4%) were An. arabiensis Patton; PCR failed to identify 539 (32.9%) specimens. Repeated measures logistic regression analysis indicated that An. gambiae and An. arabiensis larvae were associated with small, temporary habitats with algae and little or no aquatic vegetation. Anopheles funestus larvae were associated with larger, semipermanent bodies of water containing aquatic vegetation and algae. Direct comparison of habitat characteristics associated with either An. gambiae or An. arabiensis revealed that algae were associated more commonly with habitats containing An. gambiae; no other differences were detected. Chi-square analysis indicated that these species were collected from the same habitat more frequently than would be expected by chance alone. Together, these results indicate that An. gambiae and An. arabiensis have similar requirements for the larval environment and that, at least in western Kenya, they do not segregate into separate habitats.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2268007664",
+      "title": "Occurrence patterns of pharmaceutical residues in wastewater, surface water and groundwater of Nairobi and Kisumu city, Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2526899015",
+      "title": "Extreme Wildlife Declines and Concurrent Increase in Livestock Numbers in Kenya: What Are the Causes?",
+      "abstract": "There is growing evidence of escalating wildlife losses worldwide. Extreme wildlife losses have recently been documented for large parts of Africa, including western, Central and Eastern Africa. Here, we report extreme declines in wildlife and contemporaneous increase in livestock numbers in Kenya rangelands between 1977 and 2016. Our analysis uses systematic aerial monitoring survey data collected in rangelands that collectively cover 88% of Kenya's land surface. Our results show that wildlife numbers declined on average by 68% between 1977 and 2016. The magnitude of decline varied among species but was most extreme (72-88%) and now severely threatens the population viability and persistence of warthog, lesser kudu, Thomson's gazelle, eland, oryx, topi, hartebeest, impala, Grevy's zebra and waterbuck in Kenya's rangelands. The declines were widespread and occurred in most of the 21 rangeland counties. Likewise to wildlife, cattle numbers decreased (25.2%) but numbers of sheep and goats (76.3%), camels (13.1%) and donkeys (6.7%) evidently increased in the same period. As a result, livestock biomass was 8.1 times greater than that of wildlife in 2011-2013 compared to 3.5 times in 1977-1980. Most of Kenya's wildlife (ca. 30%) occurred in Narok County alone. The proportion of the total \"national\" wildlife population found in each county increased between 1977 and 2016 substantially only in Taita Taveta and Laikipia but marginally in Garissa and Wajir counties, largely reflecting greater wildlife losses elsewhere. The declines raise very grave concerns about the future of wildlife, the effectiveness of wildlife conservation policies, strategies and practices in Kenya. Causes of the wildlife declines include exponential human population growth, increasing livestock numbers, declining rainfall and a striking rise in temperatures but the fundamental cause seems to be policy, institutional and market failures. Accordingly, we thoroughly evaluate wildlife conservation policy in Kenya. We suggest policy, institutional and management interventions likely to succeed in reducing the declines and restoring rangeland health, most notably through strengthening and investing in community and private wildlife conservancies in the rangelands.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2775501095",
+      "title": "Impacts of land use and land cover change on surface runoff, discharge and low flows: Evidence from East Africa",
+      "abstract": "Region East Africa. Focus A review of catchment studies (n = 37) conducted in East Africa evaluating the impacts of Land Use and Land Cover Changes (LULCC) on discharge, surface runoff, and low flows. New hydrological insights Forest cover loss is accompanied by increased stream discharges and surface runoff. No significant difference in stream discharge is observed between bamboo and pine plantation catchments, and between cultivated and tea plantation catchments. Trend analyses show that despite forest cover loss, 63% of the watersheds show non-significant changes in annual discharges while 31% show increasing trends. Half of the watersheds show non-significant trends in wet season flows and low flows while 35% reveal decreasing trends in low flows. Modeling studies estimate that forest cover loss increases annual discharges and surface runoff by 16 \u00b1 5.5% and 45 \u00b1 14%, respectively. Peak flows increased by a mean of 10 \u00b1 2.8% while low flows decreased by a mean of 7 \u00b1 5.3%. Increased forest cover decreases annual discharges and surface runoff by 13 \u00b1 1.9% and 25 \u00b1 5%, respectively. Weak correlations between forest cover and runoff (r = 0.42, p < 0.05), mean discharge (r = 0.63, p < 0.05) and peak discharge (r = 0.67, p < 0.05) indicate that forest cover alone is not an accurate predictor of hydrological fluxes in East African catchments. The variability in these results supports the need for long-term field monitoring to better understand catchment responses and to improve the calibration of currently used simulation models.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W2960236837",
+      "title": "The WASH Benefits and SHINE trials: interpretation of WASH intervention effects on linear growth and diarrhoea",
+      "abstract": "Child stunting is a global problem and is only modestly responsive to dietary interventions. Numerous observational studies have shown that water quality, sanitation, and handwashing (WASH) in a household are strongly associated with linear growth of children living in the same household. We have completed three randomised efficacy trials testing improved household-level WASH with and without improved infant and young child feeding (IYCF) on stunting and diarrhoea in Bangladesh, Kenya, and Zimbabwe. In all trials, improved IYCF had a statistically significant benefit, but WASH had no effect on linear growth. In observational analyses of data from the control groups of the three trials, baseline sanitation was a strong risk factor for stunting in the study populations, suggesting this frequently reported association might be confounded by unmeasured factors of household wellbeing. WASH interventions reduced diarrhoea in Bangladesh, but not in Kenya or Zimbabwe. Intervention promoters visited participants six times per month in Bangladesh compared with monthly in Kenya and Zimbabwe; a review of the literature shows that virtually all published studies that have reported an effect on diarrhoea through home-based water treatment and handwashing promotion achieved high adherence by visiting participants at daily to fortnightly intervals. Despite achieving substantial behavioural change and significant reduction in infection prevalence for some enteric pathogens, detection of enteropathogens among children in the WASH groups of the trials was typically at ten times higher prevalence compared with high-income countries. Considering these results, we recommend that future research in the WASH sector focus on developing and evaluating interventions that are radically more effective in reducing faecal contamination in the domestic environment than the interventions implemented in these trials.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W3027726878",
+      "title": "Levels of heavy metals in wastewater and soil samples from open drainage channels in Nairobi, Kenya: community health implication",
+      "abstract": "Levels of Mercury (Hg), Lead (Pb), Cadmium (Cd), Chromium (Cr), Nickel (Ni) & Thallium (Tl) were established in wastewater & soil samples obtained from 8 sites in open drainage channels at Nairobi industrial area, Kenya. Ultra-trace inductively coupled plasma mass spectroscopy (ICP-MS) was used for metal analysis. Temperature, pH & turbidity of wastewater ranged from 16.75 to 26.05 \u00b0C; 7.28 to 8.78; 160.33 to 544.69 ppm respectively and within World Health Organization (WHO) allowable limits. Wastewater conductivities in 4 sites ranged from 770 to 1074 \u00b5S/cm and above WHO limits at 25 \u00b0C. The mean concentrations of the metals in wastewater ranged from 0.0001 to 0.015 ppm in an ascending order of Tl <Cd <Hg <Ni <Cr <Pb. Levels of Cd, Cr & Ni in wastewater were within WHO, World Bank (WB), United States Environmental Protection Agency (US EPA), China, Kenya and India's Central Pollution Control Board (CPCB) limits while Hg & Tl were above US EPA limits. The mean Pb levels in wastewater (5 sites) were above WHO, US EPA and Kenya allowable limits. Mean levels of the metals in soil samples ranged from 0.085 to 199.99 ppm, with those of Hg, Pb, Cr, Cd & Ni being above WHO limits for agricultural soils. Positive correlations (P < 0.05) for Cd & Hg in soils; and Tl (wastewater) & Cd (soil) were noted. In conclusion, wastewater in open waste channels at Nairobi industrial area had elevated levels of Pb and Hg, while the soil from the same channels had high levels of Hg, Pb, Ni, Cr, and Cd. Good management of Nairobi industrial area effluents is inevitable since it borders densely populated informal settlements which are likely to suffer exposure to toxic wastes. Effective wastewater treatment and reuse is highly recommended.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q23",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "paper_id": "W4239240204",
+      "title": "Effects of water quality, sanitation, handwashing, and nutritional interventions on diarrhoea and child growth in rural Kenya: a cluster-randomised controlled trial",
+      "abstract": "Background Poor nutrition and exposure to faecal contamination are associated with diarrhoea and growth faltering, both of which have long-term consequences for child health. We aimed to assess whether water, sanitation, handwashing, and nutrition interventions reduced diarrhoea or growth faltering. Methods The WASH Benefits cluster-randomised trial enrolled pregnant women from villages in rural Kenya and evaluated outcomes at 1 year and 2 years of follow-up. Geographically-adjacent clusters were block-randomised to active control (household visits to measure mid-upper-arm circumference), passive control (data collection only), or compound-level interventions including household visits to promote target behaviours: drinking chlorinated water (water); safe sanitation consisting of disposing faeces in an improved latrine (sanitation); handwashing with soap (handwashing); combined water, sanitation, and handwashing; counselling on appropriate maternal, infant, and young child feeding plus small-quantity lipid-based nutrient supplements from 6\u201324 months (nutrition); and combined water, sanitation, handwashing, and nutrition. Primary outcomes were caregiver-reported diarrhoea in the past 7 days and length-for-age Z score at year 2 in index children born to the enrolled pregnant women. Masking was not possible for data collection, but analyses were masked. Analysis was by intention to treat. This trial is registered with ClinicalTrials.gov, number NCT01704105. Findings Between Nov 27, 2012, and May 21, 2014, 8246 women in 702 clusters were enrolled and randomly assigned an intervention or control group. 1919 women were assigned to the active control group; 938 to passive control; 904 to water; 892 to sanitation; 917 to handwashing; 912 to combined water, sanitation, and handwashing; 843 to nutrition; and 921 to combined water, sanitation, handwashing, and nutrition. Data on diarrhoea at year 1 or year 2 were available for 6494 children and data on length-for-age Z score in year 2 were available for 6583 children (86% of living children were measured at year 2). Adherence indicators for sanitation, handwashing, and nutrition were more than 70% at year 1, handwashing fell to less than 25% at year 2, and for water was less than 45% at year 1 and less than 25% at year 2; combined groups were comparable to single groups. None of the interventions reduced diarrhoea prevalence compared with the active control. Compared with active control (length-for-age Z score \u22121\u00b754) children in nutrition and combined water, sanitation, handwashing, and nutrition were taller by year 2 (mean difference 0\u00b713 [95% CI 0\u00b701\u20130\u00b725] in the nutrition group; 0\u00b716 [0\u00b705\u20130\u00b727] in the combined water, sanitation, handwashing, and nutrition group). The individual water, sanitation, and handwashing groups, and combined water, sanitation, and handwashing group had no effect on linear growth. Interpretation Behaviour change messaging combined with technologically simple interventions such as water treatment, household sanitation upgrades from unimproved to improved latrines, and handwashing stations did not reduce childhood diarrhoea or improve growth, even when adherence was at least as high as has been achieved by other programmes. Counselling and supplementation in the nutrition group and combined water, sanitation, handwashing, and nutrition interventions led to small growth benefits, but there was no advantage to integrating water, sanitation, and handwashing with nutrition. The interventions might have been more efficacious with higher adherence or in an environment with lower baseline sanitation coverage, especially in this context of high diarrhoea prevalence. Funding Bill & Melinda Gates Foundation, United States Agency for International Development.",
+      "relevance": 0,
+      "notes": "Not related to Lake Victoria water quality or aquatic ecology."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W1884768734",
+      "title": "Globally significant greenhouse-gas emissions from African inland waters",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W1929181818",
+      "title": "Ecological role and services of tropical mangrove ecosystems: a reassessment",
+      "abstract": "Abstract Aim To reassess the capacity of mangroves for ecosystem services in the light of recent data. Location Global mangrove ecosystems. Methods We review four long\u2010standing roles of mangroves: (1) carbon dynamics \u2013 export or sink; (2) nursery role; (3) shoreline protection; (4) land\u2010building capacity. The origins of pertinent hypotheses, current understanding and gaps in our knowledge are highlighted with reference to biogeographic, geographic and socio\u2010economic influences. Results The role of mangroves as C sinks needs to be evaluated for a wide range of biogeographic regions and forest conditions. Mangrove C assimilation may be under\u2010estimated because of flawed methodology and scanty data on key components of C dynamics. Peri\u2010urban mangroves may be manipulated to provide local offsets for C emission. The nursery function of mangroves is not ubiquitous but varies with spatio\u2010temporal accessibility. Connectivity and complementarity of mangroves and adjacent habitats enhance their nursery function through trophic relay and ontogenetic migrations. The effectiveness of mangroves for coastal protection depends on factors at landscape/geomorphic to community scales and local/species scales. Shifts in species due to climate change, forest degradation and loss of habitat connectivity may reduce the protective capacity of mangroves. Early views of mangroves as land builders (especially lateral expansion) were questionable. Evidence now indicates that mangroves, once established, directly influence vertical land development by enhancing sedimentation and/or by direct organic contributions to soil volume (peat formation) in some settings. Main conclusions Knowledge of thresholds, spatio\u2010temporal scaling and variability due to geographic, biogeographic and socio\u2010economic settings will improve the management of mangrove ecosystem services. Many drivers respond to global trends in climate change and local changes such as urbanization. While mangroves have traditionally been managed for subsistence, future governance models must involve partnerships between local custodians of mangroves and offsite beneficiaries of the services.",
+      "relevance": 1,
+      "notes": "[HUMAN_CORRECTED: was 1] Kristensen et al. Foundational global review on mangrove carbon sequestration, benthic respiration, and nutrient exchange."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2108033376",
+      "title": "How effective were mangroves as a defence against the recent tsunami?",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2114345464",
+      "title": "Carbon sequestration in tropical agroforestry systems",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2115575099",
+      "title": "Functionality of restored mangroves: A review",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2137255447",
+      "title": "Tithonia diversifolia as a green manure for soil fertility improvement in western Kenya: A review",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2150330524",
+      "title": "Horizon scan of global conservation issues for 2011",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2160110731",
+      "title": "Conservation Agriculture and Soil Carbon Sequestration: Between Myth and Farmer Reality",
+      "abstract": "Improving food security, environmental preservation and enhancing livelihood should be the main targets of the innovators of today's farming systems. Conservation agriculture (CA), based on minimum tillage, crop residue retention, and crop rotations, has been proposed as an alternative system combining benefits for the farmer with advantages for the society. This paper reviews the potential impact of CA on C sequestration by synthesizing the knowledge of carbon and nitrogen cycling in agriculture; summarizing the influence of tillage, residue management, and crop rotation on soil organic carbon stocks; and compiling the existing case study information. To evaluate the C sequestration capacity of farming practices, their influence on emissions from farming activities should be considered together with their influence on soil C stocks. The largest contribution of CA to reducing emissions from farming activities is made by the reduction of tillage operations. The soil C case study results are not conclusive. In 7 of the 78 cases withheld, the soil C stock was lower in zero compared to conventional tillage, in 40 cases it was higher, and in 31 of the cases there was no significant difference. The mechanisms that govern the balance between increased or no sequestration after conversion to zero tillage are not clear, although some factors that play a role can be distinguished, e.g., root development and rhizodeposits, baseline soil C content, bulk density and porosity, climate, landscape position, and erosion/deposition history. Altering crop rotation can influence soil C stocks by changing quantity and quality of organic matter input. More research is needed, especially in the tropical areas where good quantitative information is lacking. However, even if C sequestration is questionable in some areas and cropping systems, CA remains an important technology that improves soil processes, controls soil erosion and reduces production cost.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2160615957",
+      "title": "Status and distribution of mangrove forests of the world using earth observation satellite data",
+      "abstract": "ABSTRACT Aim Our scientific understanding of the extent and distribution of mangrove forests of the world is inadequate. The available global mangrove databases, compiled using disparate geospatial data sources and national statistics, need to be improved. Here, we mapped the status and distributions of global mangroves using recently available Global Land Survey (GLS) data and the Landsat archive. Methods We interpreted approximately 1000 Landsat scenes using hybrid supervised and unsupervised digital image classification techniques. Each image was normalized for variation in solar angle and earth\u2013sun distance by converting the digital number values to the top\u2010of\u2010the\u2010atmosphere reflectance. Ground truth data and existing maps and databases were used to select training samples and also for iterative labelling. Results were validated using existing GIS data and the published literature to map \u2018true mangroves\u2019. Results The total area of mangroves in the year 2000 was 137,760 km 2 in 118 countries and territories in the tropical and subtropical regions of the world. Approximately 75% of world's mangroves are found in just 15 countries, and only 6.9% are protected under the existing protected areas network (IUCN I\u2010IV). Our study confirms earlier findings that the biogeographic distribution of mangroves is generally confined to the tropical and subtropical regions and the largest percentage of mangroves is found between 5\u00b0 N and 5\u00b0 S latitude. Main conclusions We report that the remaining area of mangrove forest in the world is less than previously thought. Our estimate is 12.3% smaller than the most recent estimate by the Food and Agriculture Organization (FAO) of the United Nations. We present the most comprehensive, globally consistent and highest resolution (30 m) global mangrove database ever created. We developed and used better mapping techniques and data sources and mapped mangroves with better spatial and thematic details than previous studies.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2251119532",
+      "title": "Does conservation agriculture deliver climate change mitigation through soil carbon sequestration in tropical agro-ecosystems?",
+      "abstract": "Conservation agriculture (CA), comprising minimum soil disturbance, retention of crop residues and crop diversification, is widely promoted for reducing soil degradation and improving agricultural sustainability. It is also claimed to mitigate climate change through soil carbon sequestration: we conducted a meta-analysis of soil organic carbon (SOC) stock changes under CA practices in two tropical regions, the Indo-Gangetic Plains (IGP) and Sub-Saharan Africa (SSA), to quantify this. In IGP annual increases in SOC stock compared to conventional practice were between 0.16 and 0.49 Mg C ha\u22121 yr\u22121. In SSA increases were between 0.28 and 0.96 Mg C ha\u22121 yr\u22121, but with much greater variation and a significant number of cases with no measurable increase. Most reported SOC stock increases under CA are overestimates because of errors introduced by inappropriate soil sampling methodology. SOC increases require careful interpretation to assess whether or not they represent genuine climate change mitigation as opposed to redistribution of organic C within the landscape or soil profile. In smallholder farming in tropical regions social and economic barriers can greatly limit adoption of CA, further decreasing realistic mitigation potential. Comparison with the decreases in greenhouse gas emissions possible through improved management of nitrogen (N) fertilizer in regions such as IGP where N use is already high, suggests that this is a more effective and sustainable means of mitigating climate change. However the mitigation potential, and other benefits, from crop diversification are frequently overlooked when considering CA and warrant greater attention. Increases in SOC concentration (as opposed to stock) in near-surface soil from CA cause improvements in soil physical conditions; these are expected to contribute to increased sustainability and climate change adaptation, though not necessarily leading to consistently increased crop yields. CA should be promoted on the basis of these factors and any climate change mitigation regarded as an additional benefit, not a major policy driver for its adoption.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2384950079",
+      "title": "Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics",
+      "abstract": "Regrowth of tropical secondary forests following complete or nearly complete removal of forest vegetation actively stores carbon in aboveground biomass, partially counterbalancing carbon emissions from deforestation, forest degradation, burning of fossil fuels, and other anthropogenic sources. We estimate the age and spatial extent of lowland second-growth forests in the Latin American tropics and model their potential aboveground carbon accumulation over four decades. Our model shows that, in 2008, second-growth forests (1 to 60 years old) covered 2.4 million km(2) of land (28.1% of the total study area). Over 40 years, these lands can potentially accumulate a total aboveground carbon stock of 8.48 Pg C (petagrams of carbon) in aboveground biomass via low-cost natural regeneration or assisted regeneration, corresponding to a total CO2 sequestration of 31.09 Pg CO2. This total is equivalent to carbon emissions from fossil fuel use and industrial processes in all of Latin America and the Caribbean from 1993 to 2014. Ten countries account for 95% of this carbon storage potential, led by Brazil, Colombia, Mexico, and Venezuela. We model future land-use scenarios to guide national carbon mitigation policies. Permitting natural regeneration on 40% of lowland pastures potentially stores an additional 2.0 Pg C over 40 years. Our study provides information and maps to guide national-level forest-based carbon mitigation plans on the basis of estimated rates of natural regeneration and pasture abandonment. Coupled with avoided deforestation and sustainable forest management, natural regeneration of second-growth forests provides a low-cost mechanism that yields a high carbon sequestration potential with multiple benefits for biodiversity and ecosystem services.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2487243290",
+      "title": "Global Tree Cover and Biomass Carbon on Agricultural Land: The contribution of agroforestry to global and national carbon budgets",
+      "abstract": "Agroforestry systems and tree cover on agricultural land make an important contribution to climate change mitigation, but are not systematically accounted for in either global carbon budgets or national carbon accounting. This paper assesses the role of trees on agricultural land and their significance for carbon sequestration at a global level, along with recent change trends. Remote sensing data show that in 2010, 43% of all agricultural land globally had at least 10% tree cover and that this has increased by 2% over the previous ten years. Combining geographically and bioclimatically stratified Intergovernmental Panel on Climate Change (IPCC) Tier 1 default estimates of carbon storage with this tree cover analysis, we estimated 45.3 PgC on agricultural land globally, with trees contributing >75%. Between 2000 and 2010 tree cover increased by 3.7%, resulting in an increase of >2 PgC (or 4.6%) of biomass carbon. On average, globally, biomass carbon increased from 20.4 to 21.4 tC ha(-1). Regional and country-level variation in stocks and trends were mapped and tabulated globally, and for all countries. Brazil, Indonesia, China and India had the largest increases in biomass carbon stored on agricultural land, while Argentina, Myanmar, and Sierra Leone had the largest decreases.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2579486704",
+      "title": "Soil carbon 4 per mille",
+      "abstract": "The \u20184 per mille Soils for Food Security and Climate\u2019 was launched at the COP21 with an aspiration to increase global soil organic matter stocks by 4 per 1000 (or 0.4 %) per year as a compensation for the global emissions of greenhouse gases by anthropogenic sources. This paper surveyed the soil organic carbon (SOC) stock estimates and sequestration potentials from 20 regions in the world (New Zealand, Chile, South Africa, Australia, Tanzania, Indonesia, Kenya, Nigeria, India, China Taiwan, South Korea, China Mainland, United States of America, France, Canada, Belgium, England & Wales, Ireland, Scotland, and Russia). We asked whether the 4 per mille initiative is feasible for the region. The outcomes highlight region specific efforts and scopes for soil carbon sequestration. Reported soil C sequestration rates globally show that under best management practices, 4 per mille or even higher sequestration rates can be accomplished. High C sequestration rates (up to 10 per mille) can be achieved for soils with low initial SOC stock (topsoil less than 30 t C ha\u2212 1), and at the first twenty years after implementation of best management practices. In addition, areas which have reached equilibrium will not be able to further increase their sequestration. We found that most studies on SOC sequestration only consider topsoil (up to 0.3 m depth), as it is considered to be most affected by management techniques. The 4 per mille number was based on a blanket calculation of the whole global soil profile C stock, however the potential to increase SOC is mostly on managed agricultural lands. If we consider 4 per mille in the top 1m of global agricultural soils, SOC sequestration is between 2-3 Gt C year\u2212 1, which effectively offset 20\u201335% of global anthropogenic greenhouse gas emissions. As a strategy for climate change mitigation, soil carbon sequestration buys time over the next ten to twenty years while other effective sequestration and low carbon technologies become viable. The challenge for cropping farmers is to find disruptive technologies that will further improve soil condition and deliver increased soil carbon. Progress in 4 per mille requires collaboration and communication between scientists, farmers, policy makers, and marketeers.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2767215839",
+      "title": "Global Sequestration Potential of Increased Organic Carbon in Cropland Soils",
+      "abstract": "Abstract The role of soil organic carbon in global carbon cycles is receiving increasing attention both as a potentially large and uncertain source of CO 2 emissions in response to predicted global temperature rises, and as a natural sink for carbon able to reduce atmospheric CO 2 . There is general agreement that the technical potential for sequestration of carbon in soil is significant, and some consensus on the magnitude of that potential. Croplands worldwide could sequester between 0.90 and 1.85 Pg C/yr, i.e. 26\u201353% of the target of the \u201c4p1000 Initiative: Soils for Food Security and Climate\u201d. The importance of intensively cultivated regions such as North America, Europe, India and intensively cultivated areas in Africa, such as Ethiopia, is highlighted. Soil carbon sequestration and the conservation of existing soil carbon stocks, given its multiple benefits including improved food production, is an important mitigation pathway to achieve the less than 2 \u00b0C global target of the Paris Climate Agreement.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W2939158413",
+      "title": "Securing a Just Space for Small-Scale Fisheries in the Blue Economy",
+      "abstract": "The vast development opportunities offered by the world\u2019s coasts and oceans have attracted the attention of governments, private enterprises, philanthropic organizations and international conservation organizations. High-profile dialogue and policy decisions on ocean futures are informed largely by economic and ecological research. Key insights from the social sciences raise concerns for food and nutrition security, livelihoods and social justice but these have yet to gain traction with investors and the policy discourse on transforming ocean governance. The largest group of ocean-users \u2013 women and men who service, fish and trade from small-scale fisheries \u2013 argue they have been marginalized from dialogue between international environmental and economic actors determining strategies for ocean futures. Blue Economy or Blue Growth initiatives see the ocean as the new economic frontier and imply there is alignment with social objectives and small-scale fisheries concerns. Deeper analysis reveals fundamental differences in ideologies, priorities and approaches. We argue that small-scale fisheries are being subtly and overtly squeezed for geographic, political and economic space by larger scale economic and environmental conservation interests, jeopardizing the substantial benefits small-scale fisheries provide through livelihoods of millions of women and men, food for around four billion consumers globally, and in the developing world, a key source of micro-nutrients and protein for over a billion low-income consumers. Here we bring insights from social science and small-scale fisheries to explore how ocean governance might better account for social dimensions of fisheries.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q24",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "paper_id": "W3123183652",
+      "title": "Ten golden rules for reforestation to optimize carbon sequestration, biodiversity recovery and livelihood benefits",
+      "abstract": "Abstract Urgent solutions to global climate change are needed. Ambitious tree\u2010planting initiatives, many already underway, aim to sequester enormous quantities of carbon to partly compensate for anthropogenic CO 2 emissions, which are a major cause of rising global temperatures. However, tree planting that is poorly planned and executed could actually increase CO 2 emissions and have long\u2010term, deleterious impacts on biodiversity, landscapes and livelihoods. Here, we highlight the main environmental risks of large\u2010scale tree planting and propose 10 golden rules, based on some of the most recent ecological research, to implement forest ecosystem restoration that maximizes rates of both carbon sequestration and biodiversity recovery while improving livelihoods. These are as follows: (1) Protect existing forest first; (2) Work together (involving all stakeholders); (3) Aim to maximize biodiversity recovery to meet multiple goals; (4) Select appropriate areas for restoration; (5) Use natural regeneration wherever possible; (6) Select species to maximize biodiversity; (7) Use resilient plant material (with appropriate genetic variability and provenance); (8) Plan ahead for infrastructure, capacity and seed supply; (9) Learn by doing (using an adaptive management approach); and (10) Make it pay (ensuring the economic sustainability of the project). We focus on the design of long\u2010term strategies to tackle the climate and biodiversity crises and support livelihood needs. We emphasize the role of local communities as sources of indigenous knowledge, and the benefits they could derive from successful reforestation that restores ecosystem functioning and delivers a diverse range of forest products and services. While there is no simple and universal recipe for forest restoration, it is crucial to build upon the currently growing public and private interest in this topic, to ensure interventions provide effective, long\u2010term carbon sinks and maximize benefits for biodiversity and people.",
+      "relevance": 0,
+      "notes": "Not related to mangrove conservation or coastal blue carbon."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W1748116371",
+      "title": "Understanding gender dimensions of agriculture and climate change in smallholder farming communities",
+      "abstract": "In Uganda, Ghana and Bangladesh, participatory tools were used for a socio-economic and gender analysis of three topics: climate-smart agriculture (CSA), climate analogue approaches, and climate and weather forecasting. Policy and programme-relevant results were obtained. Smallholders are changing agricultural practices due to observations of climatic and environmental change. Women appear to be less adaptive because of financial or resource constraints, because of male domination in receiving information and extension services and because available adaptation strategies tend to create higher labour loads for women. The climate analogue approach (identifying places resembling your future climate so as to identify potential adaptations) is a promising tool for increasing farmer-to-farmer learning, where a high degree of climatic variability means that analogue villages that have successfully adopted new CSA practices exist nearby. Institutional issues related to forecast production limit their credibility and salience, particularly in terms of women's ability to access and understand them. The participatory tools used in this study provided some insights into women's adaptive capacity in the villages studied, but not to the depth necessary to address women's specific vulnerabilities in CSA programmes. Further research is necessary to move the discourse related to gender and climate change beyond the conceptualization of women as a homogenously vulnerable group in CSA programmes.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W1923187718",
+      "title": "Adoption of Multiple Sustainable Agricultural Practices in Rural Ethiopia",
+      "abstract": "Abstract The adoption and diffusion of sustainable agricultural practices (SAPs) has become an important issue in the development\u2010policy agenda for sub\u2010Saharan Africa, especially as a way to tackle land degradation, low agricultural productivity and poverty. However, the adoption rates of SAPs remain below expected levels. This study analyses the factors that facilitate or impede the probability and level of adoption of interrelated SAPs, using recent data from multiple plot\u2010level observations in rural Ethiopia. Multivariate and ordered probit models are applied to the modelling of adoption decisions by farm households facing multiple SAPs, which can be adopted in various combinations. The results show that there is a significant correlation between SAPs, suggesting that adoptions of SAPs are interrelated. The analysis further shows that both the probability and the extent of adoption of SAPs are influenced by many factors: a household\u2019s trust in government support, credit constraints, spouse education, rainfall and plot\u2010level disturbances, household wealth, social capital and networks, labour availability, plot and market access. These results imply that policy\u2010makers and development practitioners should seek to strengthen local institutions and service providers, maintain or increase household asset bases and establish and strengthen social protection schemes in order to improve the adoption of SAPs.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W1985382305",
+      "title": "Adoption of interrelated sustainable agricultural practices in smallholder systems: Evidence from rural Tanzania",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2004010203",
+      "title": "Managing vulnerability to drought and enhancing livelihood resilience in sub-Saharan Africa: Technological, institutional and policy options",
+      "abstract": "Agriculture and the economies of Sub-Saharan Africa (SSA) are highly sensitive to climatic variability. Drought, in particular, represents one of the most important natural factors contributing to malnutrition and famine in many parts of the region. The overall impact of drought on a given country/region and its ability to recover from the resulting social, economic and environmental impacts depends on several factors. The economic, social and environmental impacts of drought are huge in SSA and the national costs and losses incurred threaten to undermine the wider economic and development gains made in the last few decades in the region. There is an urgent need to reduce the vulnerability of countries to climate variability and to the threats posed by climate change. This paper attempts to highlight the challenges of drought in SSA and reviews the current drought risk management strategies, especially the promising technological and policy options for managing drought risks to protect livelihoods and reduce vulnerability. The review suggests the possibilities of several ex ante and ex post drought management strategies in SSA although their effectiveness depends on agro-climatic and socio-economic conditions. Existing technological, policy and institutional risk management measures need to be strengthened and integrated to manage drought ex ante and to minimize the ex post negative effects for vulnerable households and regions. A proactive approach that combines promising technological, institutional and policy solutions to manage the risks within vulnerable communities implemented by institutions operating at different levels (community, sub-national, and national) is considered to be the way forward for managing drought and climate variability.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2004153320",
+      "title": "Productivity Effects of Indigenous Land Tenure Systems in Sub\u2010Saharan Africa",
+      "abstract": "Abstract This article uses household survey data from Ghana, Kenya, and Rwanda to test if the indigenous land rights systems in sub\u2010Saharan Africa are a constraint on agricultural productivity. Rights which farmers hold over individual parcels of land vary widely, and are in many cases surprisingly privatized. Yet with few exceptions, land rights are not found to be a significant factor in determining investments in land improvements, use of inputs, access to credit, or the productivity of land. These results cast doubt on the need for ambitious land registration and titling programs at this time.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2008641344",
+      "title": "Smallholder market participation under transactions costs: Maize supply and fertilizer demand in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2010751289",
+      "title": "Adapting agriculture to climate change in Kenya: Household strategies and determinants",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2035787054",
+      "title": "Achieving mitigation and adaptation to climate change through sustainable agroforestry practices in Africa",
+      "abstract": "Agroforestry is one of the most conspicuous land use systems across landscapes and agroecological zones in Africa. With food shortages and increased threats of climate change, interest in agroforestry is gathering for its potential to address various on-farm adaptation needs, and fulfill many roles in AFOLU-related mitigation pathways. Agroforestry provides assets and income from carbon, wood energy, improved soil fertility and enhancement of local climate conditions; it provides ecosystem services and reduces human impacts on natural forests. Most of these benefits have direct benefits for local adaptation while contributing to global efforts to control atmospheric greenhouse gas concentrations. This paper presents recent findings on how agroforestry as a sustainable practice helps to achieve both mitigation and adaptation objectives while remaining relevant to the livelihoods of the poor smallholder farmers in Africa.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2057131920",
+      "title": "Utilization of maternal health services among young women in Kenya: Insights from the Kenya Demographic and Health Survey, 2003",
+      "abstract": "BACKGROUND: Use of maternal health services is an effective means for reducing the risk of maternal morbidity and mortality, especially in places where the general health status of women is poor. This study was guided by the following objectives: 1) To determine the relationship between timing of first antenatal care (ANC) visit and type of delivery assistance 2) To establish the determinants of timing of first ANC visit and type delivery assistance. METHODS: Data used were drawn from the 2003 Kenya Demographic and Health Survey, with a focus on young women aged 15-24. The dependent variables were: Timing of first ANC visit coded as \"None\"; \"Late\" and \"Early\", and type of delivery assistance coded as \"None\"; \"Traditional Birth Attendant (TBA)\" and \"Skilled professional\". Control variables included: education, household wealth, urban-rural residence, ethnicity, parity, age at birth of the last child and marital status. Multivariate ordered logistic regression model was used. RESULTS: The study results show that place of residence, household wealth, education, ethnicity, parity, marital status and age at birth of the last child had strong influences on timing of first ANC visit and the type of delivery assistance received. The major finding is an association between early timing of the first ANC visit and use of skilled professionals at delivery. CONCLUSION: This study confirms that timing of first antenatal care is indeed an important entry point for delivery care as young women who initiated antenatal care early were more likely to use skilled professional assistance at delivery than their counterparts who initiated ANC late. The results indicate that a large percentage of young pregnant women do not seek ANC during their first trimester as is recommended by the WHO, which may affect the type of assistance they receive during delivery. It is important that programs aimed at improving maternal health include targeting young women, especially those from rural areas, with low levels of education, higher parity and from poor households, given their high risk during pregnancy. The finding that a considerably high proportion of young women use TBAs as opposed to use of skilled professionals is baffling and calls for further research.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2073878527",
+      "title": "Sustainable intensification and the African smallholder farmer",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2095693034",
+      "title": "Conservation agriculture and smallholder farming in Africa: The heretics\u2019 view",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2096118141",
+      "title": "Evergreen Agriculture: a robust approach to sustainable food security in Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2104226344",
+      "title": "Exploring diversity in soil fertility management of smallholder farms in western Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2110419066",
+      "title": "REVIEW OF SEASONAL CLIMATE FORECASTING FOR AGRICULTURE IN SUB-SAHARAN AFRICA",
+      "abstract": "SUMMARY We review the use and value of seasonal climate forecasting for agriculture in sub-Saharan Africa (SSA), with a view to understanding and exploiting opportunities to realize more of its potential benefits. Interaction between the atmosphere and underlying oceans provides the basis for probabilistic forecasts of climate conditions at a seasonal lead-time, including during cropping seasons in parts of SSA. Regional climate outlook forums (RCOF) and national meteorological services (NMS) have been at the forefront of efforts to provide forecast information for agriculture. A survey showed that African NMS often go well beyond the RCOF process to improve seasonal forecast information and disseminate it to the agricultural sector. Evidence from a combination of understanding of how climatic uncertainty impacts agriculture, model-based ex-ante analyses, subjective expressions of demand or value, and the few well-documented evaluations of actual use and resulting benefit suggests that seasonal forecasts may have considerable potential to improve agricultural management and rural livelihoods. However, constraints related to legitimacy, salience, access, understanding, capacity to respond and data scarcity have so far limited the widespread use and benefit from seasonal prediction among smallholder farmers. Those constraints that reflect inadequate information products, policies or institutional process can potentially be overcome. Additional opportunities to benefit rural communities come from expanding the use of seasonal forecast information for coordinating input and credit supply, food crisis management, trade and agricultural insurance. The surge of activity surrounding seasonal forecasting in SSA following the 1997/98 El Ni\u00f1o has waned in recent years, but emerging initiatives, such as the Global Framework for Climate Services and ClimDev-Africa, are poised to reinvigorate support for seasonal forecast information services for agriculture. We conclude with a discussion of institutional and policy changes that we believe will greatly enhance the benefits of seasonal forecasting to agriculture in SSA.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2114892850",
+      "title": "The diversity of rural livelihoods and their influence on soil fertility in agricultural systems of East Africa \u2013 A typology of smallholder farms",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2115179234",
+      "title": "Bacteremia among Children Admitted to a Rural Hospital in Kenya",
+      "abstract": "BACKGROUND: There are few epidemiologic data on invasive bacterial infections among children in sub-Saharan Africa. We studied every acute pediatric admission to a rural district hospital in Kenya to examine the prevalence, incidence, types, and outcome of community-acquired bacteremia. METHODS: Between August 1998 and July 2002, we cultured blood on admission from 19,339 inpatients and calculated the incidence of bacteremia on the basis of the population served by the hospital. RESULTS: Of a total of 1783 infants who were under 60 days old, 228 had bacteremia (12.8 percent), as did 866 of 14,787 children who were 60 or more days of age (5.9 percent). Among infants who were under 60 days old, Escherichia coli and group B streptococci predominated among a broad range of isolates (14 percent and 11 percent, respectively). Among infants who were 60 or more days of age, Streptococcus pneumoniae, nontyphoidal salmonella species, Haemophilus influenzae, and E. coli accounted for more than 70 percent of isolates. The minimal annual incidence of community-acquired bacteremia was estimated at 1457 cases per 100,000 children among infants under a year old, 1080 among children under 2 years, and 505 among children under 5 years. Of all in-hospital deaths, 26 percent were in children with community-acquired bacteremia. Of 308 deaths in children with bacteremia, 103 (33.4 percent) occurred on the day of admission and 217 (70.5 percent) within two days. CONCLUSIONS: Community-acquired bacteremia is a major cause of death among children at a rural sub-Saharan district hospital, a finding that highlights the need for prevention and for overcoming the political and financial barriers to widespread use of existing vaccines for bacterial diseases.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2129942647",
+      "title": "Welfare dynamics in rural Kenya and Madagascar",
+      "abstract": "This paper presents comparative qualitative and quantitative evidence from rural Kenya and Madagascar in an attempt to untangle the causality behind persistent poverty. We find striking differences in welfare dynamics depending on whether one uses total income, including stochastic terms and inevitable measurement error, or the predictable, structural component of income based on a household's asset holdings. Our results suggest the existence of multiple dynamic asset and structural income equilibria, consistent with the poverty traps hypothesis. Furthermore, we find supporting evidence of locally increasing returns to assets and of risk management behaviour consistent with poor households' defence of a critical asset threshold through asset smoothing.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2132624723",
+      "title": "Urban air pollution in megacities of the world",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2137255447",
+      "title": "Tithonia diversifolia as a green manure for soil fertility improvement in western Kenya: A review",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2168176333",
+      "title": "Hypertension in Sub-Saharan Africa: Cross-Sectional Surveys in Four Rural and Urban Communities",
+      "abstract": "BACKGROUND: Cardiovascular disease (CVD) is the leading cause of adult mortality in low-income countries but data on the prevalence of cardiovascular risk factors such as hypertension are scarce, especially in sub-Saharan Africa (SSA). This study aims to assess the prevalence of hypertension and determinants of blood pressure in four SSA populations in rural Nigeria and Kenya, and urban Namibia and Tanzania. METHODS AND FINDINGS: We performed four cross-sectional household surveys in Kwara State, Nigeria; Nandi district, Kenya; Dar es Salaam, Tanzania and Greater Windhoek, Namibia, between 2009-2011. Representative population-based samples were drawn in Nigeria and Namibia. The Kenya and Tanzania study populations consisted of specific target groups. Within a final sample size of 5,500 households, 9,857 non-pregnant adults were eligible for analysis on hypertension. Of those, 7,568 respondents \u2265 18 years were included. The primary outcome measure was the prevalence of hypertension in each of the populations under study. The age-standardized prevalence of hypertension was 19.3% (95%CI:17.3-21.3) in rural Nigeria, 21.4% (19.8-23.0) in rural Kenya, 23.7% (21.3-26.2) in urban Tanzania, and 38.0% (35.9-40.1) in urban Namibia. In individuals with hypertension, the proportion of grade 2 (\u2265 160/100 mmHg) or grade 3 hypertension (\u2265 180/110 mmHg) ranged from 29.2% (Namibia) to 43.3% (Nigeria). Control of hypertension ranged from 2.6% in Kenya to 17.8% in Namibia. Obesity prevalence (BMI \u2265 30) ranged from 6.1% (Nigeria) to 17.4% (Tanzania) and together with age and gender, BMI independently predicted blood pressure level in all study populations. Diabetes prevalence ranged from 2.1% (Namibia) to 3.7% (Tanzania). CONCLUSION: Hypertension was the most frequently observed risk factor for CVD in both urban and rural communities in SSA and will contribute to the growing burden of CVD in SSA. Low levels of control of hypertension are alarming. Strengthening of health care systems in SSA to contain the emerging epidemic of CVD is urgently needed.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2212418492",
+      "title": "Drivers of household food availability in sub-Saharan Africa based on big data from small farms",
+      "abstract": "We calculated a simple indicator of food availability using data from 93 sites in 17 countries across contrasted agroecologies in sub-Saharan Africa (>13,000 farm households) and analyzed the drivers of variations in food availability. Crop production was the major source of energy, contributing 60% of food availability. The off-farm income contribution to food availability ranged from 12% for households without enough food available (18% of the total sample) to 27% for the 58% of households with sufficient food available. Using only three explanatory variables (household size, number of livestock, and land area), we were able to predict correctly the agricultural determined status of food availability for 72% of the households, but the relationships were strongly influenced by the degree of market access. Our analyses suggest that targeting poverty through improving market access and off-farm opportunities is a better strategy to increase food security than focusing on agricultural production and closing yield gaps. This calls for multisectoral policy harmonization, incentives, and diversification of employment sources rather than a singular focus on agricultural development. Recognizing and understanding diversity among smallholder farm households in sub-Saharan Africa is key for the design of policies that aim to improve food security.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2586819609",
+      "title": "Trees, forests and water: Cool insights for a hot world",
+      "abstract": "Forest-driven water and energy cycles are poorly integrated into regional, national, continental and global decision-making on climate change adaptation, mitigation, land use and water management. This constrains humanity\u2019s ability to protect our planet\u2019s climate and life-sustaining functions. The substantial body of research we review reveals that forest, water and energy interactions provide the foundations for carbon storage, for cooling terrestrial surfaces and for distributing water resources. Forests and trees must be recognized as prime regulators within the water, energy and carbon cycles. If these functions are ignored, planners will be unable to assess, adapt to or mitigate the impacts of changing land cover and climate. Our call to action targets a reversal of paradigms, from a carbon-centric model to one that treats the hydrologic and climate-cooling effects of trees and forests as the first order of priority. For reasons of sustainability, carbon storage must remain a secondary, though valuable, by-product. The effects of tree cover on climate at local, regional and continental scales offer benefits that demand wider recognition. The forest- and tree-centered research insights we review and analyze provide a knowledge-base for improving plans, policies and actions. Our understanding of how trees and forests influence water, energy and carbon cycles has important implications, both for the structure of planning, management and governance institutions, as well as for how trees and forests might be used to improve sustainability, adaptation and mitigation efforts.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W2786858330",
+      "title": "Climate risk management and rural poverty reduction",
+      "abstract": "Climate variability is a major source of risk to smallholder farmers and pastoralists, particularly in dryland regions. A growing body of evidence links climate-related risk to the extent and the persistence of rural poverty in these environments. Stochastic shocks erode smallholder farmers' long-term livelihood potential through loss of productive assets. The resulting uncertainty impedes progress out of poverty by acting as a disincentive to investment in agriculture \u2013 by farmers, rural financial services, value chain institutions and governments. We assess evidence published in the last ten years that a set of production technologies and institutional options for managing risk can stabilize production and incomes, protect assets in the face of shocks, enhance uptake of improved technologies and practices, improve farmer welfare, and contribute to poverty reduction in risk-prone smallholder agricultural systems. Production technologies and practices such as stress-adapted crop germplasm, conservation agriculture, and diversified production systems stabilize agricultural production and incomes and, hence, reduce the adverse impacts of climate-related risk under some circumstances. Institutional interventions such as index-based insurance and social protection through adaptive safety nets play a complementary role in enabling farmers to manage risk, overcome risk-related barriers to adoption of improved technologies and practices, and protect their assets against the impacts of extreme climatic events. While some research documents improvements in household welfare indicators, there is limited evidence that the risk-reduction benefits of the interventions reviewed have enabled significant numbers of very poor farmers to escape poverty. We discuss the roles that climate-risk management interventions can play in efforts to reduce rural poverty, and the need for further research on identifying and targeting environments and farming populations where improved climate risk management could accelerate efforts to reduce rural poverty.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W3092718471",
+      "title": "Adverse health effects associated with household air pollution: a systematic review, meta-analysis, and burden estimation study",
+      "abstract": "BACKGROUND: 3 billion people worldwide rely on polluting fuels and technologies for domestic cooking and heating. We estimate the global, regional, and national health burden associated with exposure to household air pollution. METHODS: For the systematic review and meta-analysis, we systematically searched four databases for studies published from database inception to April 2, 2020, that evaluated the risk of adverse cardiorespiratory, paediatric, and maternal outcomes from exposure to household air pollution, compared with no exposure. We used a random-effects model to calculate disease-specific relative risk (RR) meta-estimates. Household air pollution exposure was defined as use of polluting fuels (coal, wood, charcoal, agricultural wastes, animal dung, or kerosene) for household cooking or heating. Temporal trends in mortality and disease burden associated with household air pollution, as measured by disability-adjusted life-years (DALYs), were estimated from 2000 to 2017 using exposure prevalence data from 183 of 193 UN member states. 95% CIs were estimated by propagating uncertainty from the RR meta-estimates, prevalence of household air pollution exposure, and disease-specific mortality and burden estimates using a simulation-based approach. This study is registered with PROSPERO, CRD42019125060. FINDINGS: 476 studies (15\u00b75 million participants) from 123 nations (99 [80%] of which were classified as low-income and middle-income) met the inclusion criteria. Household air pollution was positively associated with asthma (RR 1\u00b723, 95% CI 1\u00b711-1\u00b736), acute respiratory infection in both adults (1\u00b753, 1\u00b722-1\u00b793) and children (1\u00b739, 1\u00b729-1\u00b749), chronic obstructive pulmonary disease (1\u00b770, 1\u00b747-1\u00b797), lung cancer (1\u00b769, 1\u00b744-1\u00b798), and tuberculosis (1\u00b726, 1\u00b708-1\u00b748); cerebrovascular disease (1\u00b709, 1\u00b704-1\u00b714) and ischaemic heart disease (1\u00b710, 1\u00b709-1\u00b711); and low birthweight (1\u00b736, 1\u00b719-1\u00b755) and stillbirth (1\u00b722, 1\u00b706-1\u00b741); as well as with under-5 (1\u00b725, 1\u00b718-1\u00b733), respiratory (1\u00b719, 1\u00b718-1\u00b720), and cardiovascular (1\u00b707, 1\u00b704-1\u00b711) mortality. Household air pollution was associated with 1\u00b78 million (95% CI 1\u00b71-2\u00b77) deaths and 60\u00b79 million (34\u00b76-93\u00b73) DALYs in 2017, with the burden overwhelmingly experienced in low-income and middle-income countries (LMICs; 60\u00b78 million [34\u00b76-92\u00b79] DALYs) compared with high-income countries (0\u00b709 million [0\u00b701-0\u00b740] DALYs). From 2000, mortality associated with household air pollution had reduced by 36% (95% CI 29-43) and disease burden by 30% (25-36), with the greatest reductions observed in higher-income nations. INTERPRETATION: The burden of cardiorespiratory, paediatric, and maternal diseases associated with household air pollution has declined worldwide but remains high in the world's poorest regions. Urgent integrated health and energy strategies are needed to reduce the adverse health impact of household air pollution, especially in LMICs. FUNDING: British Heart Foundation, Wellcome Trust.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    },
+    {
+      "query_id": "Q25",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "paper_id": "W3183815414",
+      "title": "Daily energy expenditure through the human life course",
+      "abstract": "Total daily energy expenditure (\"total expenditure\") reflects daily energy needs and is a critical variable in human health and physiology, but its trajectory over the life course is poorly studied. We analyzed a large, diverse database of total expenditure measured by the doubly labeled water method for males and females aged 8 days to 95 years. Total expenditure increased with fat-free mass in a power-law manner, with four distinct life stages. Fat-free mass-adjusted expenditure accelerates rapidly in neonates to ~50% above adult values at ~1 year; declines slowly to adult levels by ~20 years; remains stable in adulthood (20 to 60 years), even during pregnancy; then declines in older adults. These changes shed light on human development and aging and should help shape nutrition and health strategies across the life span.",
+      "relevance": 0,
+      "notes": "Not related to renewable energy access or electrification."
+    }
+  ]
+}

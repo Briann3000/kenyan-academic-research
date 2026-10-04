@@ -1,0 +1,1105 @@
+{
+  "batch_id": "batch3_economics",
+  "domain": "Economics, FinTech & Business",
+  "query_ids": [
+    "Q14",
+    "Q15",
+    "Q16",
+    "Q17",
+    "Q18",
+    "Q19"
+  ],
+  "total_items": 121,
+  "completed_items": 121,
+  "items": [
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W1923187718",
+      "title": "Adoption of Multiple Sustainable Agricultural Practices in Rural Ethiopia",
+      "abstract": "Abstract The adoption and diffusion of sustainable agricultural practices (SAPs) has become an important issue in the development\u2010policy agenda for sub\u2010Saharan Africa, especially as a way to tackle land degradation, low agricultural productivity and poverty. However, the adoption rates of SAPs remain below expected levels. This study analyses the factors that facilitate or impede the probability and level of adoption of interrelated SAPs, using recent data from multiple plot\u2010level observations in rural Ethiopia. Multivariate and ordered probit models are applied to the modelling of adoption decisions by farm households facing multiple SAPs, which can be adopted in various combinations. The results show that there is a significant correlation between SAPs, suggesting that adoptions of SAPs are interrelated. The analysis further shows that both the probability and the extent of adoption of SAPs are influenced by many factors: a household\u2019s trust in government support, credit constraints, spouse education, rainfall and plot\u2010level disturbances, household wealth, social capital and networks, labour availability, plot and market access. These results imply that policy\u2010makers and development practitioners should seek to strengthen local institutions and service providers, maintain or increase household asset bases and establish and strengthen social protection schemes in order to improve the adoption of SAPs.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W1985382305",
+      "title": "Adoption of interrelated sustainable agricultural practices in smallholder systems: Evidence from rural Tanzania",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W1988249336",
+      "title": "Income diversification, poverty traps and policy shocks in C\u00f4te d\u2019Ivoire and Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2003757775",
+      "title": "From adoption claims to understanding farmers and contexts: A literature review of Conservation Agriculture (CA) adoption among smallholder farmers in southern Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2008641344",
+      "title": "Smallholder market participation under transactions costs: Maize supply and fertilizer demand in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2010751289",
+      "title": "Adapting agriculture to climate change in Kenya: Household strategies and determinants",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2028791173",
+      "title": "Agroindustrialization through institutional innovation Transaction costs, cooperatives and milk\u2010market development in the east\u2010African highlands",
+      "abstract": "Abstract Some small\u2010holders are able to generate reliable and substantial income flows through small\u2010scale dairy production for the local market; for others, a set of unique transaction costs hinders participation. Cooperative selling institutions are potential catalysts for mitigating these costs, stimulating entry into the market, and promoting growth in rural communities. Trends in cooperative organization in east\u2010African dairy are evaluated. Empirical work focuses on alternative techniques for effecting participation among a representative sample of peri\u2010urban milk producers in the Ethiopian highlands. The variables considered are a modern production practice (cross\u2010bred cow use), a traditional production practice (indigenous\u2010cow use), three intellectual\u2010capital\u2010forming variables (experience, education, and extension), and the provision of infrastructure (as measured by time to transport milk to market). A Tobit analysis of marketable surplus generates precise estimates of non\u2010participants' \u2018distances\u2019 to market and their reservation levels of the covariates \u2014 measures of the inputs necessary to sustain and enhance the market. Policy implications focus on the availability of cross\u2010bred stock and the level of market infrastructure, both of which have marked effects on participation, the velocity of transactions in the local community and, inevitably, the social returns to agroindustrialization.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2080310378",
+      "title": "Analysis of Adoption and Impacts of Improved Maize Varieties in Eastern Zambia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2129942647",
+      "title": "Welfare dynamics in rural Kenya and Madagascar",
+      "abstract": "This paper presents comparative qualitative and quantitative evidence from rural Kenya and Madagascar in an attempt to untangle the causality behind persistent poverty. We find striking differences in welfare dynamics depending on whether one uses total income, including stochastic terms and inevitable measurement error, or the predictable, structural component of income based on a household's asset holdings. Our results suggest the existence of multiple dynamic asset and structural income equilibria, consistent with the poverty traps hypothesis. Furthermore, we find supporting evidence of locally increasing returns to assets and of risk management behaviour consistent with poor households' defence of a critical asset threshold through asset smoothing.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2148958761",
+      "title": "Effects of a mobile phone short message service on antiretroviral treatment adherence in Kenya (WelTel Kenya1): a randomised trial",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2150523685",
+      "title": "Poverty, Risk Aversion, and Path Dependence in Low\u2010Income Countries: Experimental Evidence from Ethiopia",
+      "abstract": "Abstract In most low\u2010income countries, rural households depend on mixed rain\u2010fed agriculture/livestock production, which is very risky. Due to numerous market failures, there are few ways to shift risks to third parties. The literature has focused on what determines the responses of households in such environments. Of special concern are path dependencies in which households experiencing failure are prone to further failure and potential poverty traps. This paper estimates levels and determinants of risk aversion in the highlands of Ethiopia. We find high risk aversion and evidence that constraints have important impacts on risk\u2010averting behavior with perhaps significant implications for long\u2010term poverty. The results also suggest the possibility of path dependence and offer insights into links between risk aversion and poverty traps.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2168410245",
+      "title": "Adoption of improved wheat varieties and impacts on household food security in Ethiopia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2170512425",
+      "title": "Cropping system diversification, conservation tillage and modern seed adoption in Ethiopia: Impacts on household income, agrochemical use and demand for labor",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2212418492",
+      "title": "Drivers of household food availability in sub-Saharan Africa based on big data from small farms",
+      "abstract": "We calculated a simple indicator of food availability using data from 93 sites in 17 countries across contrasted agroecologies in sub-Saharan Africa (>13,000 farm households) and analyzed the drivers of variations in food availability. Crop production was the major source of energy, contributing 60% of food availability. The off-farm income contribution to food availability ranged from 12% for households without enough food available (18% of the total sample) to 27% for the 58% of households with sufficient food available. Using only three explanatory variables (household size, number of livestock, and land area), we were able to predict correctly the agricultural determined status of food availability for 72% of the households, but the relationships were strongly influenced by the degree of market access. Our analyses suggest that targeting poverty through improving market access and off-farm opportunities is a better strategy to increase food security than focusing on agricultural production and closing yield gaps. This calls for multisectoral policy harmonization, incentives, and diversification of employment sources rather than a singular focus on agricultural development. Recognizing and understanding diversity among smallholder farm households in sub-Saharan Africa is key for the design of policies that aim to improve food security.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2477177347",
+      "title": "The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*",
+      "abstract": "We use a randomized controlled trial to study the response of poor households in rural Kenya to unconditional cash transfers from the NGO GiveDirectly. The transfers differ from other programs in that they are explicitly unconditional, large, and concentrated in time. We randomized at both the village and household levels; furthermore, within the treatment group, we randomized recipient gender (wife versus husband), transfer timing (lump-sum transfer versus monthly installments), and transfer magnitude (US$404 PPP versus US$1,525 PPP). We find a strong consumption response to transfers, with an increase in household monthly consumption from $158 PPP to $193 PPP nine months after the transfer began. Transfer recipients experience large increases in psychological well-being. We find no overall effect on levels of the stress hormone cortisol, although there are differences across some subgroups. Monthly transfers are more likely than lump-sum transfers to improve food security, whereas lump-sum transfers are more likely to be spent on durables, suggesting that households face savings and credit constraints. Together, these results suggest that unconditional cash transfers have significant impacts on economic outcomes and psychological well-being.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W2492358331",
+      "title": "Crop diversification and livelihoods of smallholder farmers in Zimbabwe: adaptive management for environmental change",
+      "abstract": "This paper demonstrates how crop diversification impacts on two outcomes of climate smart agriculture; increased productivity (legume and cereal crop productivity) and enhanced resilience (household income, food security, and nutrition) in rural Zimbabwe. Using data from over 500 smallholder farmers, we jointly estimate crop diversification and each of the outcome variables within a conditional (recursive) mixed process framework that corrects for selectivity bias arising due to the voluntary nature of crop diversification. We find that crop diversification depends on the land size, farming experience, asset wealth, location, access to agricultural extension services, information on output prices, low transportation costs and general information access. Our results also indicate that an increase in the rate of adoption improves crop productivity, income, food security and nutrition at household level. Overall, our results are indicative of the importance of crop diversification as a viable climate smart agriculture practice that significantly enhances crop productivity and consequently resilience in rural smallholder farming systems. We, therefore, recommend wider adoption of diversified cropping systems notably those currently less diversified for greater adaptation to the ever-changing climate.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q14",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "paper_id": "W3087706624",
+      "title": "COVID-19 implications on household income and food security in Kenya and Uganda: Findings from a rapid assessment",
+      "abstract": "This study assessed implications of the Coronavirus Disease 19 (COVID-19) pandemic on household income and food security in two East African countries - Kenya and Uganda, using online survey data from 442 respondents. Results show that more than two-thirds of the respondents experienced income shocks due to the COVID-19 crisis. Food security and dietary quality worsened, as measured by the food insecurity experience scale and the frequency of consumption of nutritionally-rich foods. The proportion of food insecure respondents increased by 38% and 44% in Kenya and Uganda respectively, and in both countries, the regular consumption of fruits decreased by about 30% during the COVID-19 pandemic, compared to a normal period (before the pandemic). Results from probit regressions show that the income-poor households and those dependent on labour income were more vulnerable to income shock, and had poorer food consumption during the COVID-19 pandemic compared to other respondent categories. As such, they were more likely to employ food-based coping strategies compared to those pursuing alternative livelihoods, who generally relied on savings. Farmers were less likely to experience worsened food security compared to other respondent categories who depended to a great extent on market sources for food. In both countries, participation in national social security schemes was less likely to mitigate respondents' income shock during the COVID-19 period. Conversely, membership in savings and loan groups was correlated with less likelihood of suffering income shocks and reduction in food consumption. The results suggest that ongoing and future government responses should focus on structural changes in social security by developing responsive packages to cushion members pushed into poverty by such pandemics while building strong financial institutions to support the recovery of businesses in the medium term, and ensuring the resilience of food supply chains particularly those making available nutrient-dense foods.",
+      "relevance": 0,
+      "notes": "Not related to mobile money or financial resilience."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W1923187718",
+      "title": "Adoption of Multiple Sustainable Agricultural Practices in Rural Ethiopia",
+      "abstract": "Abstract The adoption and diffusion of sustainable agricultural practices (SAPs) has become an important issue in the development\u2010policy agenda for sub\u2010Saharan Africa, especially as a way to tackle land degradation, low agricultural productivity and poverty. However, the adoption rates of SAPs remain below expected levels. This study analyses the factors that facilitate or impede the probability and level of adoption of interrelated SAPs, using recent data from multiple plot\u2010level observations in rural Ethiopia. Multivariate and ordered probit models are applied to the modelling of adoption decisions by farm households facing multiple SAPs, which can be adopted in various combinations. The results show that there is a significant correlation between SAPs, suggesting that adoptions of SAPs are interrelated. The analysis further shows that both the probability and the extent of adoption of SAPs are influenced by many factors: a household\u2019s trust in government support, credit constraints, spouse education, rainfall and plot\u2010level disturbances, household wealth, social capital and networks, labour availability, plot and market access. These results imply that policy\u2010makers and development practitioners should seek to strengthen local institutions and service providers, maintain or increase household asset bases and establish and strengthen social protection schemes in order to improve the adoption of SAPs.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W1985382305",
+      "title": "Adoption of interrelated sustainable agricultural practices in smallholder systems: Evidence from rural Tanzania",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W1988249336",
+      "title": "Income diversification, poverty traps and policy shocks in C\u00f4te d\u2019Ivoire and Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W1994682066",
+      "title": "Quantifying the Impact of Human Mobility on Malaria",
+      "abstract": "Mobile Phone \u201cHot Spots\u201d An obstacle to developing effective national malaria control programs is a lack of understanding of human movements, which are an important component of disease transmission. As mobile phones have become increasingly ubiquitous, it is now possible to collect individual-level, longitudinal data on human movements on a massive scale. Wesolowski et al. (p. 267 ) analyzed mobile phone call data records representing the travel patterns of 15 million mobile phone owners in Kenya over the course of a year. This was combined with a detailed malaria risk map, to estimate malaria parasite movements across the country that could be caused by human movement. This information enabled detailed analysis of parasite sources and sinks between hundreds of local settlements. Estimates were compared with hospital data from Nairobi to show that local pockets of transmission likely occur around the periphery of Nairobi, accounting for locally acquired cases, contrary to the accepted idea that there is no transmission in the capital.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2003757775",
+      "title": "From adoption claims to understanding farmers and contexts: A literature review of Conservation Agriculture (CA) adoption among smallholder farmers in southern Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2004153320",
+      "title": "Productivity Effects of Indigenous Land Tenure Systems in Sub\u2010Saharan Africa",
+      "abstract": "Abstract This article uses household survey data from Ghana, Kenya, and Rwanda to test if the indigenous land rights systems in sub\u2010Saharan Africa are a constraint on agricultural productivity. Rights which farmers hold over individual parcels of land vary widely, and are in many cases surprisingly privatized. Yet with few exceptions, land rights are not found to be a significant factor in determining investments in land improvements, use of inputs, access to credit, or the productivity of land. These results cast doubt on the need for ambitious land registration and titling programs at this time.",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Analyzes microfinance / traditional credit in Kenya rather than smartphone app-based digital credit.).] Analyzes microfinance / traditional credit in Kenya rather than smartphone app-based digital credit."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2008641344",
+      "title": "Smallholder market participation under transactions costs: Maize supply and fertilizer demand in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2020650078",
+      "title": "The role of knowledge, attitudes and perceptions in the uptake of agricultural and agroforestry innovations among smallholder farmers in sub-Saharan Africa",
+      "abstract": "Despite the great potential of agricultural innovations, the uptake by smallholder farmers in sub-Saharan Africa seems to be slow. We reviewed existing theories and frameworks for the uptake of agricultural innovations and found that these tend to emphasize the role of extrinsic factors such as the characteristics of the adopter and the external environment in the decision-making process. In this paper, we argue that intrinsic factors such as the knowledge, perceptions and attitudes of the potential adopter towards the innovation play a key role, but this has been less studied. We present an analytical framework that combines both extrinsic and intrinsic factors in farmers' decisions to adopt new agricultural technologies and apply the framework to agroforestry adoption as a case study. We review the literature on agroforestry adoption in sub-Saharan Africa and identify the extrinsic and intrinsic variables affecting the uptake of agroforestry technologies. We conclude that the uptake of agricultural technologies is a complex process influenced by both extrinsic and intrinsic variables, and recommend that future studies aiming to understand the adoption process of agricultural innovations take into account both sets of variables. A mechanistic understanding of how intrinsic and extrinsic factors interact and drive adoption can help in targeting technologies appropriately to ensure sustainability.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2023340260",
+      "title": "Impact of modern agricultural technologies on smallholder welfare: Evidence from Tanzania and Ethiopia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2028791173",
+      "title": "Agroindustrialization through institutional innovation Transaction costs, cooperatives and milk\u2010market development in the east\u2010African highlands",
+      "abstract": "Abstract Some small\u2010holders are able to generate reliable and substantial income flows through small\u2010scale dairy production for the local market; for others, a set of unique transaction costs hinders participation. Cooperative selling institutions are potential catalysts for mitigating these costs, stimulating entry into the market, and promoting growth in rural communities. Trends in cooperative organization in east\u2010African dairy are evaluated. Empirical work focuses on alternative techniques for effecting participation among a representative sample of peri\u2010urban milk producers in the Ethiopian highlands. The variables considered are a modern production practice (cross\u2010bred cow use), a traditional production practice (indigenous\u2010cow use), three intellectual\u2010capital\u2010forming variables (experience, education, and extension), and the provision of infrastructure (as measured by time to transport milk to market). A Tobit analysis of marketable surplus generates precise estimates of non\u2010participants' \u2018distances\u2019 to market and their reservation levels of the covariates \u2014 measures of the inputs necessary to sustain and enhance the market. Policy implications focus on the availability of cross\u2010bred stock and the level of market infrastructure, both of which have marked effects on participation, the velocity of transactions in the local community and, inevitably, the social returns to agroindustrialization.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2080310378",
+      "title": "Analysis of Adoption and Impacts of Improved Maize Varieties in Eastern Zambia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2097929497",
+      "title": "Comparative analysis of solid waste management in 20 cities",
+      "abstract": "This paper uses the 'lens' of integrated and sustainable waste management (ISWM) to analyse the new data set compiled on 20 cities in six continents for the UN-Habitat flagship publication Solid Waste Management in the World's Cities. The comparative analysis looks first at waste generation rates and waste composition data. A process flow diagram is prepared for each city, as a powerful tool for representing the solid waste system as a whole in a comprehensive but concise way. Benchmark indicators are presented and compared for the three key physical components/drivers: public health and collection; environment and disposal; and resource recovery--and for three governance strategies required to deliver a well-functioning ISWM system: inclusivity; financial sustainability; and sound institutions and pro-active policies. Key insights include the variety and diversity of successful models - there is no 'one size fits all'; the necessity of good, reliable data; the importance of focusing on governance as well as technology; and the need to build on the existing strengths of the city. An example of the latter is the critical role of the informal sector in the cities in many developing countries: it not only delivers recycling rates that are comparable with modern Western systems, but also saves the city authorities millions of dollars in avoided waste collection and disposal costs. This provides the opportunity for win-win solutions, so long as the related wider challenges can be addressed.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2107339504",
+      "title": "Impact of Farmer Field Schools on Agricultural Productivity and Poverty in East Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2148958761",
+      "title": "Effects of a mobile phone short message service on antiretroviral treatment adherence in Kenya (WelTel Kenya1): a randomised trial",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2149979947",
+      "title": "The African Financial Development and Financial Inclusion Gaps",
+      "abstract": "First published online: June 25, 2014.",
+      "relevance": 1,
+      "notes": "[HUMAN_CORRECTED: was 0] Allen et al. Evaluates financial inclusion, digital penetration, and mobile money dynamics in Africa with substantial Kenyan benchmark data."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2153360349",
+      "title": "Mobile phone technologies improve adherence to antiretroviral treatment in a resource-limited setting: a randomized controlled trial of text message reminders",
+      "abstract": "OBJECTIVE: There is limited evidence on whether growing mobile phone availability in sub-Saharan Africa can be used to promote high adherence to antiretroviral therapy (ART). This study tested the efficacy of short message service (SMS) reminders on adherence to ART among patients attending a rural clinic in Kenya. DESIGN: A randomized controlled trial of four SMS reminder interventions with 48 weeks of follow-up. METHODS: Four hundred and thirty-one adult patients who had initiated ART within 3 months were enrolled and randomly assigned to a control group or one of the four intervention groups. Participants in the intervention groups received SMS reminders that were either short or long and sent at a daily or weekly frequency. Adherence was measured using the medication event monitoring system. The primary outcome was whether adherence exceeded 90% during each 12-week period of analysis and the 48-week study period. The secondary outcome was whether there were treatment interruptions lasting at least 48 h. RESULTS: In intention-to-treat analysis, 53% of participants receiving weekly SMS reminders achieved adherence of at least 90% during the 48 weeks of the study, compared with 40% of participants in the control group (P = 0.03). Participants in groups receiving weekly reminders were also significantly less likely to experience treatment interruptions exceeding 48 h during the 48-week follow-up period than participants in the control group (81 vs. 90%, P = 0.03). CONCLUSION: These results suggest that SMS reminders may be an important tool to achieve optimal treatment response in resource-limited settings.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2156247188",
+      "title": "Capital Is Not Enough: Innovation in Developing Economies",
+      "abstract": "abstract Economic development and social entrepreneurship often conceive of poverty as a resource allocation problem in which a lack of capital prevents the poor from increasing their income through entrepreneurship. This allocative view, however, represents only one possible approach to conceptualizing entrepreneurial opportunity. The alternative discovery\u2010 and creativity\u2010based views place a greater emphasis on innovation which implies that superior ideas are also needed if poverty is to be reduced through firm performance. Drawing from a survey of 201 small business owners involved in a microcredit programme in Nairobi, Kenya, we find that the financial, social, human capital\u2013performance relationships are mediated in part by innovation. Further, we find that differentiation\u2010related innovations lead to better firm performance than novelty\u2010related innovations.",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Analyzes microfinance / traditional credit in Kenya rather than smartphone app-based digital credit.).] Analyzes microfinance / traditional credit in Kenya rather than smartphone app-based digital credit."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2160800204",
+      "title": "The effect of mobile phone text-message reminders on Kenyan health workers' adherence to malaria treatment guidelines: a cluster randomised trial",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2477177347",
+      "title": "The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*",
+      "abstract": "We use a randomized controlled trial to study the response of poor households in rural Kenya to unconditional cash transfers from the NGO GiveDirectly. The transfers differ from other programs in that they are explicitly unconditional, large, and concentrated in time. We randomized at both the village and household levels; furthermore, within the treatment group, we randomized recipient gender (wife versus husband), transfer timing (lump-sum transfer versus monthly installments), and transfer magnitude (US$404 PPP versus US$1,525 PPP). We find a strong consumption response to transfers, with an increase in household monthly consumption from $158 PPP to $193 PPP nine months after the transfer began. Transfer recipients experience large increases in psychological well-being. We find no overall effect on levels of the stress hormone cortisol, although there are differences across some subgroups. Monthly transfers are more likely than lump-sum transfers to improve food security, whereas lump-sum transfers are more likely to be spent on durables, suggesting that households face savings and credit constraints. Together, these results suggest that unconditional cash transfers have significant impacts on economic outcomes and psychological well-being.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Haushofer & Shapiro cash transfer RCT. Not evaluating mobile credit apps / informal borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W2785232091",
+      "title": "Access to emergency hospital care provided by the public sector in sub-Saharan Africa in 2015: a geocoded inventory and spatial analysis",
+      "abstract": "Background Timely access to emergency care can substantially reduce mortality. International benchmarks for access to emergency hospital care have been established to guide ambitions for universal health care by 2030. However, no Pan-African database of where hospitals are located exists; therefore, we aimed to complete a geocoded inventory of hospital services in Africa in relation to how populations might access these services in 2015, with focus on women of child bearing age. Methods We assembled a geocoded inventory of public hospitals across 48 countries and islands of sub-Saharan Africa, including Zanzibar, using data from various sources. We only included public hospitals with emergency services that were managed by governments at national or local levels and faith-based or non-governmental organisations. For hospital listings without geographical coordinates, we geocoded each facility using Microsoft Encarta (version 2009), Google Earth (version 7.3), Geonames, Fallingrain, OpenStreetMap, and other national digital gazetteers. We obtained estimates for total population and women of child bearing age (15\u201349 years) at a 1 km 2 spatial resolution from the WorldPop database for 2015. Additionally, we assembled road network data from Google Map Maker Project and OpenStreetMap using ArcMap (version 10.5). We then combined the road network and the population locations to form a travel impedance surface. Subsequently, we formulated a cost distance algorithm based on the location of public hospitals and the travel impedance surface in AccessMod (version 5) to compute the proportion of populations living within a combined walking and motorised travel time of 2 h to emergency hospital services. Findings We consulted 100 databases from 48 sub-Saharan countries and islands, including Zanzibar, and identified 4908 public hospitals. 2701 hospitals had either full or partial information about their geographical coordinates. We estimated that 287 282 013 (29\u00b70%) people and 64 495 526 (28\u00b72%) women of child bearing age are located more than 2-h travel time from the nearest hospital. Marked differences were observed within and between countries, ranging from less than 25% of the population within 2-h travel time of a public hospital in South Sudan to more than 90% in Nigeria, Kenya, Cape Verde, Swaziland, South Africa, Burundi, Comoros, S\u00e3o Tom\u00e9 and Pr\u00edncipe, and Zanzibar. Only 16 countries reached the international benchmark of more than 80% of their populations living within a 2-h travel time of the nearest hospital. Interpretation Physical access to emergency hospital care provided by the public sector in Africa remains poor and varies substantially within and between countries. Innovative targeting of emergency care services is necessary to reduce these inequities. This study provides the first spatial census of public hospital services in Africa. Funding Wellcome Trust and the UK Department for International Development.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W3020814017",
+      "title": "Slum Health: Arresting COVID-19 and Improving Well-Being in Urban Informal Settlements",
+      "abstract": "The informal settlements of the Global South are the least prepared for the pandemic of COVID-19 since basic needs such as water, toilets, sewers, drainage, waste collection, and secure and adequate housing are already in short supply or non-existent. Further, space constraints, violence, and overcrowding in slums make physical distancing and self-quarantine impractical, and the rapid spread of an infection highly likely. Residents of informal settlements are also economically vulnerable during any COVID-19 responses. Any responses to COVID-19 that do not recognize these realities will further jeopardize the survival of large segments of the urban population globally. Most top-down strategies to arrest an infectious disease will likely ignore the often-robust social groups and knowledge that already exist in many slums. Here, we offer a set of practice and policy suggestions that aim to (1) dampen the spread of COVID-19 based on the latest available science, (2) improve the likelihood of medical care for the urban poor whether or not they get infected, and (3) provide economic, social, and physical improvements and protections to the urban poor, including migrants, slum communities, and their residents, that can improve their long-term well-being. Immediate measures to protect residents of urban informal settlements, the homeless, those living in precarious settlements, and the entire population from COVID-19 include the following: (1) institute informal settlements/slum emergency planning committees in every urban informal settlement; (2) apply an immediate moratorium on evictions; (3) provide an immediate guarantee of payments to the poor; (4) immediately train and deploy community health workers; (5) immediately meet Sphere Humanitarian standards for water, sanitation, and hygiene; (6) provide immediate food assistance; (7) develop and implement a solid waste collection strategy; and (8) implement immediately a plan for mobility and health care. Lessons have been learned from earlier pandemics such as HIV and epidemics such as Ebola. They can be applied here. At the same time, the opportunity exists for public health, public administration, international aid, NGOs, and community groups to innovate beyond disaster response and move toward long-term plans.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W3027726878",
+      "title": "Levels of heavy metals in wastewater and soil samples from open drainage channels in Nairobi, Kenya: community health implication",
+      "abstract": "Levels of Mercury (Hg), Lead (Pb), Cadmium (Cd), Chromium (Cr), Nickel (Ni) & Thallium (Tl) were established in wastewater & soil samples obtained from 8 sites in open drainage channels at Nairobi industrial area, Kenya. Ultra-trace inductively coupled plasma mass spectroscopy (ICP-MS) was used for metal analysis. Temperature, pH & turbidity of wastewater ranged from 16.75 to 26.05 \u00b0C; 7.28 to 8.78; 160.33 to 544.69 ppm respectively and within World Health Organization (WHO) allowable limits. Wastewater conductivities in 4 sites ranged from 770 to 1074 \u00b5S/cm and above WHO limits at 25 \u00b0C. The mean concentrations of the metals in wastewater ranged from 0.0001 to 0.015 ppm in an ascending order of Tl <Cd <Hg <Ni <Cr <Pb. Levels of Cd, Cr & Ni in wastewater were within WHO, World Bank (WB), United States Environmental Protection Agency (US EPA), China, Kenya and India's Central Pollution Control Board (CPCB) limits while Hg & Tl were above US EPA limits. The mean Pb levels in wastewater (5 sites) were above WHO, US EPA and Kenya allowable limits. Mean levels of the metals in soil samples ranged from 0.085 to 199.99 ppm, with those of Hg, Pb, Cr, Cd & Ni being above WHO limits for agricultural soils. Positive correlations (P < 0.05) for Cd & Hg in soils; and Tl (wastewater) & Cd (soil) were noted. In conclusion, wastewater in open waste channels at Nairobi industrial area had elevated levels of Pb and Hg, while the soil from the same channels had high levels of Hg, Pb, Ni, Cr, and Cd. Good management of Nairobi industrial area effluents is inevitable since it borders densely populated informal settlements which are likely to suffer exposure to toxic wastes. Effective wastewater treatment and reuse is highly recommended.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q15",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "paper_id": "W4396612850",
+      "title": "Technology Infrastructure and Business Performance of Commercial Banks in Kenya",
+      "abstract": "The general objective of the study was to examine the role of technology infrastructureon business performance of Commercial Banks in Kenya. The philosophy that guided the research is positivism philosophy. The study adopted correlational research design. The target population was commercial Banks in Kenya register by the Central Bank of Kenya. The population consisted of all 42 commercial banks in Kenya. Respondents\u2019 population comprised of five top managers from each bank translating to 210 top managers. Slovin\u2019s formula was used to calculate the sample size. Purposive sampling technique was used to select 138 top managers of the 42 commercial Banks in Kenya. This study used a self-administered, closed and open-ended questionnaire to obtain primary data. A pilot study was conducted to test the validity and reliability of the data collection instrument. Quantitative data was collected and analyzed in this study by calculating the response rate with descriptive statistics such as mean, standard deviation, median and proportions using the Statistical Package for Social Sciences (SPSS) version 24). Regression analysis and correlation analysis was used to carry out inferential data analysis to determine the direction and strength of the relationship between the independent and the dependent variables. In order to test the influence of information technology capability on business performance of Commercial Banks in Kenya, the study employed a hierarchical regression analysis with moderation. The study results were presented through use of tables and figures. The study concludes that technology infrastructure has a positive and significant effect on business performance of Commercial Banks in Kenya. The study revealed that hardware/Software, network and database influence business performance of Commercial Banks in Kenya. This implies that improvement in information technology infrastructure (hardware/Software, network and database) would lead to improvement in business performance of Commercial Banks in Kenya. The study recommends that the management of commercial banks in Kenya should ensure they had adequate and up to date hardware/Software to enable their employees improve their productivity.",
+      "relevance": 0,
+      "notes": "Not related to digital credit or borrowing."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W1748116371",
+      "title": "Understanding gender dimensions of agriculture and climate change in smallholder farming communities",
+      "abstract": "In Uganda, Ghana and Bangladesh, participatory tools were used for a socio-economic and gender analysis of three topics: climate-smart agriculture (CSA), climate analogue approaches, and climate and weather forecasting. Policy and programme-relevant results were obtained. Smallholders are changing agricultural practices due to observations of climatic and environmental change. Women appear to be less adaptive because of financial or resource constraints, because of male domination in receiving information and extension services and because available adaptation strategies tend to create higher labour loads for women. The climate analogue approach (identifying places resembling your future climate so as to identify potential adaptations) is a promising tool for increasing farmer-to-farmer learning, where a high degree of climatic variability means that analogue villages that have successfully adopted new CSA practices exist nearby. Institutional issues related to forecast production limit their credibility and salience, particularly in terms of women's ability to access and understand them. The participatory tools used in this study provided some insights into women's adaptive capacity in the villages studied, but not to the depth necessary to address women's specific vulnerabilities in CSA programmes. Further research is necessary to move the discourse related to gender and climate change beyond the conceptualization of women as a homogenously vulnerable group in CSA programmes.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W1923187718",
+      "title": "Adoption of Multiple Sustainable Agricultural Practices in Rural Ethiopia",
+      "abstract": "Abstract The adoption and diffusion of sustainable agricultural practices (SAPs) has become an important issue in the development\u2010policy agenda for sub\u2010Saharan Africa, especially as a way to tackle land degradation, low agricultural productivity and poverty. However, the adoption rates of SAPs remain below expected levels. This study analyses the factors that facilitate or impede the probability and level of adoption of interrelated SAPs, using recent data from multiple plot\u2010level observations in rural Ethiopia. Multivariate and ordered probit models are applied to the modelling of adoption decisions by farm households facing multiple SAPs, which can be adopted in various combinations. The results show that there is a significant correlation between SAPs, suggesting that adoptions of SAPs are interrelated. The analysis further shows that both the probability and the extent of adoption of SAPs are influenced by many factors: a household\u2019s trust in government support, credit constraints, spouse education, rainfall and plot\u2010level disturbances, household wealth, social capital and networks, labour availability, plot and market access. These results imply that policy\u2010makers and development practitioners should seek to strengthen local institutions and service providers, maintain or increase household asset bases and establish and strengthen social protection schemes in order to improve the adoption of SAPs.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W1987698895",
+      "title": "Smart Investments in Sustainable Food Production: Revisiting Mixed Crop-Livestock Systems",
+      "abstract": "Farmers in mixed crop-livestock systems produce about half of the world's food. In small holdings around the world, livestock are reared mostly on grass, browse, and nonfood biomass from maize, millet, rice, and sorghum crops and in their turn supply manure and traction for future crops. Animals act as insurance against hard times and supply farmers with a source of regular income from sales of milk, eggs, and other products. Thus, faced with population growth and climate change, small-holder farmers should be the first target for policies to intensify production by carefully managed inputs of fertilizer, water, and feed to minimize waste and environmental impact, supported by improved access to markets, new varieties, and technologies.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W1988249336",
+      "title": "Income diversification, poverty traps and policy shocks in C\u00f4te d\u2019Ivoire and Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W1997744353",
+      "title": "Livestock production: recent trends, future prospects",
+      "abstract": "The livestock sector globally is highly dynamic. In developing countries, it is evolving in response to rapidly increasing demand for livestock products. In developed countries, demand for livestock products is stagnating, while many production systems are increasing their efficiency and environmental sustainability. Historical changes in the demand for livestock products have been largely driven by human population growth, income growth and urbanization and the production response in different livestock systems has been associated with science and technology as well as increases in animal numbers. In the future, production will increasingly be affected by competition for natural resources, particularly land and water, competition between food and feed and by the need to operate in a carbon-constrained economy. Developments in breeding, nutrition and animal health will continue to contribute to increasing potential production and further efficiency and genetic gains. Livestock production is likely to be increasingly affected by carbon constraints and environmental and animal welfare legislation. Demand for livestock products in the future could be heavily moderated by socio-economic factors such as human health concerns and changing socio-cultural values. There is considerable uncertainty as to how these factors will play out in different regions of the world in the coming decades.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2008641344",
+      "title": "Smallholder market participation under transactions costs: Maize supply and fertilizer demand in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2010751289",
+      "title": "Adapting agriculture to climate change in Kenya: Household strategies and determinants",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2028791173",
+      "title": "Agroindustrialization through institutional innovation Transaction costs, cooperatives and milk\u2010market development in the east\u2010African highlands",
+      "abstract": "Abstract Some small\u2010holders are able to generate reliable and substantial income flows through small\u2010scale dairy production for the local market; for others, a set of unique transaction costs hinders participation. Cooperative selling institutions are potential catalysts for mitigating these costs, stimulating entry into the market, and promoting growth in rural communities. Trends in cooperative organization in east\u2010African dairy are evaluated. Empirical work focuses on alternative techniques for effecting participation among a representative sample of peri\u2010urban milk producers in the Ethiopian highlands. The variables considered are a modern production practice (cross\u2010bred cow use), a traditional production practice (indigenous\u2010cow use), three intellectual\u2010capital\u2010forming variables (experience, education, and extension), and the provision of infrastructure (as measured by time to transport milk to market). A Tobit analysis of marketable surplus generates precise estimates of non\u2010participants' \u2018distances\u2019 to market and their reservation levels of the covariates \u2014 measures of the inputs necessary to sustain and enhance the market. Policy implications focus on the availability of cross\u2010bred stock and the level of market infrastructure, both of which have marked effects on participation, the velocity of transactions in the local community and, inevitably, the social returns to agroindustrialization.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2045423228",
+      "title": "The roles of livestock in developing countries",
+      "abstract": "Livestock play a significant role in rural livelihoods and the economies of developing countries. They are providers of income and employment for producers and others working in, sometimes complex, value chains. They are a crucial asset and safety net for the poor, especially for women and pastoralist groups, and they provide an important source of nourishment for billions of rural and urban households. These socio-economic roles and others are increasing in importance as the sector grows because of increasing human populations, incomes and urbanisation rates. To provide these benefits, the sector uses a significant amount of land, water, biomass and other resources and emits a considerable quantity of greenhouse gases. There is concern on how to manage the sector's growth, so that these benefits can be attained at a lower environmental cost. Livestock and environment interactions in developing countries can be both positive and negative. On the one hand, manures from ruminant systems can be a valuable source of nutrients for smallholder crops, whereas in more industrial systems, or where there are large concentrations of animals, they can pollute water sources. On the other hand, ruminant systems in developing countries can be considered relatively resource-use inefficient. Because of the high yield gaps in most of these production systems, increasing the efficiency of the livestock sector through sustainable intensification practices presents a real opportunity where research and development can contribute to provide more sustainable solutions. In order to achieve this, it is necessary that production systems become market-orientated, better regulated in cases, and socially acceptable so that the right mix of incentives exists for the systems to intensify. Managing the required intensification and the shifts to new value chains is also essential to avoid a potential increase in zoonotic, food-borne and other diseases. New diversification options and improved safety nets will also be essential when intensification is not the primary avenue for developing the livestock sector. These processes will need to be supported by agile and effective public and private institutions.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2073878527",
+      "title": "Sustainable intensification and the African smallholder farmer",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2080310378",
+      "title": "Analysis of Adoption and Impacts of Improved Maize Varieties in Eastern Zambia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2107339504",
+      "title": "Impact of Farmer Field Schools on Agricultural Productivity and Poverty in East Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2149979947",
+      "title": "The African Financial Development and Financial Inclusion Gaps",
+      "abstract": "First published online: June 25, 2014.",
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2150523685",
+      "title": "Poverty, Risk Aversion, and Path Dependence in Low\u2010Income Countries: Experimental Evidence from Ethiopia",
+      "abstract": "Abstract In most low\u2010income countries, rural households depend on mixed rain\u2010fed agriculture/livestock production, which is very risky. Due to numerous market failures, there are few ways to shift risks to third parties. The literature has focused on what determines the responses of households in such environments. Of special concern are path dependencies in which households experiencing failure are prone to further failure and potential poverty traps. This paper estimates levels and determinants of risk aversion in the highlands of Ethiopia. We find high risk aversion and evidence that constraints have important impacts on risk\u2010averting behavior with perhaps significant implications for long\u2010term poverty. The results also suggest the possibility of path dependence and offer insights into links between risk aversion and poverty traps.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2156247188",
+      "title": "Capital Is Not Enough: Innovation in Developing Economies",
+      "abstract": "abstract Economic development and social entrepreneurship often conceive of poverty as a resource allocation problem in which a lack of capital prevents the poor from increasing their income through entrepreneurship. This allocative view, however, represents only one possible approach to conceptualizing entrepreneurial opportunity. The alternative discovery\u2010 and creativity\u2010based views place a greater emphasis on innovation which implies that superior ideas are also needed if poverty is to be reduced through firm performance. Drawing from a survey of 201 small business owners involved in a microcredit programme in Nairobi, Kenya, we find that the financial, social, human capital\u2013performance relationships are mediated in part by innovation. Further, we find that differentiation\u2010related innovations lead to better firm performance than novelty\u2010related innovations.",
+      "relevance": 2,
+      "notes": "Direct research on Kenyan MSME growth, informal sector barriers, or business constraints."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2156747165",
+      "title": "National and regional estimates of term and preterm babies born small for gestational age in 138 low-income and middle-income countries in 2010",
+      "abstract": "BACKGROUND: National estimates for the numbers of babies born small for gestational age and the comorbidity with preterm birth are unavailable. We aimed to estimate the prevalence of term and preterm babies born small for gestational age (term-SGA and preterm-SGA), and the relation to low birthweight (<2500 g), in 138 countries of low and middle income in 2010. METHODS: Small for gestational age was defined as lower than the 10th centile for fetal growth from the 1991 US national reference population. Data from 22 birth cohort studies (14 low-income and middle-income countries) and from the WHO Global Survey on Maternal and Perinatal Health (23 countries) were used to model the prevalence of term-SGA births. Prevalence of preterm-SGA infants was calculated from meta-analyses. FINDINGS: In 2010, an estimated 32\u00b74 million infants were born small for gestational age in low-income and middle-income countries (27% of livebirths), of whom 10\u00b76 million infants were born at term and low birthweight. The prevalence of term-SGA babies ranged from 5\u00b73% of livebirths in east Asia to 41\u00b75% in south Asia, and the prevalence of preterm-SGA infants ranged from 1\u00b72% in north Africa to 3\u00b70% in southeast Asia. Of 18 million low-birthweight babies, 59% were term-SGA and 41% were preterm-SGA. Two-thirds of small-for-gestational-age infants were born in Asia (17\u00b74 million in south Asia). Preterm-SGA babies totalled 2\u00b78 million births in low-income and middle-income countries. Most small-for-gestational-age infants were born in India, Pakistan, Nigeria, and Bangladesh. INTERPRETATION: The burden of small-for-gestational-age births is very high in countries of low and middle income and is concentrated in south Asia. Implementation of effective interventions for babies born too small or too soon is an urgent priority to increase survival and reduce disability, stunting, and non-communicable diseases. FUNDING: Bill & Melinda Gates Foundation by a grant to the US Fund for UNICEF to support the activities of the Child Health Epidemiology Reference Group (CHERG).",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2212418492",
+      "title": "Drivers of household food availability in sub-Saharan Africa based on big data from small farms",
+      "abstract": "We calculated a simple indicator of food availability using data from 93 sites in 17 countries across contrasted agroecologies in sub-Saharan Africa (>13,000 farm households) and analyzed the drivers of variations in food availability. Crop production was the major source of energy, contributing 60% of food availability. The off-farm income contribution to food availability ranged from 12% for households without enough food available (18% of the total sample) to 27% for the 58% of households with sufficient food available. Using only three explanatory variables (household size, number of livestock, and land area), we were able to predict correctly the agricultural determined status of food availability for 72% of the households, but the relationships were strongly influenced by the degree of market access. Our analyses suggest that targeting poverty through improving market access and off-farm opportunities is a better strategy to increase food security than focusing on agricultural production and closing yield gaps. This calls for multisectoral policy harmonization, incentives, and diversification of employment sources rather than a singular focus on agricultural development. Recognizing and understanding diversity among smallholder farm households in sub-Saharan Africa is key for the design of policies that aim to improve food security.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2557451516",
+      "title": "Scale and diversity of the physical technosphere: A geological perspective",
+      "abstract": "We assess the scale and extent of the physical technosphere, defined here as the summed material output of the contemporary human enterprise. It includes active urban, agricultural and marine components, used to sustain energy and material flow for current human life, and a growing residue layer, currently only in small part recycled back into the active component. Preliminary estimates suggest a technosphere mass of approximately 30 trillion tonnes (Tt), which helps support a human biomass that, despite recent growth, is ~5 orders of magnitude smaller. The physical technosphere includes a large, rapidly growing diversity of complex objects that are potential trace fossils or \u2018technofossils\u2019. If assessed on palaeontological criteria, technofossil diversity already exceeds known estimates of biological diversity as measured by richness, far exceeds recognized fossil diversity, and may exceed total biological diversity through Earth\u2019s history. The rapid transformation of much of Earth\u2019s surface mass into the technosphere and its myriad components underscores the novelty of the current planetary transformation.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2592728280",
+      "title": "Smallholder farmers\u2019 adaptation to climate change and determinants of their adaptation decisions in the Central Rift Valley of Ethiopia",
+      "abstract": "The agricultural sector remains the main source of livelihoods for rural communities in Ethiopia, but faces the challenge of changing climate. This study investigated how smallholder farmers perceive climate change, what adaptation strategies they practice, and factors that influence their adaptation decisions. Both primary and secondary data were used for the study, and a multinomial logit model was employed to identify the factors that shape smallholder farmers\u2019 adaptation strategies. The results show that 90% of farmers have already perceived climate variability, and 85% made attempts to adapt using practices like crop diversification, planting date adjustment, soil and water conservation and management, increasing the intensity of input use, integrating crop with livestock, and tree planting. The econometric model indicated that education, family size, gender, age, livestock ownership, farming experience, frequency of contact with extension agents, farm size, access to market, access to climate information and income were the key factors determining farmers\u2019 choice of adaptation practice. In the Central Rift Valley of Ethiopia, climate change is a pressing problem, which is beyond the capacity of smallholders to respond to autonomously. Farmers\u2019 capacity to choose effective adaptation options is influenced by household demography, as well as positively by farm size, income, access to markets, access to climate information and extension, and livestock production. This implies the need to support the indigenous adaptation strategies of the smallholder farmers with a wide range of institutional, policy, and technology support; some of it targeted on smaller, poorer or female-headed households. Moreover, creating opportunities for non-farm income sources is important as this helps farmers to engage in those activities that are less sensitive to climate change. Furthermore, providing climate change information, extension services, and creating access to markets are crucial.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2939158413",
+      "title": "Securing a Just Space for Small-Scale Fisheries in the Blue Economy",
+      "abstract": "The vast development opportunities offered by the world\u2019s coasts and oceans have attracted the attention of governments, private enterprises, philanthropic organizations and international conservation organizations. High-profile dialogue and policy decisions on ocean futures are informed largely by economic and ecological research. Key insights from the social sciences raise concerns for food and nutrition security, livelihoods and social justice but these have yet to gain traction with investors and the policy discourse on transforming ocean governance. The largest group of ocean-users \u2013 women and men who service, fish and trade from small-scale fisheries \u2013 argue they have been marginalized from dialogue between international environmental and economic actors determining strategies for ocean futures. Blue Economy or Blue Growth initiatives see the ocean as the new economic frontier and imply there is alignment with social objectives and small-scale fisheries concerns. Deeper analysis reveals fundamental differences in ideologies, priorities and approaches. We argue that small-scale fisheries are being subtly and overtly squeezed for geographic, political and economic space by larger scale economic and environmental conservation interests, jeopardizing the substantial benefits small-scale fisheries provide through livelihoods of millions of women and men, food for around four billion consumers globally, and in the developing world, a key source of micro-nutrients and protein for over a billion low-income consumers. Here we bring insights from social science and small-scale fisheries to explore how ocean governance might better account for social dimensions of fisheries.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W2960236837",
+      "title": "The WASH Benefits and SHINE trials: interpretation of WASH intervention effects on linear growth and diarrhoea",
+      "abstract": "Child stunting is a global problem and is only modestly responsive to dietary interventions. Numerous observational studies have shown that water quality, sanitation, and handwashing (WASH) in a household are strongly associated with linear growth of children living in the same household. We have completed three randomised efficacy trials testing improved household-level WASH with and without improved infant and young child feeding (IYCF) on stunting and diarrhoea in Bangladesh, Kenya, and Zimbabwe. In all trials, improved IYCF had a statistically significant benefit, but WASH had no effect on linear growth. In observational analyses of data from the control groups of the three trials, baseline sanitation was a strong risk factor for stunting in the study populations, suggesting this frequently reported association might be confounded by unmeasured factors of household wellbeing. WASH interventions reduced diarrhoea in Bangladesh, but not in Kenya or Zimbabwe. Intervention promoters visited participants six times per month in Bangladesh compared with monthly in Kenya and Zimbabwe; a review of the literature shows that virtually all published studies that have reported an effect on diarrhoea through home-based water treatment and handwashing promotion achieved high adherence by visiting participants at daily to fortnightly intervals. Despite achieving substantial behavioural change and significant reduction in infection prevalence for some enteric pathogens, detection of enteropathogens among children in the WASH groups of the trials was typically at ten times higher prevalence compared with high-income countries. Considering these results, we recommend that future research in the WASH sector focus on developing and evaluating interventions that are radically more effective in reducing faecal contamination in the domestic environment than the interventions implemented in these trials.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W3020814017",
+      "title": "Slum Health: Arresting COVID-19 and Improving Well-Being in Urban Informal Settlements",
+      "abstract": "The informal settlements of the Global South are the least prepared for the pandemic of COVID-19 since basic needs such as water, toilets, sewers, drainage, waste collection, and secure and adequate housing are already in short supply or non-existent. Further, space constraints, violence, and overcrowding in slums make physical distancing and self-quarantine impractical, and the rapid spread of an infection highly likely. Residents of informal settlements are also economically vulnerable during any COVID-19 responses. Any responses to COVID-19 that do not recognize these realities will further jeopardize the survival of large segments of the urban population globally. Most top-down strategies to arrest an infectious disease will likely ignore the often-robust social groups and knowledge that already exist in many slums. Here, we offer a set of practice and policy suggestions that aim to (1) dampen the spread of COVID-19 based on the latest available science, (2) improve the likelihood of medical care for the urban poor whether or not they get infected, and (3) provide economic, social, and physical improvements and protections to the urban poor, including migrants, slum communities, and their residents, that can improve their long-term well-being. Immediate measures to protect residents of urban informal settlements, the homeless, those living in precarious settlements, and the entire population from COVID-19 include the following: (1) institute informal settlements/slum emergency planning committees in every urban informal settlement; (2) apply an immediate moratorium on evictions; (3) provide an immediate guarantee of payments to the poor; (4) immediately train and deploy community health workers; (5) immediately meet Sphere Humanitarian standards for water, sanitation, and hygiene; (6) provide immediate food assistance; (7) develop and implement a solid waste collection strategy; and (8) implement immediately a plan for mobility and health care. Lessons have been learned from earlier pandemics such as HIV and epidemics such as Ebola. They can be applied here. At the same time, the opportunity exists for public health, public administration, international aid, NGOs, and community groups to innovate beyond disaster response and move toward long-term plans.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W3196375261",
+      "title": "The future of farming: Who will produce our food?",
+      "abstract": "Abstract Achieving SDG2 (zero hunger) in a situation of rapid global population growth requires a continued focus on food production. Farming not merely needs to sustainably produce nutritious diets, but should also provide livelihoods for farmers, while retaining natural ecosystems and services. Rather than focusing on production principles, this article explores the interrelations between farms and farming systems in the global food system. Evaluating farming systems around the world, we reveal a bewildering diversity. While family farms predominate, these range in size from less than 0.1 ha to more than 10,000 ha, and from hand hoe use to machine-based cultivation, enabling one person to plant more than 500 ha in a day. Yet, farming in different parts of the world is highly interdependent, not least because prices paid for farm produce are largely determined by global markets. Furthermore, the economic viability of farming is a problem, globally. We highlight trends in major regions of the world and explore possible trajectories for the future and ask: Who are the farmers of the future? Changing patterns of land ownership, rental and exchange mean that the concept of \u2018what is a farm\u2019 becomes increasingly fluid. Next to declining employment and rural depopulation, we also foresee more environmentally-friendly, less external input dependent, regionalised production systems. This may require the reversal of a global trend towards increasing specialisation to a recoupling of arable and livestock farming, not least for the resilience it provides. It might also require a slow-down or reversal of the widespread trend of scale enlargement in agriculture. Next to this trend of scale enlargement, small farms persist in Asia: consolidation of farms proceeds at a snail\u2019s pace in South-east Asia and 70% of farms in India are \u2018ultra-small\u2019 \u2013 less than 0.05 ha. Also in Africa, where we find smallholder farms are much smaller than often assumed (< 1 ha), farming households are often food insecure. A raft of pro-poor policies and investments are needed to stimulate small-scale agriculture as part of a broader focus on rural development to address persistent poverty and hunger. Smallholder farms will remain an important source of food and income, and a social safety net in absence of alternative livelihood security. But with limited possibilities for smallholders to \u2018step-up\u2019, the agricultural engine of growth appears to be broken. Smallholder agriculture cannot deliver the rate of economic growth currently assumed by many policy initiatives in Africa.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q16",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "paper_id": "W4239240204",
+      "title": "Effects of water quality, sanitation, handwashing, and nutritional interventions on diarrhoea and child growth in rural Kenya: a cluster-randomised controlled trial",
+      "abstract": "Background Poor nutrition and exposure to faecal contamination are associated with diarrhoea and growth faltering, both of which have long-term consequences for child health. We aimed to assess whether water, sanitation, handwashing, and nutrition interventions reduced diarrhoea or growth faltering. Methods The WASH Benefits cluster-randomised trial enrolled pregnant women from villages in rural Kenya and evaluated outcomes at 1 year and 2 years of follow-up. Geographically-adjacent clusters were block-randomised to active control (household visits to measure mid-upper-arm circumference), passive control (data collection only), or compound-level interventions including household visits to promote target behaviours: drinking chlorinated water (water); safe sanitation consisting of disposing faeces in an improved latrine (sanitation); handwashing with soap (handwashing); combined water, sanitation, and handwashing; counselling on appropriate maternal, infant, and young child feeding plus small-quantity lipid-based nutrient supplements from 6\u201324 months (nutrition); and combined water, sanitation, handwashing, and nutrition. Primary outcomes were caregiver-reported diarrhoea in the past 7 days and length-for-age Z score at year 2 in index children born to the enrolled pregnant women. Masking was not possible for data collection, but analyses were masked. Analysis was by intention to treat. This trial is registered with ClinicalTrials.gov, number NCT01704105. Findings Between Nov 27, 2012, and May 21, 2014, 8246 women in 702 clusters were enrolled and randomly assigned an intervention or control group. 1919 women were assigned to the active control group; 938 to passive control; 904 to water; 892 to sanitation; 917 to handwashing; 912 to combined water, sanitation, and handwashing; 843 to nutrition; and 921 to combined water, sanitation, handwashing, and nutrition. Data on diarrhoea at year 1 or year 2 were available for 6494 children and data on length-for-age Z score in year 2 were available for 6583 children (86% of living children were measured at year 2). Adherence indicators for sanitation, handwashing, and nutrition were more than 70% at year 1, handwashing fell to less than 25% at year 2, and for water was less than 45% at year 1 and less than 25% at year 2; combined groups were comparable to single groups. None of the interventions reduced diarrhoea prevalence compared with the active control. Compared with active control (length-for-age Z score \u22121\u00b754) children in nutrition and combined water, sanitation, handwashing, and nutrition were taller by year 2 (mean difference 0\u00b713 [95% CI 0\u00b701\u20130\u00b725] in the nutrition group; 0\u00b716 [0\u00b705\u20130\u00b727] in the combined water, sanitation, handwashing, and nutrition group). The individual water, sanitation, and handwashing groups, and combined water, sanitation, and handwashing group had no effect on linear growth. Interpretation Behaviour change messaging combined with technologically simple interventions such as water treatment, household sanitation upgrades from unimproved to improved latrines, and handwashing stations did not reduce childhood diarrhoea or improve growth, even when adherence was at least as high as has been achieved by other programmes. Counselling and supplementation in the nutrition group and combined water, sanitation, handwashing, and nutrition interventions led to small growth benefits, but there was no advantage to integrating water, sanitation, and handwashing with nutrition. The interventions might have been more efficacious with higher adherence or in an environment with lower baseline sanitation coverage, especially in this context of high diarrhoea prevalence. Funding Bill & Melinda Gates Foundation, United States Agency for International Development.",
+      "relevance": 0,
+      "notes": "Not related to small enterprise growth or informal business."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W1488574179",
+      "title": "Soil Fertility and Hunger in Africa",
+      "abstract": "The fundamental biophysical cause of stagnant per capita food production in Africa is soil fertility depletion. Because mineral fertilizers cost two to six times as much as those sold worldwide, a soil fertility replenishment approach has been developed based on naturally available resources: nitrogen-fixing leguminous tree fallows that accumulate 100 to 200 kg N ha, indigenous rock phosphate applications, and biomass transfers of the nutrient-accumulating shrub\n    Tithonia diversifolia. Tens of thousands of farmers in East and Southern Africa are becoming food secure with these technologies. Soil fertility depletion must be addressed before other technologies and policies can become effective in overcoming hunger in Africa.",
+      "relevance": 0,
+      "notes": "Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W1923187718",
+      "title": "Adoption of Multiple Sustainable Agricultural Practices in Rural Ethiopia",
+      "abstract": "Abstract The adoption and diffusion of sustainable agricultural practices (SAPs) has become an important issue in the development\u2010policy agenda for sub\u2010Saharan Africa, especially as a way to tackle land degradation, low agricultural productivity and poverty. However, the adoption rates of SAPs remain below expected levels. This study analyses the factors that facilitate or impede the probability and level of adoption of interrelated SAPs, using recent data from multiple plot\u2010level observations in rural Ethiopia. Multivariate and ordered probit models are applied to the modelling of adoption decisions by farm households facing multiple SAPs, which can be adopted in various combinations. The results show that there is a significant correlation between SAPs, suggesting that adoptions of SAPs are interrelated. The analysis further shows that both the probability and the extent of adoption of SAPs are influenced by many factors: a household\u2019s trust in government support, credit constraints, spouse education, rainfall and plot\u2010level disturbances, household wealth, social capital and networks, labour availability, plot and market access. These results imply that policy\u2010makers and development practitioners should seek to strengthen local institutions and service providers, maintain or increase household asset bases and establish and strengthen social protection schemes in order to improve the adoption of SAPs.",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Discusses broader rural poverty alleviation or social protection mechanisms in Kenya without direct cash transfer analysis.).] Discusses broader rural poverty alleviation or social protection mechanisms in Kenya without direct cash transfer analysis."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W1985382305",
+      "title": "Adoption of interrelated sustainable agricultural practices in smallholder systems: Evidence from rural Tanzania",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W1988249336",
+      "title": "Income diversification, poverty traps and policy shocks in C\u00f4te d\u2019Ivoire and Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Barrett et al. Focuses on agricultural asset thresholds/macro shocks, not cash transfer interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2004153320",
+      "title": "Productivity Effects of Indigenous Land Tenure Systems in Sub\u2010Saharan Africa",
+      "abstract": "Abstract This article uses household survey data from Ghana, Kenya, and Rwanda to test if the indigenous land rights systems in sub\u2010Saharan Africa are a constraint on agricultural productivity. Rights which farmers hold over individual parcels of land vary widely, and are in many cases surprisingly privatized. Yet with few exceptions, land rights are not found to be a significant factor in determining investments in land improvements, use of inputs, access to credit, or the productivity of land. These results cast doubt on the need for ambitious land registration and titling programs at this time.",
+      "relevance": 2,
+      "notes": "Direct trial/study on unconditional/conditional cash transfers and rural poverty in Kenya."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2008641344",
+      "title": "Smallholder market participation under transactions costs: Maize supply and fertilizer demand in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2010751289",
+      "title": "Adapting agriculture to climate change in Kenya: Household strategies and determinants",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2039807716",
+      "title": "Agricultural Technology, Crop Income, and Poverty Alleviation in Uganda",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2080310378",
+      "title": "Analysis of Adoption and Impacts of Improved Maize Varieties in Eastern Zambia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2103818838",
+      "title": "Effect of mother\u2019s education on child\u2019s nutritional status in the slums of Nairobi",
+      "abstract": "BACKGROUND: Malnutrition continues to be a critical public health problem in sub-Saharan Africa. For example, in East Africa, 48 % of children under-five are stunted while 36 % are underweight. Poor health and poor nutrition are now more a characteristic of children living in the urban areas than of children in the rural areas. This is because the protective mechanism offered by the urban advantage in the past; that is, the health benefits that historically accrued to residents of cities as compared to residents in rural settings is being eroded due to increasing proportion of urban residents living in slum settings. This study sought to determine effect of mother's education on child nutritional status of children living in slum settings. METHODS: Data are from a maternal and child health project nested within the Nairobi Urban Health and Demographic Surveillance System (NUHDSS). The study involves 5156 children aged 0-42 months. Data on nutritional status used were collected between October 2009 and January 2010. We used binomial and multiple logistic regression to estimate the effect of education in the univariable and multivariable models respectively. RESULTS: Results show that close to 40 % of children in the study are stunted. Maternal education is a strong predictor of child stunting with some minimal attenuation of the association by other factors at maternal, household and community level. Other factors including at child level: child birth weight and gender; maternal level: marital status, parity, pregnancy intentions, and health seeking behaviour; and household level: social economic status are also independently significantly associated with stunting. CONCLUSION: Overall, mothers' education persists as a strong predictor of child's nutritional status in urban slum settings, even after controlling for other factors. Given that stunting is a strong predictor of human capital, emphasis on girl-child education may contribute to breaking the poverty cycle in urban poor settings.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Urban slum maternal education and child stunting. No connection to rural cash transfers."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2107339504",
+      "title": "Impact of Farmer Field Schools on Agricultural Productivity and Poverty in East Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 2] Evaluates Farmer Field Schools extension, not unconditional cash transfers."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2129942647",
+      "title": "Welfare dynamics in rural Kenya and Madagascar",
+      "abstract": "This paper presents comparative qualitative and quantitative evidence from rural Kenya and Madagascar in an attempt to untangle the causality behind persistent poverty. We find striking differences in welfare dynamics depending on whether one uses total income, including stochastic terms and inevitable measurement error, or the predictable, structural component of income based on a household's asset holdings. Our results suggest the existence of multiple dynamic asset and structural income equilibria, consistent with the poverty traps hypothesis. Furthermore, we find supporting evidence of locally increasing returns to assets and of risk management behaviour consistent with poor households' defence of a critical asset threshold through asset smoothing.",
+      "relevance": 2,
+      "notes": "Direct trial/study on unconditional/conditional cash transfers and rural poverty in Kenya."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2147375258",
+      "title": "Climate\u2010Smart Landscapes: Opportunities and Challenges for Integrating Adaptation and Mitigation in Tropical Agriculture",
+      "abstract": "Abstract Addressing the global challenges of climate change, food security, and poverty alleviation requires enhancing the adaptive capacity and mitigation potential of agricultural landscapes across the tropics. However, adaptation and mitigation activities tend to be approached separately due to a variety of technical, political, financial, and socioeconomic constraints. Here, we demonstrate that many tropical agricultural systems can provide both mitigation and adaptation benefits if they are designed and managed appropriately and if the larger landscape context is considered. Many of the activities needed for adaptation and mitigation in tropical agricultural landscapes are the same needed for sustainable agriculture more generally, but thinking at the landscape scale opens a new dimension for achieving synergies. Intentional integration of adaptation and mitigation activities in agricultural landscapes offers significant benefits that go beyond the scope of climate change to food security, biodiversity conservation, and poverty alleviation. However, achieving these objectives will require transformative changes in current policies, institutional arrangements, and funding mechanisms to foster broad\u2010scale adoption of climate\u2010smart approaches in agricultural landscapes.",
+      "relevance": 0,
+      "notes": "Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2150523685",
+      "title": "Poverty, Risk Aversion, and Path Dependence in Low\u2010Income Countries: Experimental Evidence from Ethiopia",
+      "abstract": "Abstract In most low\u2010income countries, rural households depend on mixed rain\u2010fed agriculture/livestock production, which is very risky. Due to numerous market failures, there are few ways to shift risks to third parties. The literature has focused on what determines the responses of households in such environments. Of special concern are path dependencies in which households experiencing failure are prone to further failure and potential poverty traps. This paper estimates levels and determinants of risk aversion in the highlands of Ethiopia. We find high risk aversion and evidence that constraints have important impacts on risk\u2010averting behavior with perhaps significant implications for long\u2010term poverty. The results also suggest the possibility of path dependence and offer insights into links between risk aversion and poverty traps.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Experimental economics on risk aversion in Ethiopia; contains no rural Kenyan cash transfer data."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2168410245",
+      "title": "Adoption of improved wheat varieties and impacts on household food security in Ethiopia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2212418492",
+      "title": "Drivers of household food availability in sub-Saharan Africa based on big data from small farms",
+      "abstract": "We calculated a simple indicator of food availability using data from 93 sites in 17 countries across contrasted agroecologies in sub-Saharan Africa (>13,000 farm households) and analyzed the drivers of variations in food availability. Crop production was the major source of energy, contributing 60% of food availability. The off-farm income contribution to food availability ranged from 12% for households without enough food available (18% of the total sample) to 27% for the 58% of households with sufficient food available. Using only three explanatory variables (household size, number of livestock, and land area), we were able to predict correctly the agricultural determined status of food availability for 72% of the households, but the relationships were strongly influenced by the degree of market access. Our analyses suggest that targeting poverty through improving market access and off-farm opportunities is a better strategy to increase food security than focusing on agricultural production and closing yield gaps. This calls for multisectoral policy harmonization, incentives, and diversification of employment sources rather than a singular focus on agricultural development. Recognizing and understanding diversity among smallholder farm households in sub-Saharan Africa is key for the design of policies that aim to improve food security.",
+      "relevance": 2,
+      "notes": "Direct trial/study on unconditional/conditional cash transfers and rural poverty in Kenya."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2477177347",
+      "title": "The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*",
+      "abstract": "We use a randomized controlled trial to study the response of poor households in rural Kenya to unconditional cash transfers from the NGO GiveDirectly. The transfers differ from other programs in that they are explicitly unconditional, large, and concentrated in time. We randomized at both the village and household levels; furthermore, within the treatment group, we randomized recipient gender (wife versus husband), transfer timing (lump-sum transfer versus monthly installments), and transfer magnitude (US$404 PPP versus US$1,525 PPP). We find a strong consumption response to transfers, with an increase in household monthly consumption from $158 PPP to $193 PPP nine months after the transfer began. Transfer recipients experience large increases in psychological well-being. We find no overall effect on levels of the stress hormone cortisol, although there are differences across some subgroups. Monthly transfers are more likely than lump-sum transfers to improve food security, whereas lump-sum transfers are more likely to be spent on durables, suggesting that households face savings and credit constraints. Together, these results suggest that unconditional cash transfers have significant impacts on economic outcomes and psychological well-being.",
+      "relevance": 2,
+      "notes": "Direct trial/study on unconditional/conditional cash transfers and rural poverty in Kenya."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W2786858330",
+      "title": "Climate risk management and rural poverty reduction",
+      "abstract": "Climate variability is a major source of risk to smallholder farmers and pastoralists, particularly in dryland regions. A growing body of evidence links climate-related risk to the extent and the persistence of rural poverty in these environments. Stochastic shocks erode smallholder farmers' long-term livelihood potential through loss of productive assets. The resulting uncertainty impedes progress out of poverty by acting as a disincentive to investment in agriculture \u2013 by farmers, rural financial services, value chain institutions and governments. We assess evidence published in the last ten years that a set of production technologies and institutional options for managing risk can stabilize production and incomes, protect assets in the face of shocks, enhance uptake of improved technologies and practices, improve farmer welfare, and contribute to poverty reduction in risk-prone smallholder agricultural systems. Production technologies and practices such as stress-adapted crop germplasm, conservation agriculture, and diversified production systems stabilize agricultural production and incomes and, hence, reduce the adverse impacts of climate-related risk under some circumstances. Institutional interventions such as index-based insurance and social protection through adaptive safety nets play a complementary role in enabling farmers to manage risk, overcome risk-related barriers to adoption of improved technologies and practices, and protect their assets against the impacts of extreme climatic events. While some research documents improvements in household welfare indicators, there is limited evidence that the risk-reduction benefits of the interventions reviewed have enabled significant numbers of very poor farmers to escape poverty. We discuss the roles that climate-risk management interventions can play in efforts to reduce rural poverty, and the need for further research on identifying and targeting environments and farming populations where improved climate risk management could accelerate efforts to reduce rural poverty.",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Discusses broader rural poverty alleviation or social protection mechanisms in Kenya without direct cash transfer analysis.).] Discusses broader rural poverty alleviation or social protection mechanisms in Kenya without direct cash transfer analysis."
+    },
+    {
+      "query_id": "Q17",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "paper_id": "W4393041264",
+      "title": "Effect of Occupational Transfers on Employee Engagement in Private Universities in Western Kenya By IJISRT",
+      "abstract": "According to Makori, M. & Kariuki, N., (2015), a study was conducted in Presbyterian University of East Africa (PUEA) by the HR Office in 2014 and disclosed that about 50% of employees in Kenyan institutions of Higher Learning merely come to work to do what is needed of them. The study showed that 47% of workers came to work and ended up using most of their time on social websites during work hours. Hence workforce turnover was registered at 43%. The major cause of these situations is not known. Scholars have given many suggestions that some Occupational changes in private universities are linked with digitalization, how information is shared, relocation of workers, change in task objectives and production costs. Nevertheless, it is not known whether these changes have any significant effect on employee engagement in Kenyan private universities. This study therefore was particularly concerned with the Effect of Occupational Transfers on Employee Engagement in Private Universities in Western Kenya. The conclusions of this study might be very useful to many stakeholders involved in the management of Private universities in Kenya. The study was based on the Job Characteristics theory. Correlational research design was used. Target population was 1440 workers of four selected Private Universities. Stratified random sampling techniques were employed. The sample of 313 workers from different sections was used. Questionnaires were given to Respondents to complete for the purpose of data collection. Questionnaire were developed using items from literature reviews. SPSS and Excel tools were used during the data analysis process. Data was presented using charts and Frequency tables. From the results, conclusions and recommendations were made. A pilot study was carried out with 10 respondents from Uzima University to assess the validity of the research instruments. The 10 respondents were not involved in the main study. The results revealed that occupational transfers had a negative effect (\u03b2=-.541, p<.05) and accounted for 29.3% variance in employee engagement (R2=.293, p<.05). It was concluded that Occupational Transfers have a significant effect on employee engagement. The study suggested that private universities in western Kenya should communicate to their employees before they are transferred.",
+      "relevance": 0,
+      "notes": "Not related to cash transfers or rural poverty interventions."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W1748116371",
+      "title": "Understanding gender dimensions of agriculture and climate change in smallholder farming communities",
+      "abstract": "In Uganda, Ghana and Bangladesh, participatory tools were used for a socio-economic and gender analysis of three topics: climate-smart agriculture (CSA), climate analogue approaches, and climate and weather forecasting. Policy and programme-relevant results were obtained. Smallholders are changing agricultural practices due to observations of climatic and environmental change. Women appear to be less adaptive because of financial or resource constraints, because of male domination in receiving information and extension services and because available adaptation strategies tend to create higher labour loads for women. The climate analogue approach (identifying places resembling your future climate so as to identify potential adaptations) is a promising tool for increasing farmer-to-farmer learning, where a high degree of climatic variability means that analogue villages that have successfully adopted new CSA practices exist nearby. Institutional issues related to forecast production limit their credibility and salience, particularly in terms of women's ability to access and understand them. The participatory tools used in this study provided some insights into women's adaptive capacity in the villages studied, but not to the depth necessary to address women's specific vulnerabilities in CSA programmes. Further research is necessary to move the discourse related to gender and climate change beyond the conceptualization of women as a homogenously vulnerable group in CSA programmes.",
+      "relevance": 0,
+      "notes": "No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W1923187718",
+      "title": "Adoption of Multiple Sustainable Agricultural Practices in Rural Ethiopia",
+      "abstract": "Abstract The adoption and diffusion of sustainable agricultural practices (SAPs) has become an important issue in the development\u2010policy agenda for sub\u2010Saharan Africa, especially as a way to tackle land degradation, low agricultural productivity and poverty. However, the adoption rates of SAPs remain below expected levels. This study analyses the factors that facilitate or impede the probability and level of adoption of interrelated SAPs, using recent data from multiple plot\u2010level observations in rural Ethiopia. Multivariate and ordered probit models are applied to the modelling of adoption decisions by farm households facing multiple SAPs, which can be adopted in various combinations. The results show that there is a significant correlation between SAPs, suggesting that adoptions of SAPs are interrelated. The analysis further shows that both the probability and the extent of adoption of SAPs are influenced by many factors: a household\u2019s trust in government support, credit constraints, spouse education, rainfall and plot\u2010level disturbances, household wealth, social capital and networks, labour availability, plot and market access. These results imply that policy\u2010makers and development practitioners should seek to strengthen local institutions and service providers, maintain or increase household asset bases and establish and strengthen social protection schemes in order to improve the adoption of SAPs.",
+      "relevance": 0,
+      "notes": "No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W1985382305",
+      "title": "Adoption of interrelated sustainable agricultural practices in smallholder systems: Evidence from rural Tanzania",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W1988249336",
+      "title": "Income diversification, poverty traps and policy shocks in C\u00f4te d\u2019Ivoire and Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2003757775",
+      "title": "From adoption claims to understanding farmers and contexts: A literature review of Conservation Agriculture (CA) adoption among smallholder farmers in southern Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2008641344",
+      "title": "Smallholder market participation under transactions costs: Maize supply and fertilizer demand in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2022416391",
+      "title": "Hookworm-Related Anaemia among Pregnant Women: A Systematic Review",
+      "abstract": "BACKGROUND AND OBJECTIVES: Hookworm infection is among the major causes of anaemia in poor communities, but its importance in causing maternal anaemia is poorly understood, and this has hampered effective lobbying for the inclusion of anthelmintic treatment in maternal health packages. We sought to review existing evidence on the role of hookworm as a risk factor for anaemia among pregnant women. We also estimate the number of hookworm infections in pregnant women in sub-Saharan Africa (SSA). METHODS: Structured searches using MEDLINE and EMBASE as well as manual searches of reference lists were conducted, and unpublished data were obtained by contacting authors. Papers were independently reviewed by two authors, and relevant data were extracted. We compared haemoglobin concentration (Hb) according to intensity of hookworm infection and calculated standardised mean differences and 95% confidence intervals. To estimate the number of pregnant women, we used population surfaces and a spatial model of hookworm prevalence. FINDINGS: One hundred and five reports were screened and 19 were eligible for inclusion: 13 cross-sectional studies, 2 randomised controlled trials, 2 non-randomised treatment trials and 2 observational studies. Comparing uninfected women and women lightly (1-1,999 eggs/gram [epg]) infected with hookworm, the standardised mean difference (SMD) was -0.24 (95% CI: -0.36 to -0.13). The SMD between women heavily (4000+ epg) infected and those lightly infected was -0.57 (95% CI: -0.87 to -0.26). All identified intervention studies showed a benefit of deworming for maternal or child health, but since a variety of outcomes measures were employed, quantitative evaluation was not possible. We estimate that 37.7 million women of reproductive age in SSA are infected with hookworm in 2005 and that approximately 6.9 million pregnant women are infected. CONCLUSIONS: Evidence indicates that increasing hookworm infection intensity is associated with lower haemoglobin levels in pregnant women in poor countries. There are insufficient data to quantify the benefits of deworming, and further studies are warranted. Given that between a quarter and a third of pregnant women in SSA are infected with hookworm and at risk of preventable hookworm-related anaemia, efforts should be made to increase the coverage of anthelmintic treatment among pregnant women.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Clinical parasitology (hookworm anemia). Zero bearing on financial inclusion or female entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2028791173",
+      "title": "Agroindustrialization through institutional innovation Transaction costs, cooperatives and milk\u2010market development in the east\u2010African highlands",
+      "abstract": "Abstract Some small\u2010holders are able to generate reliable and substantial income flows through small\u2010scale dairy production for the local market; for others, a set of unique transaction costs hinders participation. Cooperative selling institutions are potential catalysts for mitigating these costs, stimulating entry into the market, and promoting growth in rural communities. Trends in cooperative organization in east\u2010African dairy are evaluated. Empirical work focuses on alternative techniques for effecting participation among a representative sample of peri\u2010urban milk producers in the Ethiopian highlands. The variables considered are a modern production practice (cross\u2010bred cow use), a traditional production practice (indigenous\u2010cow use), three intellectual\u2010capital\u2010forming variables (experience, education, and extension), and the provision of infrastructure (as measured by time to transport milk to market). A Tobit analysis of marketable surplus generates precise estimates of non\u2010participants' \u2018distances\u2019 to market and their reservation levels of the covariates \u2014 measures of the inputs necessary to sustain and enhance the market. Policy implications focus on the availability of cross\u2010bred stock and the level of market infrastructure, both of which have marked effects on participation, the velocity of transactions in the local community and, inevitably, the social returns to agroindustrialization.",
+      "relevance": 0,
+      "notes": "No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2039703634",
+      "title": "Measuring the costs of African animal trypanosomosis, the potential benefits of control and returns to research",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2080310378",
+      "title": "Analysis of Adoption and Impacts of Improved Maize Varieties in Eastern Zambia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2107339504",
+      "title": "Impact of Farmer Field Schools on Agricultural Productivity and Poverty in East Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2129942647",
+      "title": "Welfare dynamics in rural Kenya and Madagascar",
+      "abstract": "This paper presents comparative qualitative and quantitative evidence from rural Kenya and Madagascar in an attempt to untangle the causality behind persistent poverty. We find striking differences in welfare dynamics depending on whether one uses total income, including stochastic terms and inevitable measurement error, or the predictable, structural component of income based on a household's asset holdings. Our results suggest the existence of multiple dynamic asset and structural income equilibria, consistent with the poverty traps hypothesis. Furthermore, we find supporting evidence of locally increasing returns to assets and of risk management behaviour consistent with poor households' defence of a critical asset threshold through asset smoothing.",
+      "relevance": 0,
+      "notes": "No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2149979947",
+      "title": "The African Financial Development and Financial Inclusion Gaps",
+      "abstract": "First published online: June 25, 2014.",
+      "relevance": 1,
+      "notes": "[HUMAN_CORRECTED: was 0] Empirically documents gender gaps in banking and mobile account ownership across Sub-Saharan Africa."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2156247188",
+      "title": "Capital Is Not Enough: Innovation in Developing Economies",
+      "abstract": "abstract Economic development and social entrepreneurship often conceive of poverty as a resource allocation problem in which a lack of capital prevents the poor from increasing their income through entrepreneurship. This allocative view, however, represents only one possible approach to conceptualizing entrepreneurial opportunity. The alternative discovery\u2010 and creativity\u2010based views place a greater emphasis on innovation which implies that superior ideas are also needed if poverty is to be reduced through firm performance. Drawing from a survey of 201 small business owners involved in a microcredit programme in Nairobi, Kenya, we find that the financial, social, human capital\u2013performance relationships are mediated in part by innovation. Further, we find that differentiation\u2010related innovations lead to better firm performance than novelty\u2010related innovations.",
+      "relevance": 0,
+      "notes": "No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W2477177347",
+      "title": "The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya*",
+      "abstract": "We use a randomized controlled trial to study the response of poor households in rural Kenya to unconditional cash transfers from the NGO GiveDirectly. The transfers differ from other programs in that they are explicitly unconditional, large, and concentrated in time. We randomized at both the village and household levels; furthermore, within the treatment group, we randomized recipient gender (wife versus husband), transfer timing (lump-sum transfer versus monthly installments), and transfer magnitude (US$404 PPP versus US$1,525 PPP). We find a strong consumption response to transfers, with an increase in household monthly consumption from $158 PPP to $193 PPP nine months after the transfer began. Transfer recipients experience large increases in psychological well-being. We find no overall effect on levels of the stress hormone cortisol, although there are differences across some subgroups. Monthly transfers are more likely than lump-sum transfers to improve food security, whereas lump-sum transfers are more likely to be spent on durables, suggesting that households face savings and credit constraints. Together, these results suggest that unconditional cash transfers have significant impacts on economic outcomes and psychological well-being.",
+      "relevance": 2,
+      "notes": "Direct research on gender disparities in financial inclusion, credit access, or female entrepreneurship in Kenya."
+    },
+    {
+      "query_id": "Q18",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "paper_id": "W4396612850",
+      "title": "Technology Infrastructure and Business Performance of Commercial Banks in Kenya",
+      "abstract": "The general objective of the study was to examine the role of technology infrastructureon business performance of Commercial Banks in Kenya. The philosophy that guided the research is positivism philosophy. The study adopted correlational research design. The target population was commercial Banks in Kenya register by the Central Bank of Kenya. The population consisted of all 42 commercial banks in Kenya. Respondents\u2019 population comprised of five top managers from each bank translating to 210 top managers. Slovin\u2019s formula was used to calculate the sample size. Purposive sampling technique was used to select 138 top managers of the 42 commercial Banks in Kenya. This study used a self-administered, closed and open-ended questionnaire to obtain primary data. A pilot study was conducted to test the validity and reliability of the data collection instrument. Quantitative data was collected and analyzed in this study by calculating the response rate with descriptive statistics such as mean, standard deviation, median and proportions using the Statistical Package for Social Sciences (SPSS) version 24). Regression analysis and correlation analysis was used to carry out inferential data analysis to determine the direction and strength of the relationship between the independent and the dependent variables. In order to test the influence of information technology capability on business performance of Commercial Banks in Kenya, the study employed a hierarchical regression analysis with moderation. The study results were presented through use of tables and figures. The study concludes that technology infrastructure has a positive and significant effect on business performance of Commercial Banks in Kenya. The study revealed that hardware/Software, network and database influence business performance of Commercial Banks in Kenya. This implies that improvement in information technology infrastructure (hardware/Software, network and database) would lead to improvement in business performance of Commercial Banks in Kenya. The study recommends that the management of commercial banks in Kenya should ensure they had adequate and up to date hardware/Software to enable their employees improve their productivity.",
+      "relevance": 0,
+      "notes": "No focus on gender disparities in finance or entrepreneurship."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W1542177381",
+      "title": "Early hominid stone tool production and technical skill 2.34 Myr ago in West Turkana, Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W1923187718",
+      "title": "Adoption of Multiple Sustainable Agricultural Practices in Rural Ethiopia",
+      "abstract": "Abstract The adoption and diffusion of sustainable agricultural practices (SAPs) has become an important issue in the development\u2010policy agenda for sub\u2010Saharan Africa, especially as a way to tackle land degradation, low agricultural productivity and poverty. However, the adoption rates of SAPs remain below expected levels. This study analyses the factors that facilitate or impede the probability and level of adoption of interrelated SAPs, using recent data from multiple plot\u2010level observations in rural Ethiopia. Multivariate and ordered probit models are applied to the modelling of adoption decisions by farm households facing multiple SAPs, which can be adopted in various combinations. The results show that there is a significant correlation between SAPs, suggesting that adoptions of SAPs are interrelated. The analysis further shows that both the probability and the extent of adoption of SAPs are influenced by many factors: a household\u2019s trust in government support, credit constraints, spouse education, rainfall and plot\u2010level disturbances, household wealth, social capital and networks, labour availability, plot and market access. These results imply that policy\u2010makers and development practitioners should seek to strengthen local institutions and service providers, maintain or increase household asset bases and establish and strengthen social protection schemes in order to improve the adoption of SAPs.",
+      "relevance": 1,
+      "notes": "[AUDIT_FLAG: Borderline partially relevant (Examines labor or educational attainment in Kenya with secondary bearing on youth unemployment.).] Examines labor or educational attainment in Kenya with secondary bearing on youth unemployment."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W1988249336",
+      "title": "Income diversification, poverty traps and policy shocks in C\u00f4te d\u2019Ivoire and Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W1989089335",
+      "title": "Frequency and timing of antenatal care in Kenya: explaining the variations between women of different communities",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2008641344",
+      "title": "Smallholder market participation under transactions costs: Maize supply and fertilizer demand in Kenya",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2023340260",
+      "title": "Impact of modern agricultural technologies on smallholder welfare: Evidence from Tanzania and Ethiopia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2039807716",
+      "title": "Agricultural Technology, Crop Income, and Poverty Alleviation in Uganda",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2057131920",
+      "title": "Utilization of maternal health services among young women in Kenya: Insights from the Kenya Demographic and Health Survey, 2003",
+      "abstract": "BACKGROUND: Use of maternal health services is an effective means for reducing the risk of maternal morbidity and mortality, especially in places where the general health status of women is poor. This study was guided by the following objectives: 1) To determine the relationship between timing of first antenatal care (ANC) visit and type of delivery assistance 2) To establish the determinants of timing of first ANC visit and type delivery assistance. METHODS: Data used were drawn from the 2003 Kenya Demographic and Health Survey, with a focus on young women aged 15-24. The dependent variables were: Timing of first ANC visit coded as \"None\"; \"Late\" and \"Early\", and type of delivery assistance coded as \"None\"; \"Traditional Birth Attendant (TBA)\" and \"Skilled professional\". Control variables included: education, household wealth, urban-rural residence, ethnicity, parity, age at birth of the last child and marital status. Multivariate ordered logistic regression model was used. RESULTS: The study results show that place of residence, household wealth, education, ethnicity, parity, marital status and age at birth of the last child had strong influences on timing of first ANC visit and the type of delivery assistance received. The major finding is an association between early timing of the first ANC visit and use of skilled professionals at delivery. CONCLUSION: This study confirms that timing of first antenatal care is indeed an important entry point for delivery care as young women who initiated antenatal care early were more likely to use skilled professional assistance at delivery than their counterparts who initiated ANC late. The results indicate that a large percentage of young pregnant women do not seek ANC during their first trimester as is recommended by the WHO, which may affect the type of assistance they receive during delivery. It is important that programs aimed at improving maternal health include targeting young women, especially those from rural areas, with low levels of education, higher parity and from poor households, given their high risk during pregnancy. The finding that a considerably high proportion of young women use TBAs as opposed to use of skilled professionals is baffling and calls for further research.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Demographic analysis of maternal health visits. No relevance to TVET or youth job creation."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2058744145",
+      "title": "Researchers' roles in knowledge co-production: experience from sustainability research in Kenya, Switzerland, Bolivia and Nepal",
+      "abstract": "Co-production of knowledge between academic and non-academic communities is a prerequisite for research aiming at more sustainable development paths. Sustainability researchers face three challenges in such co-production: (a) addressing power relations; (b) interrelating different perspectives on the issues at stake; and (c) promoting a previously negotiated orientation towards sustainable development. A systematic comparison of four sustainability research projects in Kenya (vulnerability to drought), Switzerland (soil protection), Bolivia and Nepal (conservation vs. development) shows how the researchers intuitively adopted three different roles to face these challenges: the roles of reflective scientist, intermediary, and facilitator of a joint learning process. From this systematized and iterative self-reflection on the roles that a researcher can assume in the indeterminate social space where knowledge is co-produced, we draw conclusions regarding training.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2071527233",
+      "title": "Factors Associated with Bullying Behavior in Middle School Students",
+      "abstract": "In this study, bullying was examined as a continuum of mild-to-extreme behaviors, and the potential correlates of bullying others were delineated. To improve identification and targeting of those youth at risk for bullying, demographic, behavioral, and psychosocial correlates were tested on a continuous measure of bullying behavior rated according to the number and frequency of behaviors. Among 558 middle school students surveyed in 1995, only 20% reported no bullying behavior. In multiple regression analysis, misconduct, anger, beliefs supportive of violence, confidence in using nonviolent strategies, and intentions to use nonviolent strategies were associated with levels of bullying behavior. Although boys reported more bullying behavior than did girls, gender was not a significant predictor in the multiple regression analysis. These study results were inconsistent with the perspective that early adolescents were either bullies or nonbullies and indicated the need for a comprehensive approach to preventing bullying behavior.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2080221553",
+      "title": "Transformational leadership, organizational commitment, and job satisfaction: A comparative study of Kenyan and U.S. financial firms",
+      "abstract": "This study explores the nature of the relationship between transformational leadership and two work-related attitudes, organizational commitment and job satisfaction, by comparing Kenya and the United States. The results show that transformational leadership has a strong and positive effect on organizational commitment and job satisfaction in both cultures. Simultaneous factor analyses in several populations (SIFASP), using AMOS maximum likelihood procedure, provides evidence of conceptual and measurement equivalence for all three measures (transformational leadership, organizational commitment, and job satisfaction) employed in this study.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2099625864",
+      "title": "Obstacles to integrated pest management adoption in developing countries",
+      "abstract": "Despite its theoretical prominence and sound principles, integrated pest management (IPM) continues to suffer from anemic adoption rates in developing countries. To shed light on the reasons, we surveyed the opinions of a large and diverse pool of IPM professionals and practitioners from 96 countries by using structured concept mapping. The first phase of this method elicited 413 open-ended responses on perceived obstacles to IPM. Analysis of responses revealed 51 unique statements on obstacles, the most frequent of which was \"insufficient training and technical support to farmers.\" Cluster analyses, based on participant opinions, grouped these unique statements into six themes: research weaknesses, outreach weaknesses, IPM weaknesses, farmer weaknesses, pesticide industry interference, and weak adoption incentives. Subsequently, 163 participants rated the obstacles expressed in the 51 unique statements according to importance and remediation difficulty. Respondents from developing countries and high-income countries rated the obstacles differently. As a group, developing-country respondents rated \"IPM requires collective action within a farming community\" as their top obstacle to IPM adoption. Respondents from high-income countries prioritized instead the \"shortage of well-qualified IPM experts and extensionists.\" Differential prioritization was also evident among developing-country regions, and when obstacle statements were grouped into themes. Results highlighted the need to improve the participation of stakeholders from developing countries in the IPM adoption debate, and also to situate the debate within specific regional contexts.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2103818838",
+      "title": "Effect of mother\u2019s education on child\u2019s nutritional status in the slums of Nairobi",
+      "abstract": "BACKGROUND: Malnutrition continues to be a critical public health problem in sub-Saharan Africa. For example, in East Africa, 48 % of children under-five are stunted while 36 % are underweight. Poor health and poor nutrition are now more a characteristic of children living in the urban areas than of children in the rural areas. This is because the protective mechanism offered by the urban advantage in the past; that is, the health benefits that historically accrued to residents of cities as compared to residents in rural settings is being eroded due to increasing proportion of urban residents living in slum settings. This study sought to determine effect of mother's education on child nutritional status of children living in slum settings. METHODS: Data are from a maternal and child health project nested within the Nairobi Urban Health and Demographic Surveillance System (NUHDSS). The study involves 5156 children aged 0-42 months. Data on nutritional status used were collected between October 2009 and January 2010. We used binomial and multiple logistic regression to estimate the effect of education in the univariable and multivariable models respectively. RESULTS: Results show that close to 40 % of children in the study are stunted. Maternal education is a strong predictor of child stunting with some minimal attenuation of the association by other factors at maternal, household and community level. Other factors including at child level: child birth weight and gender; maternal level: marital status, parity, pregnancy intentions, and health seeking behaviour; and household level: social economic status are also independently significantly associated with stunting. CONCLUSION: Overall, mothers' education persists as a strong predictor of child's nutritional status in urban slum settings, even after controlling for other factors. Given that stunting is a strong predictor of human capital, emphasis on girl-child education may contribute to breaking the poverty cycle in urban poor settings.",
+      "relevance": 0,
+      "notes": "[HUMAN_CORRECTED: was 1] Child malnutrition study. Too distant from vocational technical education and youth labor markets."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2107339504",
+      "title": "Impact of Farmer Field Schools on Agricultural Productivity and Poverty in East Africa",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2129942647",
+      "title": "Welfare dynamics in rural Kenya and Madagascar",
+      "abstract": "This paper presents comparative qualitative and quantitative evidence from rural Kenya and Madagascar in an attempt to untangle the causality behind persistent poverty. We find striking differences in welfare dynamics depending on whether one uses total income, including stochastic terms and inevitable measurement error, or the predictable, structural component of income based on a household's asset holdings. Our results suggest the existence of multiple dynamic asset and structural income equilibria, consistent with the poverty traps hypothesis. Furthermore, we find supporting evidence of locally increasing returns to assets and of risk management behaviour consistent with poor households' defence of a critical asset threshold through asset smoothing.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2150523685",
+      "title": "Poverty, Risk Aversion, and Path Dependence in Low\u2010Income Countries: Experimental Evidence from Ethiopia",
+      "abstract": "Abstract In most low\u2010income countries, rural households depend on mixed rain\u2010fed agriculture/livestock production, which is very risky. Due to numerous market failures, there are few ways to shift risks to third parties. The literature has focused on what determines the responses of households in such environments. Of special concern are path dependencies in which households experiencing failure are prone to further failure and potential poverty traps. This paper estimates levels and determinants of risk aversion in the highlands of Ethiopia. We find high risk aversion and evidence that constraints have important impacts on risk\u2010averting behavior with perhaps significant implications for long\u2010term poverty. The results also suggest the possibility of path dependence and offer insights into links between risk aversion and poverty traps.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2163068346",
+      "title": "The International Study of Childhood Obesity, Lifestyle and the Environment (ISCOLE): design and methods",
+      "abstract": "BACKGROUND: The primary aim of the International Study of Childhood Obesity, Lifestyle and the Environment (ISCOLE) was to determine the relationships between lifestyle behaviours and obesity in a multi-national study of children, and to investigate the influence of higher-order characteristics such as behavioural settings, and the physical, social and policy environments, on the observed relationships within and between countries. METHODS/DESIGN: The targeted sample included 6000 10-year old children from 12 countries in five major geographic regions of the world (Europe, Africa, the Americas, South-East Asia, and the Western Pacific). The protocol included procedures to collect data at the individual level (lifestyle, diet and physical activity questionnaires, accelerometry), family and neighborhood level (parental questionnaires), and the school environment (school administrator questionnaire and school audit tool). A standard study protocol was developed for implementation in all regions of the world. A rigorous system of training and certification of study personnel was developed and implemented, including web-based training modules and regional in-person training meetings. DISCUSSION: The results of this study will provide a robust examination of the correlates of adiposity and obesity in children, focusing on both sides of the energy balance equation. The results will also provide important new information that will inform the development of lifestyle, environmental, and policy interventions to address and prevent childhood obesity that may be culturally adapted for implementation around the world. ISCOLE represents a multi-national collaboration among all world regions, and represents a global effort to increase research understanding, capacity and infrastructure in childhood obesity.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2168410245",
+      "title": "Adoption of improved wheat varieties and impacts on household food security in Ethiopia",
+      "abstract": null,
+      "relevance": 0,
+      "notes": "[AUDIT_FLAG: Missing or very brief abstract in OpenAlex (judged from title only).] Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W2402690890",
+      "title": "Reducing emissions from agriculture to meet the 2 \u00b0C target",
+      "abstract": "Abstract More than 100 countries pledged to reduce agricultural greenhouse gas (GHG) emissions in the 2015 Paris Agreement of the United Nations Framework Convention on Climate Change. Yet technical information about how much mitigation is needed in the sector vs. how much is feasible remains poor. We identify a preliminary global target for reducing emissions from agriculture of ~1 GtCO2e yr\u22121by 2030 to limit warming in 2100 to 2 \u00b0C above pre\u2010industrial levels. Yet plausible agricultural development pathways with mitigation cobenefits deliver only 21\u201340% of needed mitigation. The target indicates that more transformative technical and policy options will be needed, such as methane inhibitors and finance for new practices. A more comprehensive target for the 2 \u00b0C limit should be developed to include soil carbon and agriculture\u2010related mitigation options. Excluding agricultural emissions from mitigation targets and plans will increase the cost of mitigation in other sectors or reduce the feasibility of meeting the 2 \u00b0C limit.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W3095607637",
+      "title": "Agroecological principles and elements and their implications for transitioning to sustainable food systems. A review",
+      "abstract": "Abstract There is consensus that the global food system is not delivering good nutrition for all and is causing environmental degradation and loss of biodiversity, such that a profound transformation is needed to meet the challenges of persistent malnutrition and rural poverty, aggravated by the growing consequences of climate change. Agroecological approaches have gained prominence in scientific, agricultural and political discourse in recent years, suggesting pathways to transform agricultural and food systems that address these issues. Here we present an extensive literature review of concepts, definitions and principles of agroecology, and their historical evolution, considering the three manifestations of agroecology as a science, a set of practices and a social movement; and relate them to the recent dialogue establishing a set of ten iconic elements of agroecology that have emerged from a global multi-stakeholder consultation and synthesis process. Based on this, a consolidated list of principles is developed and discussed in the context of presenting transition pathways to more sustainable food systems. The major outcomes of this paper are as follows. (1) Definition of 13 consolidated agroecological principles: recycling; input reduction; soil health; animal health; biodiversity; synergy; economic diversification; co-creation of knowledge; social values and diets; fairness; connectivity; land and natural resource governance; participation. (2) Confirmation that these principles are well aligned and complementary to the 10 elements of agroecology developed by FAO but articulate requirements of soil and animal health more explicitly and distinguish between biodiversity and economic diversification. (3) Clarification that application of these generic principles can generate diverse pathways for incremental and transformational change towards more sustainable farming and food systems. (4) Identification of four key entry points associated with the elements: diversity; circular and solidarity economy; co-creation and sharing of knowledge; and, responsible governance to enable plausible pathways of transformative change towards sustainable agriculture and food systems.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W3132094443",
+      "title": "Intercropping\u2014A Low Input Agricultural Strategy for Food and Environmental Security",
+      "abstract": "Intensive agriculture is based on the use of high-energy inputs and quality planting materials with assured irrigation, but it has failed to assure agricultural sustainability because of creation of ecological imbalance and degradation of natural resources. On the other hand, intercropping systems, also known as mixed cropping or polyculture, a traditional farming practice with diversified crop cultivation, uses comparatively low inputs and improves the quality of the agro-ecosystem. Intensification of crops can be done spatially and temporally by the adoption of the intercropping system targeting future need. Intercropping ensures multiple benefits like enhancement of yield, environmental security, production sustainability and greater ecosystem services. In intercropping, two or more crop species are grown concurrently as they coexist for a significant part of the crop cycle and interact among themselves and agro-ecosystems. Legumes as component crops in the intercropping system play versatile roles like biological N fixation and soil quality improvement, additional yield output including protein yield, and creation of functional diversity. But growing two or more crops together requires additional care and management for the creation of less competition among the crop species and efficient utilization of natural resources. Research evidence showed beneficial impacts of a properly managed intercropping system in terms of resource utilization and combined yield of crops grown with low-input use. The review highlights the principles and management of an intercropping system and its benefits and usefulness as a low-input agriculture for food and environmental security.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    },
+    {
+      "query_id": "Q19",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "paper_id": "W4393041264",
+      "title": "Effect of Occupational Transfers on Employee Engagement in Private Universities in Western Kenya By IJISRT",
+      "abstract": "According to Makori, M. & Kariuki, N., (2015), a study was conducted in Presbyterian University of East Africa (PUEA) by the HR Office in 2014 and disclosed that about 50% of employees in Kenyan institutions of Higher Learning merely come to work to do what is needed of them. The study showed that 47% of workers came to work and ended up using most of their time on social websites during work hours. Hence workforce turnover was registered at 43%. The major cause of these situations is not known. Scholars have given many suggestions that some Occupational changes in private universities are linked with digitalization, how information is shared, relocation of workers, change in task objectives and production costs. Nevertheless, it is not known whether these changes have any significant effect on employee engagement in Kenyan private universities. This study therefore was particularly concerned with the Effect of Occupational Transfers on Employee Engagement in Private Universities in Western Kenya. The conclusions of this study might be very useful to many stakeholders involved in the management of Private universities in Kenya. The study was based on the Job Characteristics theory. Correlational research design was used. Target population was 1440 workers of four selected Private Universities. Stratified random sampling techniques were employed. The sample of 313 workers from different sections was used. Questionnaires were given to Respondents to complete for the purpose of data collection. Questionnaire were developed using items from literature reviews. SPSS and Excel tools were used during the data analysis process. Data was presented using charts and Frequency tables. From the results, conclusions and recommendations were made. A pilot study was carried out with 10 respondents from Uzima University to assess the validity of the research instruments. The 10 respondents were not involved in the main study. The results revealed that occupational transfers had a negative effect (\u03b2=-.541, p<.05) and accounted for 29.3% variance in employee engagement (R2=.293, p<.05). It was concluded that Occupational Transfers have a significant effect on employee engagement. The study suggested that private universities in western Kenya should communicate to their employees before they are transferred.",
+      "relevance": 0,
+      "notes": "Not related to youth employment or vocational training."
+    }
+  ]
+}

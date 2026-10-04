@@ -1,0 +1,152 @@
+[
+  {
+    "query_id": "Q01",
+    "domain": "Health & Epidemiology",
+    "query_text": "malaria transmission and insecticide treated bed nets in western Kenya",
+    "description": "Studies examining malaria vector control, pyrethroid resistance, and community effectiveness of ITNs/LLINs in endemic western Kenyan counties."
+  },
+  {
+    "query_id": "Q02",
+    "domain": "Health & Epidemiology",
+    "query_text": "maternal and neonatal healthcare access in rural Kenya",
+    "description": "Research on barriers to skilled birth attendance, antenatal care timing, and maternal mortality in rural Kenyan public health facilities."
+  },
+  {
+    "query_id": "Q03",
+    "domain": "Health & Epidemiology",
+    "query_text": "antiretroviral therapy adherence and viral suppression in HIV patients Kenya",
+    "description": "Evaluations of ART retention, adherence interventions (e.g. SMS reminders, community support), and virological failure among adults and adolescents in Kenya."
+  },
+  {
+    "query_id": "Q04",
+    "domain": "Health & Epidemiology",
+    "query_text": "pediatric pneumonia and respiratory infections in Kenyan children",
+    "description": "Studies on childhood pneumonia etiology, diagnosis, treatment with antibiotics, and vaccine impact (pneumococcal conjugate vaccine) in Kenyan hospitals."
+  },
+  {
+    "query_id": "Q05",
+    "domain": "Health & Epidemiology",
+    "query_text": "water sanitation hygiene and diarrheal disease in informal urban settlements Nairobi",
+    "description": "Impact of WASH infrastructure, water contamination, and sanitation access on child diarrhea and enteric pathogens in Kibera, Mukuru, and Mathare."
+  },
+  {
+    "query_id": "Q06",
+    "domain": "Health & Epidemiology",
+    "query_text": "cervical cancer screening and HPV vaccination coverage in Kenya",
+    "description": "Uptake of visual inspection with acetic acid (VIA), pap smears, HPV immunization barriers, and oncological outcomes among Kenyan women."
+  },
+  {
+    "query_id": "Q07",
+    "domain": "Agriculture & Food Security",
+    "query_text": "smallholder maize yield optimization and fertilizer adoption in Kenya",
+    "description": "Analyses of soil fertility, inorganic fertilizer application rates, input subsidies, and maize productivity among smallholder farmers in the Rift Valley and Western Kenya."
+  },
+  {
+    "query_id": "Q08",
+    "domain": "Agriculture & Food Security",
+    "query_text": "drought tolerant crop varieties and food security in arid and semi-arid Kenya",
+    "description": "Performance, farmer adoption, and yield resilience of drought-tolerant maize, sorghum, millet, and pigeon pea in ASAL regions."
+  },
+  {
+    "query_id": "Q09",
+    "domain": "Agriculture & Food Security",
+    "query_text": "push pull technology for stemborer and striga control in Kenyan agriculture",
+    "description": "Biological pest management using Desmodium and Napier/Brachiaria grasses to control cereal stemborers and parasitic Striga weeds in smallholder maize-sorghum systems."
+  },
+  {
+    "query_id": "Q10",
+    "domain": "Agriculture & Food Security",
+    "query_text": "impact of farmer field schools on agricultural technology adoption Kenya",
+    "description": "Empirical assessments of participatory agricultural extension, Farmer Field Schools (FFS), and knowledge diffusion on farm practices and crop yields."
+  },
+  {
+    "query_id": "Q11",
+    "domain": "Agriculture & Food Security",
+    "query_text": "smallholder dairy value chain milk production and cooperative marketing Kenya",
+    "description": "Productivity drivers, artificial insemination, fodder availability, and cooperative collective action in the Kenyan smallholder dairy sector."
+  },
+  {
+    "query_id": "Q12",
+    "domain": "Agriculture & Food Security",
+    "query_text": "post harvest loss reduction and grain storage hermetic bags Kenya",
+    "description": "Technological and economic evaluation of Purdue Improved Crop Storage (PICS) bags, metal silos, and post-harvest handling for maize weevil control."
+  },
+  {
+    "query_id": "Q13",
+    "domain": "Agriculture & Food Security",
+    "query_text": "horticultural exports food safety standards and smallholder contract farming Kenya",
+    "description": "GlobalGAP compliance, pesticide residues, supermarket procurement, and income effects of fresh fruit and vegetable outgrower schemes in central Kenya."
+  },
+  {
+    "query_id": "Q14",
+    "domain": "Economics, FinTech & Business",
+    "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+    "description": "Macro and microeconomic effects of mobile phone financial services, remittances, risk sharing, and consumption smoothing during economic shocks."
+  },
+  {
+    "query_id": "Q15",
+    "domain": "Economics, FinTech & Business",
+    "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+    "description": "Growth, default rates, predatory interest rates, and over-indebtedness from algorithm-based instant mobile loans among micro-entrepreneurs."
+  },
+  {
+    "query_id": "Q16",
+    "domain": "Economics, FinTech & Business",
+    "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+    "description": "Determinants of MSME growth, access to capital, informal taxation, infrastructure bottlenecks, and formalization barriers in the jua kali sector."
+  },
+  {
+    "query_id": "Q17",
+    "domain": "Economics, FinTech & Business",
+    "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+    "description": "Randomized controlled trials evaluating direct cash transfers (e.g. GiveDirectly, Inua Jamii) on household asset accumulation, nutrition, and enterprise investments."
+  },
+  {
+    "query_id": "Q18",
+    "domain": "Economics, FinTech & Business",
+    "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+    "description": "Barriers to formal banking, mobile banking usage, table banking (chamas), and credit constraints facing female micro-business owners."
+  },
+  {
+    "query_id": "Q19",
+    "domain": "Economics, FinTech & Business",
+    "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+    "description": "Impact of TVET vocational education, youth enterprise funds, digital freelancing, and labor market matching in urban and rural areas."
+  },
+  {
+    "query_id": "Q20",
+    "domain": "Climate, Ecology & Water",
+    "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+    "description": "Observational and modeled trends in the Long Rains and Short Rains, Indian Ocean Dipole influence, and multi-year drought occurrences in Kenya."
+  },
+  {
+    "query_id": "Q21",
+    "domain": "Climate, Ecology & Water",
+    "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+    "description": "Livelihood vulnerability, mobile pastoral grazing strategies, land tenure conflicts, and invasive species (Prosopis juliflora) in Garissa, Turkana, and Marsabit."
+  },
+  {
+    "query_id": "Q22",
+    "domain": "Climate, Ecology & Water",
+    "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+    "description": "Land cover change, canopy loss, river discharge variability, and payment for ecosystem services in the Mau Forest Complex and Aberdares."
+  },
+  {
+    "query_id": "Q23",
+    "domain": "Climate, Ecology & Water",
+    "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+    "description": "Nutrient loading, industrial/agricultural runoff, invasive Eichhornia crassipes coverage, and effects on artisanal tilapia fisheries in Winam Gulf."
+  },
+  {
+    "query_id": "Q24",
+    "domain": "Climate, Ecology & Water",
+    "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+    "description": "Mangrove restoration, blue carbon quantification, community-based forest associations, and coastal erosion mitigation in Kilifi and Kwale counties."
+  },
+  {
+    "query_id": "Q25",
+    "domain": "Climate, Ecology & Water",
+    "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+    "description": "Pay-as-you-go (PAYG) solar home system adoption, off-grid mini-grid economics, and institutional policy under the Last Mile Connectivity Project."
+  }
+]
