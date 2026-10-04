@@ -1,0 +1,1038 @@
+{
+  "num_queries": 25,
+  "top_k": 10,
+  "macro_summary": {
+    "system_a": {
+      "mean_unique_authors_at_10": 127.76,
+      "mean_unique_institutions_at_10": 84.44,
+      "mean_unique_topics_at_10": 18.92,
+      "mean_author_entropy": 6.7024,
+      "mean_institution_entropy": 5.9814,
+      "mean_topic_entropy": 3.9412,
+      "mean_institution_diversity": 0.9776,
+      "mean_topic_diversity": 0.915
+    },
+    "system_b": {
+      "mean_unique_authors_at_10": 86.8,
+      "mean_unique_institutions_at_10": 52.96,
+      "mean_unique_topics_at_10": 16.64,
+      "mean_author_entropy": 6.1381,
+      "mean_institution_entropy": 5.3339,
+      "mean_topic_entropy": 3.6734,
+      "mean_institution_diversity": 0.9659,
+      "mean_topic_diversity": 0.8946
+    },
+    "system_c": {
+      "mean_unique_authors_at_10": 96.56,
+      "mean_unique_institutions_at_10": 57.16,
+      "mean_unique_topics_at_10": 12.08,
+      "mean_author_entropy": 6.0702,
+      "mean_institution_entropy": 5.2294,
+      "mean_topic_entropy": 3.1158,
+      "mean_institution_diversity": 0.9599,
+      "mean_topic_diversity": 0.8456
+    }
+  },
+  "per_query_results": [
+    {
+      "query_id": "Q01",
+      "domain": "Health & Epidemiology",
+      "query_text": "malaria transmission and insecticide treated bed nets in western Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 109,
+          "unique_institutions": 53,
+          "unique_topics": 12,
+          "author_entropy": 6.6889,
+          "institution_entropy": 5.4387,
+          "topic_entropy": 2.9675,
+          "institution_diversity": 0.9681,
+          "topic_diversity": 0.8244
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 83,
+          "unique_institutions": 45,
+          "unique_topics": 11,
+          "author_entropy": 6.2122,
+          "institution_entropy": 5.0795,
+          "topic_entropy": 2.8641,
+          "institution_diversity": 0.9551,
+          "topic_diversity": 0.8133
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 50,
+          "unique_institutions": 19,
+          "unique_topics": 9,
+          "author_entropy": 5.3291,
+          "institution_entropy": 3.7011,
+          "topic_entropy": 2.4671,
+          "institution_diversity": 0.8952,
+          "topic_diversity": 0.7578
+        }
+      }
+    },
+    {
+      "query_id": "Q02",
+      "domain": "Health & Epidemiology",
+      "query_text": "maternal and neonatal healthcare access in rural Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 161,
+          "unique_institutions": 83,
+          "unique_topics": 16,
+          "author_entropy": 7.3148,
+          "institution_entropy": 6.2596,
+          "topic_entropy": 3.6518,
+          "institution_diversity": 0.9854,
+          "topic_diversity": 0.8956
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 180,
+          "unique_institutions": 115,
+          "unique_topics": 17,
+          "author_entropy": 7.4788,
+          "institution_entropy": 6.7577,
+          "topic_entropy": 3.6933,
+          "institution_diversity": 0.9897,
+          "topic_diversity": 0.8956
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 282,
+          "unique_institutions": 178,
+          "unique_topics": 15,
+          "author_entropy": 8.1129,
+          "institution_entropy": 7.366,
+          "topic_entropy": 3.3493,
+          "institution_diversity": 0.9932,
+          "topic_diversity": 0.8489
+        }
+      }
+    },
+    {
+      "query_id": "Q03",
+      "domain": "Health & Epidemiology",
+      "query_text": "antiretroviral therapy adherence and viral suppression in HIV patients Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 179,
+          "unique_institutions": 101,
+          "unique_topics": 15,
+          "author_entropy": 7.3754,
+          "institution_entropy": 6.3716,
+          "topic_entropy": 3.4817,
+          "institution_diversity": 0.9847,
+          "topic_diversity": 0.8778
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 189,
+          "unique_institutions": 95,
+          "unique_topics": 13,
+          "author_entropy": 7.3996,
+          "institution_entropy": 6.2724,
+          "topic_entropy": 3.2226,
+          "institution_diversity": 0.9838,
+          "topic_diversity": 0.8533
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 159,
+          "unique_institutions": 72,
+          "unique_topics": 10,
+          "author_entropy": 7.1314,
+          "institution_entropy": 5.8114,
+          "topic_entropy": 2.7589,
+          "institution_diversity": 0.9773,
+          "topic_diversity": 0.8089
+        }
+      }
+    },
+    {
+      "query_id": "Q04",
+      "domain": "Health & Epidemiology",
+      "query_text": "pediatric pneumonia and respiratory infections in Kenyan children",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 369,
+          "unique_institutions": 202,
+          "unique_topics": 13,
+          "author_entropy": 8.4003,
+          "institution_entropy": 7.3338,
+          "topic_entropy": 3.1968,
+          "institution_diversity": 0.992,
+          "topic_diversity": 0.8556
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 314,
+          "unique_institutions": 179,
+          "unique_topics": 14,
+          "author_entropy": 8.0897,
+          "institution_entropy": 7.1479,
+          "topic_entropy": 3.4682,
+          "institution_diversity": 0.9912,
+          "topic_diversity": 0.8867
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 334,
+          "unique_institutions": 188,
+          "unique_topics": 12,
+          "author_entropy": 8.1855,
+          "institution_entropy": 7.2138,
+          "topic_entropy": 3.2029,
+          "institution_diversity": 0.9915,
+          "topic_diversity": 0.8622
+        }
+      }
+    },
+    {
+      "query_id": "Q05",
+      "domain": "Health & Epidemiology",
+      "query_text": "water sanitation hygiene and diarrheal disease in informal urban settlements Nairobi",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 90,
+          "unique_institutions": 67,
+          "unique_topics": 20,
+          "author_entropy": 6.4746,
+          "institution_entropy": 5.9584,
+          "topic_entropy": 4.0608,
+          "institution_diversity": 0.9819,
+          "topic_diversity": 0.9251
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 133,
+          "unique_institutions": 66,
+          "unique_topics": 17,
+          "author_entropy": 6.9487,
+          "institution_entropy": 5.87,
+          "topic_entropy": 3.7405,
+          "institution_diversity": 0.9804,
+          "topic_diversity": 0.8989
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 120,
+          "unique_institutions": 70,
+          "unique_topics": 10,
+          "author_entropy": 6.8337,
+          "institution_entropy": 5.9812,
+          "topic_entropy": 2.8541,
+          "institution_diversity": 0.9822,
+          "topic_diversity": 0.82
+        }
+      }
+    },
+    {
+      "query_id": "Q06",
+      "domain": "Health & Epidemiology",
+      "query_text": "cervical cancer screening and HPV vaccination coverage in Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 374,
+          "unique_institutions": 277,
+          "unique_topics": 17,
+          "author_entropy": 8.5068,
+          "institution_entropy": 8.0005,
+          "topic_entropy": 3.7097,
+          "institution_diversity": 0.9957,
+          "topic_diversity": 0.8978
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 149,
+          "unique_institutions": 105,
+          "unique_topics": 19,
+          "author_entropy": 7.1927,
+          "institution_entropy": 6.6002,
+          "topic_entropy": 4.0566,
+          "institution_diversity": 0.9885,
+          "topic_diversity": 0.9311
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 266,
+          "unique_institutions": 162,
+          "unique_topics": 13,
+          "author_entropy": 7.977,
+          "institution_entropy": 7.2138,
+          "topic_entropy": 3.4682,
+          "institution_diversity": 0.9926,
+          "topic_diversity": 0.8911
+        }
+      }
+    },
+    {
+      "query_id": "Q07",
+      "domain": "Agriculture & Food Security",
+      "query_text": "smallholder maize yield optimization and fertilizer adoption in Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 49,
+          "unique_institutions": 23,
+          "unique_topics": 17,
+          "author_entropy": 5.5574,
+          "institution_entropy": 4.2737,
+          "topic_entropy": 3.8817,
+          "institution_diversity": 0.9363,
+          "topic_diversity": 0.9222
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 56,
+          "unique_institutions": 35,
+          "unique_topics": 14,
+          "author_entropy": 5.6966,
+          "institution_entropy": 4.9646,
+          "topic_entropy": 3.3232,
+          "institution_diversity": 0.9638,
+          "topic_diversity": 0.8622
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 54,
+          "unique_institutions": 33,
+          "unique_topics": 10,
+          "author_entropy": 5.5457,
+          "institution_entropy": 4.827,
+          "topic_entropy": 2.8771,
+          "institution_diversity": 0.9589,
+          "topic_diversity": 0.8311
+        }
+      }
+    },
+    {
+      "query_id": "Q08",
+      "domain": "Agriculture & Food Security",
+      "query_text": "drought tolerant crop varieties and food security in arid and semi-arid Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 79,
+          "unique_institutions": 41,
+          "unique_topics": 15,
+          "author_entropy": 6.2504,
+          "institution_entropy": 5.1376,
+          "topic_entropy": 3.6281,
+          "institution_diversity": 0.9662,
+          "topic_diversity": 0.9044
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 56,
+          "unique_institutions": 35,
+          "unique_topics": 14,
+          "author_entropy": 5.7544,
+          "institution_entropy": 4.9647,
+          "topic_entropy": 3.2812,
+          "institution_diversity": 0.9635,
+          "topic_diversity": 0.8622
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 51,
+          "unique_institutions": 31,
+          "unique_topics": 11,
+          "author_entropy": 5.5073,
+          "institution_entropy": 4.596,
+          "topic_entropy": 2.8682,
+          "institution_diversity": 0.9429,
+          "topic_diversity": 0.8222
+        }
+      }
+    },
+    {
+      "query_id": "Q09",
+      "domain": "Agriculture & Food Security",
+      "query_text": "push pull technology for stemborer and striga control in Kenyan agriculture",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 109,
+          "unique_institutions": 88,
+          "unique_topics": 24,
+          "author_entropy": 6.7319,
+          "institution_entropy": 6.3806,
+          "topic_entropy": 4.4817,
+          "institution_diversity": 0.9871,
+          "topic_diversity": 0.9511
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 46,
+          "unique_institutions": 21,
+          "unique_topics": 20,
+          "author_entropy": 5.4353,
+          "institution_entropy": 4.2359,
+          "topic_entropy": 4.0947,
+          "institution_diversity": 0.9388,
+          "topic_diversity": 0.9289
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 36,
+          "unique_institutions": 29,
+          "unique_topics": 12,
+          "author_entropy": 4.9791,
+          "institution_entropy": 4.5931,
+          "topic_entropy": 3.0826,
+          "institution_diversity": 0.9497,
+          "topic_diversity": 0.8356
+        }
+      }
+    },
+    {
+      "query_id": "Q10",
+      "domain": "Agriculture & Food Security",
+      "query_text": "impact of farmer field schools on agricultural technology adoption Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 57,
+          "unique_institutions": 37,
+          "unique_topics": 21,
+          "author_entropy": 5.8235,
+          "institution_entropy": 5.1323,
+          "topic_entropy": 4.1614,
+          "institution_diversity": 0.9698,
+          "topic_diversity": 0.9311
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 40,
+          "unique_institutions": 26,
+          "unique_topics": 12,
+          "author_entropy": 5.2361,
+          "institution_entropy": 4.4903,
+          "topic_entropy": 3.0289,
+          "institution_diversity": 0.9453,
+          "topic_diversity": 0.8289
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 36,
+          "unique_institutions": 24,
+          "unique_topics": 9,
+          "author_entropy": 4.8554,
+          "institution_entropy": 4.27,
+          "topic_entropy": 2.7623,
+          "institution_diversity": 0.9307,
+          "topic_diversity": 0.8156
+        }
+      }
+    },
+    {
+      "query_id": "Q11",
+      "domain": "Agriculture & Food Security",
+      "query_text": "smallholder dairy value chain milk production and cooperative marketing Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 62,
+          "unique_institutions": 19,
+          "unique_topics": 22,
+          "author_entropy": 5.9301,
+          "institution_entropy": 4.056,
+          "topic_entropy": 4.3518,
+          "institution_diversity": 0.929,
+          "topic_diversity": 0.9464
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 99,
+          "unique_institutions": 51,
+          "unique_topics": 20,
+          "author_entropy": 6.5708,
+          "institution_entropy": 5.4731,
+          "topic_entropy": 4.0314,
+          "institution_diversity": 0.9723,
+          "topic_diversity": 0.92
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 67,
+          "unique_institutions": 35,
+          "unique_topics": 15,
+          "author_entropy": 5.9615,
+          "institution_entropy": 4.8823,
+          "topic_entropy": 3.4226,
+          "institution_diversity": 0.9588,
+          "topic_diversity": 0.8644
+        }
+      }
+    },
+    {
+      "query_id": "Q12",
+      "domain": "Agriculture & Food Security",
+      "query_text": "post harvest loss reduction and grain storage hermetic bags Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 134,
+          "unique_institutions": 107,
+          "unique_topics": 26,
+          "author_entropy": 7.0581,
+          "institution_entropy": 6.6824,
+          "topic_entropy": 4.6511,
+          "institution_diversity": 0.9898,
+          "topic_diversity": 0.9584
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 55,
+          "unique_institutions": 35,
+          "unique_topics": 18,
+          "author_entropy": 5.7216,
+          "institution_entropy": 4.9961,
+          "topic_entropy": 3.8925,
+          "institution_diversity": 0.965,
+          "topic_diversity": 0.918
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 50,
+          "unique_institutions": 33,
+          "unique_topics": 9,
+          "author_entropy": 5.4334,
+          "institution_entropy": 4.7961,
+          "topic_entropy": 2.8444,
+          "institution_diversity": 0.9561,
+          "topic_diversity": 0.8356
+        }
+      }
+    },
+    {
+      "query_id": "Q13",
+      "domain": "Agriculture & Food Security",
+      "query_text": "horticultural exports food safety standards and smallholder contract farming Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 75,
+          "unique_institutions": 58,
+          "unique_topics": 20,
+          "author_entropy": 6.2148,
+          "institution_entropy": 5.7345,
+          "topic_entropy": 4.1232,
+          "institution_diversity": 0.9784,
+          "topic_diversity": 0.9333
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 64,
+          "unique_institutions": 48,
+          "unique_topics": 21,
+          "author_entropy": 5.9587,
+          "institution_entropy": 5.4688,
+          "topic_entropy": 4.2373,
+          "institution_diversity": 0.9745,
+          "topic_diversity": 0.9394
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 65,
+          "unique_institutions": 36,
+          "unique_topics": 14,
+          "author_entropy": 5.8886,
+          "institution_entropy": 4.9308,
+          "topic_entropy": 3.3723,
+          "institution_diversity": 0.9602,
+          "topic_diversity": 0.8644
+        }
+      }
+    },
+    {
+      "query_id": "Q14",
+      "domain": "Economics, FinTech & Business",
+      "query_text": "mobile money M-Pesa adoption and household financial resilience Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 49,
+          "unique_institutions": 36,
+          "unique_topics": 13,
+          "author_entropy": 5.5131,
+          "institution_entropy": 5.0167,
+          "topic_entropy": 3.2682,
+          "institution_diversity": 0.9627,
+          "topic_diversity": 0.8667
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 55,
+          "unique_institutions": 38,
+          "unique_topics": 13,
+          "author_entropy": 5.7276,
+          "institution_entropy": 5.1395,
+          "topic_entropy": 3.3362,
+          "institution_diversity": 0.9688,
+          "topic_diversity": 0.88
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 48,
+          "unique_institutions": 29,
+          "unique_topics": 10,
+          "author_entropy": 5.4405,
+          "institution_entropy": 4.6385,
+          "topic_entropy": 2.8859,
+          "institution_diversity": 0.9519,
+          "topic_diversity": 0.8356
+        }
+      }
+    },
+    {
+      "query_id": "Q15",
+      "domain": "Economics, FinTech & Business",
+      "query_text": "digital credit mobile lending apps and informal sector borrowing Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 83,
+          "unique_institutions": 67,
+          "unique_topics": 24,
+          "author_entropy": 6.3477,
+          "institution_entropy": 5.9748,
+          "topic_entropy": 4.4566,
+          "institution_diversity": 0.9823,
+          "topic_diversity": 0.9489
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 53,
+          "unique_institutions": 41,
+          "unique_topics": 17,
+          "author_entropy": 5.6793,
+          "institution_entropy": 5.2776,
+          "topic_entropy": 3.6649,
+          "institution_diversity": 0.9722,
+          "topic_diversity": 0.8911
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 38,
+          "unique_institutions": 22,
+          "unique_topics": 10,
+          "author_entropy": 5.1586,
+          "institution_entropy": 4.2622,
+          "topic_entropy": 2.7723,
+          "institution_diversity": 0.9375,
+          "topic_diversity": 0.8089
+        }
+      }
+    },
+    {
+      "query_id": "Q16",
+      "domain": "Economics, FinTech & Business",
+      "query_text": "micro and small enterprise growth informal sector constraints Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 158,
+          "unique_institutions": 101,
+          "unique_topics": 22,
+          "author_entropy": 7.2733,
+          "institution_entropy": 6.5478,
+          "topic_entropy": 4.2817,
+          "institution_diversity": 0.9879,
+          "topic_diversity": 0.94
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 50,
+          "unique_institutions": 43,
+          "unique_topics": 15,
+          "author_entropy": 5.6439,
+          "institution_entropy": 5.3439,
+          "topic_entropy": 3.5144,
+          "institution_diversity": 0.9735,
+          "topic_diversity": 0.8867
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 65,
+          "unique_institutions": 40,
+          "unique_topics": 12,
+          "author_entropy": 5.9756,
+          "institution_entropy": 5.1445,
+          "topic_entropy": 3.0411,
+          "institution_diversity": 0.9668,
+          "topic_diversity": 0.8311
+        }
+      }
+    },
+    {
+      "query_id": "Q17",
+      "domain": "Economics, FinTech & Business",
+      "query_text": "unconditional cash transfers and poverty alleviation in rural Kenyan households",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 65,
+          "unique_institutions": 43,
+          "unique_topics": 16,
+          "author_entropy": 5.9816,
+          "institution_entropy": 5.3195,
+          "topic_entropy": 3.7229,
+          "institution_diversity": 0.9719,
+          "topic_diversity": 0.9082
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 41,
+          "unique_institutions": 27,
+          "unique_topics": 14,
+          "author_entropy": 5.3231,
+          "institution_entropy": 4.6169,
+          "topic_entropy": 3.3811,
+          "institution_diversity": 0.9533,
+          "topic_diversity": 0.8778
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 37,
+          "unique_institutions": 24,
+          "unique_topics": 9,
+          "author_entropy": 5.0103,
+          "institution_entropy": 4.3544,
+          "topic_entropy": 2.7561,
+          "institution_diversity": 0.9404,
+          "topic_diversity": 0.8267
+        }
+      }
+    },
+    {
+      "query_id": "Q18",
+      "domain": "Economics, FinTech & Business",
+      "query_text": "financial inclusion gender disparities and women entrepreneurship Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 47,
+          "unique_institutions": 38,
+          "unique_topics": 16,
+          "author_entropy": 5.5331,
+          "institution_entropy": 5.1695,
+          "topic_entropy": 3.5199,
+          "institution_diversity": 0.97,
+          "topic_diversity": 0.8756
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 53,
+          "unique_institutions": 42,
+          "unique_topics": 16,
+          "author_entropy": 5.7086,
+          "institution_entropy": 5.3136,
+          "topic_entropy": 3.6532,
+          "institution_diversity": 0.9729,
+          "topic_diversity": 0.9022
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 43,
+          "unique_institutions": 24,
+          "unique_topics": 10,
+          "author_entropy": 5.3609,
+          "institution_entropy": 4.4004,
+          "topic_entropy": 2.9097,
+          "institution_diversity": 0.9453,
+          "topic_diversity": 0.8356
+        }
+      }
+    },
+    {
+      "query_id": "Q19",
+      "domain": "Economics, FinTech & Business",
+      "query_text": "youth unemployment technical vocational training and job creation in Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 119,
+          "unique_institutions": 76,
+          "unique_topics": 28,
+          "author_entropy": 6.8948,
+          "institution_entropy": 6.2064,
+          "topic_entropy": 4.7736,
+          "institution_diversity": 0.9859,
+          "topic_diversity": 0.9622
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 43,
+          "unique_institutions": 25,
+          "unique_topics": 18,
+          "author_entropy": 5.414,
+          "institution_entropy": 4.5427,
+          "topic_entropy": 3.8947,
+          "institution_diversity": 0.9532,
+          "topic_diversity": 0.9178
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 35,
+          "unique_institutions": 28,
+          "unique_topics": 10,
+          "author_entropy": 4.9977,
+          "institution_entropy": 4.6721,
+          "topic_entropy": 2.9493,
+          "institution_diversity": 0.9551,
+          "topic_diversity": 0.8444
+        }
+      }
+    },
+    {
+      "query_id": "Q20",
+      "domain": "Climate, Ecology & Water",
+      "query_text": "climate change impacts on rainfall patterns and drought frequency in East Africa",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 59,
+          "unique_institutions": 45,
+          "unique_topics": 15,
+          "author_entropy": 5.8574,
+          "institution_entropy": 5.4118,
+          "topic_entropy": 3.6062,
+          "institution_diversity": 0.9747,
+          "topic_diversity": 0.9
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 75,
+          "unique_institutions": 52,
+          "unique_topics": 15,
+          "author_entropy": 6.2216,
+          "institution_entropy": 5.651,
+          "topic_entropy": 3.443,
+          "institution_diversity": 0.979,
+          "topic_diversity": 0.8756
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 49,
+          "unique_institutions": 41,
+          "unique_topics": 9,
+          "author_entropy": 5.5268,
+          "institution_entropy": 5.2145,
+          "topic_entropy": 2.6942,
+          "institution_diversity": 0.9679,
+          "topic_diversity": 0.8022
+        }
+      }
+    },
+    {
+      "query_id": "Q21",
+      "domain": "Climate, Ecology & Water",
+      "query_text": "pastoralist climate adaptation and rangeland degradation in Northern Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 161,
+          "unique_institutions": 147,
+          "unique_topics": 21,
+          "author_entropy": 7.3275,
+          "institution_entropy": 7.1519,
+          "topic_entropy": 4.0947,
+          "institution_diversity": 0.9925,
+          "topic_diversity": 0.9244
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 45,
+          "unique_institutions": 21,
+          "unique_topics": 13,
+          "author_entropy": 5.436,
+          "institution_entropy": 3.8742,
+          "topic_entropy": 3.2532,
+          "institution_diversity": 0.8799,
+          "topic_diversity": 0.8622
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 63,
+          "unique_institutions": 31,
+          "unique_topics": 11,
+          "author_entropy": 5.9354,
+          "institution_entropy": 4.5838,
+          "topic_entropy": 2.9927,
+          "institution_diversity": 0.9349,
+          "topic_diversity": 0.8444
+        }
+      }
+    },
+    {
+      "query_id": "Q22",
+      "domain": "Climate, Ecology & Water",
+      "query_text": "deforestation hydrological impact and water tower conservation Mau Forest Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 191,
+          "unique_institutions": 118,
+          "unique_topics": 19,
+          "author_entropy": 7.4571,
+          "institution_entropy": 6.7413,
+          "topic_entropy": 4.0029,
+          "institution_diversity": 0.9896,
+          "topic_diversity": 0.9244
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 75,
+          "unique_institutions": 47,
+          "unique_topics": 23,
+          "author_entropy": 6.2148,
+          "institution_entropy": 5.4118,
+          "topic_entropy": 4.3899,
+          "institution_diversity": 0.9726,
+          "topic_diversity": 0.9467
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 185,
+          "unique_institutions": 108,
+          "unique_topics": 21,
+          "author_entropy": 7.4959,
+          "institution_entropy": 6.6305,
+          "topic_entropy": 4.1899,
+          "institution_diversity": 0.9884,
+          "topic_diversity": 0.9356
+        }
+      }
+    },
+    {
+      "query_id": "Q23",
+      "domain": "Climate, Ecology & Water",
+      "query_text": "Lake Victoria water quality eutrophication and water hyacinth infestation Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 84,
+          "unique_institutions": 58,
+          "unique_topics": 19,
+          "author_entropy": 6.3383,
+          "institution_entropy": 5.7623,
+          "topic_entropy": 4.0391,
+          "institution_diversity": 0.98,
+          "topic_diversity": 0.9286
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 71,
+          "unique_institutions": 35,
+          "unique_topics": 27,
+          "author_entropy": 6.1421,
+          "institution_entropy": 5.0465,
+          "topic_entropy": 4.72,
+          "institution_diversity": 0.9673,
+          "topic_diversity": 0.9608
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 77,
+          "unique_institutions": 38,
+          "unique_topics": 22,
+          "author_entropy": 6.2009,
+          "institution_entropy": 5.0917,
+          "topic_entropy": 4.3736,
+          "institution_diversity": 0.9656,
+          "topic_diversity": 0.9489
+        }
+      }
+    },
+    {
+      "query_id": "Q24",
+      "domain": "Climate, Ecology & Water",
+      "query_text": "coastal mangrove conservation carbon sequestration and community management Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 147,
+          "unique_institutions": 103,
+          "unique_topics": 17,
+          "author_entropy": 7.1888,
+          "institution_entropy": 6.5872,
+          "topic_entropy": 3.8696,
+          "institution_diversity": 0.9883,
+          "topic_diversity": 0.92
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 80,
+          "unique_institutions": 62,
+          "unique_topics": 20,
+          "author_entropy": 6.2604,
+          "institution_entropy": 5.824,
+          "topic_entropy": 4.0981,
+          "institution_diversity": 0.9796,
+          "topic_diversity": 0.9311
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 143,
+          "unique_institutions": 95,
+          "unique_topics": 16,
+          "author_entropy": 7.1204,
+          "institution_entropy": 6.4581,
+          "topic_entropy": 3.7777,
+          "institution_diversity": 0.9871,
+          "topic_diversity": 0.9156
+        }
+      }
+    },
+    {
+      "query_id": "Q25",
+      "domain": "Climate, Ecology & Water",
+      "query_text": "renewable energy solar microgrids and rural electrification in Kenya",
+      "systems": {
+        "system_a": {
+          "top_k_papers": 10,
+          "unique_authors": 184,
+          "unique_institutions": 123,
+          "unique_topics": 25,
+          "author_entropy": 7.5206,
+          "institution_entropy": 6.887,
+          "topic_entropy": 4.5484,
+          "institution_diversity": 0.991,
+          "topic_diversity": 0.9533
+        },
+        "system_b": {
+          "top_k_papers": 10,
+          "unique_authors": 65,
+          "unique_institutions": 35,
+          "unique_topics": 15,
+          "author_entropy": 5.9864,
+          "institution_entropy": 4.9854,
+          "topic_entropy": 3.5526,
+          "institution_diversity": 0.9641,
+          "topic_diversity": 0.8933
+        },
+        "system_c": {
+          "top_k_papers": 10,
+          "unique_authors": 61,
+          "unique_institutions": 39,
+          "unique_topics": 13,
+          "author_entropy": 5.7903,
+          "institution_entropy": 5.1025,
+          "topic_entropy": 3.2226,
+          "institution_diversity": 0.9667,
+          "topic_diversity": 0.8533
+        }
+      }
+    }
+  ]
+}
